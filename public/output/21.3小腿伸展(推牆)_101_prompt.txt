@@ -1,0 +1,38 @@
+生成一個專業醫療教育風格的復健動作說明圖（Infographic），清晰易懂，線條簡潔，圖示化。色彩對比鮮明，主色調為藍色、綠色和白色，輔以紅色標示錯誤處。適合印刷和數位顯示。所有文字標註使用繁體中文，無拼寫錯誤，字體清晰易讀。
+
+圖片中央上方：斗大標題『弓箭步小腿伸展 (Runner's Stretch / Calf Stretch)』。副標題：『目標：放鬆腓腸肌，緩解足底筋膜緊繃』。
+
+左側主區塊標題：『正確動作示範』。
+1.  **所需器材：** 區塊上方簡潔圖示一個牆壁，並標註文字：『牆壁』。
+2.  **起始姿勢：** 描繪一名站立人物（中性體型，穿著運動服），面朝牆壁，雙手掌平推牆壁，與肩同寬，手肘微彎。人物呈弓箭步，患腳（假設為右腳）在後，腳尖向前，腳跟穩穩踩在地面上，膝蓋打直但不鎖死。前腳（左腳）膝蓋彎曲，腳尖向前。背部挺直，骨盆保持中立位。圖中包含文字標註：『起始姿勢：雙手推牆，弓箭步，患腳在後伸直，腳跟踩死地板。』
+3.  **動作步驟：** 在起始姿勢人物的基礎上，使用綠色實線箭頭標示前膝蓋進一步彎曲的方向，以及身體重心緩慢前移的方向。後腳的腳跟仍需保持緊踩地面不離地，後腳膝蓋保持伸直。圖中包含文字標註：『動作步驟：前膝彎曲，身體重心前移。』
+4.  **感受與停留：** 使用淺綠色半透明區域或綠色虛線輪廓，清楚標示出後側小腿肚（腓腸肌）上方有明顯的拉伸感。圖中包含文字標註：『感覺小腿肚上方緊繃，維持15-30秒。』並使用一個綠色計時器圖示。
+
+右側主區塊標題：『常見錯誤與修正』。
+1.  **錯誤示範：** 在與正確動作示範平行的位置，描繪相同人物姿勢。人物的後腳（患腳，右腳）膝蓋明顯彎曲。此彎曲的膝蓋應用紅色圈圈或紅色粗線條特別標註。
+2.  **錯誤標註：** 使用粗體紅色文字明確標註：『錯誤示範：患側膝蓋彎曲』。在彎曲的後膝蓋處放置一個紅色的叉號圖示。
+3.  **錯誤解釋：** 圖中下方文字說明：『錯誤分析：患側膝蓋彎曲會使腓腸肌伸展不足，無法達到預期的放鬆效果。』
+4.  **正確提醒：** 圖中下方文字說明：『正確：應保持患側膝蓋伸直，感受完整拉伸。』並搭配一個簡潔的綠色勾號圖示。
+
+整體背景簡潔，白色或淺灰色，避免分散注意力。所有圖示和人物姿勢應符合醫學標準，解剖學上準確，但風格簡化以增加易懂性。各區塊之間有明確分隔線或足夠留白。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

@@ -1,0 +1,76 @@
+生成一張專業醫療教育風格的頸部活動度訓練資訊圖表 (infographic)，整體清晰易懂，色彩對比明顯，適合印刷與數位顯示，所有文字均使用繁體中文，無拼寫錯誤。
+
+**圖表結構要求：**
+
+1.  **頂部標題區塊：**
+    *   主標題 (大字體)：**頸部活動度訓練 (Neck Rotation)**
+    *   副標題 (中等字體)：目標：在無痛範圍內恢復頸椎左右旋轉的活動角度。
+
+2.  **主內容區塊：**
+    *   清晰地分為左右兩列，左列為「正確動作示範」，右列為「常見錯誤動作與提示」。
+    *   使用簡潔的圖示（例如綠色打勾✓表示正確，紅色打叉✗表示錯誤）來標示每一部分的性質。
+
+3.  **人物與場景：**
+    *   描繪一位中性成人模特，穿著簡潔運動服飾，以清晰的肢體語言示範動作。
+    *   人物應坐姿，端坐在穩固的椅子上，雙手自然置於大腿上。
+    *   背景簡潔，不分散注意力，可暗示為物理治療室或居家環境。
+
+4.  **正確動作示範 (左列)：**
+    *   **起始位置圖 (佔一獨立小區塊)：**
+        *   圖示人物：坐好坐滿，背部挺直但放鬆，雙手自然置於大腿上，肩膀下沉並放鬆。臉部朝向正前方。
+        *   文字標註：「**起始位置：** 坐好坐滿，雙手置於大腿上，肩膀放鬆(下沉的感覺)。」
+    *   **動作分解圖（依序三個圖）：**
+        *   **圖1：向右旋轉**
+            *   圖示人物：頭部緩慢且平穩地向右側轉動，眼睛也隨之看向右側。頸部應展現輕微的伸展感。
+            *   使用白色或淺色實線箭頭標示頭部向右旋轉的方向。
+            *   文字標註：「**動作1：向右轉** - 慢慢將頭轉向右側，直到感覺到緊繃或輕微疼痛即停止。尋找『有點緊痛痠，但是完全可以忍受』的邊界。」
+        *   **圖2：停留與回中**
+            *   圖示人物：頭部保持在右側旋轉的極限位置，短暫停留1-2秒，然後緩慢平穩地回到正中間。
+            *   使用白色或淺色實線箭頭標示回中方向。
+            *   文字標註：「**動作2：停留與回中** - 在該角度停留1-2秒，然後緩慢回到正中間。動作像慢動作重播一樣平穩均速。」
+        *   **圖3：向左旋轉**
+            *   圖示人物：重複動作1和2，但方向改為向左側轉動。
+            *   使用白色或淺色實線箭頭標示頭部向左旋轉的方向。
+            *   文字標註：「**動作3：向左轉** - 換邊進行，轉向左側。比較兩側差異，較緊的一側可多做幾次，但不可硬轉。」
+
+5.  **常見錯誤動作與提示 (右列，與左列的動作分解圖對應)：**
+    *   **錯誤1：用力甩頭**
+        *   圖示人物：頭部快速且劇烈地向右甩動，面部表情可略顯僵硬或不適。
+        *   使用紅色或深色虛線箭頭標示錯誤的快速甩動方向。
+        *   文字標註：「**錯誤1：利用慣性用力甩頭。** (危險！請避免突然的動作)」
+    *   **錯誤2：速度不均**
+        *   圖示人物：頭部轉動過程中速度不均，可表現為在某個點停頓或突然加速。
+        *   使用紅色或深色波浪線箭頭標示不穩定的轉動速度。
+        *   文字標註：「**錯誤2：轉動速度忽快忽慢。** (應保持平穩均速)」
+    *   **錯誤3：身體跟轉**
+        *   圖示人物：在向左轉頭時，肩膀或整個上半身也明顯跟著向左轉動，而不是只有頸部轉動。
+        *   使用紅色或深色箭頭同時標示頭部和身體錯誤的轉動方向。
+        *   文字標註：「**錯誤3：身體跟著頭一起轉動。** (應保持身體穩定，僅頭部轉動)」
+
+6.  **視覺與圖示要求：**
+    *   使用簡潔、清晰的線條與形狀勾勒人物和箭頭。
+    *   箭頭應明確指示動作方向、速度或錯誤模式（例如實線代表正確平穩，虛線代表快速，波浪線代表不穩）。
+    *   正確動作區塊可使用藍色、綠色等冷色調為主要輔助色，錯誤動作區塊使用紅色、橙色等暖色調為主要輔助色，形成強烈對比。
+    *   所有文字標註清晰易讀，字體大小適中，排版整齊。
+    *   整體資訊圖表應給人專業、嚴謹而又易於理解的印象。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

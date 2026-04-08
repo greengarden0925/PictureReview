@@ -1,0 +1,83 @@
+A professional, clean, and clear medical education infographic for the rehabilitation exercise "背後毛巾伸展 (InternalRotationTowelStretch)". The infographic should feature a gender-neutral, anatomically correct human figure (or simplified human outline for clarity) demonstrating the exercise. Use a high-contrast color palette suitable for both print and digital display, with a clean white or light grey background. All text labels must be in Traditional Chinese, grammatically correct, and free of spelling errors, using a legible sans-serif font.
+
+**Infographic Structure:**
+
+1.  **Title Section:**
+    *   Large, prominent title: **「背後毛巾伸展 (InternalRotationTowelStretch)」**
+    *   Subtitle below the title: **「改善肩關節最困難恢復的內旋動作（如扣內衣、摸背）」**
+    *   Include a small, clean icon representing a shoulder joint next to the title.
+
+2.  **Equipment Section:**
+    *   A clear illustration of a long towel (或皮帶).
+    *   Text label: **「工具：長毛巾或皮帶」**
+
+3.  **Starting Position Section (正確姿勢):**
+    *   **Image:** A human figure shown in a standing posture (back slightly visible for clarity), holding a long towel.
+        *   The "好手" (unaffected hand, clearly marked or distinctively colored) is holding one end of the towel above the shoulder.
+        *   The "患手" (affected hand, clearly marked or distinctively colored) is holding the other end of the towel behind the back, near the lower back or buttocks area.
+        *   The figure maintains a straight, upright posture, without hunching.
+    *   **Text Label:** **「起始位置：站姿或坐姿，好手在上抓毛巾一端，患手在下（背後）抓毛巾另一端。」**
+
+4.  **Correct Action Steps Section (分三格或三張連續圖顯示動作流程):**
+
+    *   **步驟一：拉動**
+        *   **Image:** The figure from the starting position. The "好手" is actively pulling the towel upwards. A clear, solid upward arrow indicates the direction of movement for the towel and the "患手" along the spine.
+        *   **Posture:** Maintain a straight back; the "患手" remains passive, simply gripping the towel.
+        *   **Text Labels:**
+            *   **「步驟一：上方的好手出力，慢慢將毛巾向上拉，帶動下方的患手沿著脊椎向上移動。」**
+            *   **「要點：患手是被動被拉上去的，只要負責抓緊毛巾即可。」**
+
+    *   **步驟二：停留**
+        *   **Image:** The figure with the "患手" pulled higher up the back, along the spine, reaching the peak of the stretch.
+        *   **Posture:** The body remains upright; emphasize **「保持挺胸，不要駝背」**.
+        *   **Text Labels:**
+            *   **「步驟二：拉到患側肩膀感覺緊繃微痛的高度，停留10-20秒。」**
+            *   **「要點：保持挺胸，不要駝背。」**
+            *   Include a small, simple clock icon next to the time duration.
+
+    *   **步驟三：放鬆**
+        *   **Image:** The figure showing the "好手" gradually releasing the tension, allowing the towel and "患手" to slowly slide back down. A clear, solid downward arrow indicates this controlled descent.
+        *   **Posture:** The body maintains an upright posture.
+        *   **Text Label:** **「步驟三：好手慢慢放鬆，讓患手滑下來。」**
+
+5.  **常見錯誤 Section (兩格對比圖，明確標示錯誤):**
+
+    *   **錯誤一：肩前傾或彎曲脊椎**
+        *   **Image:** A human figure demonstrating incorrect posture:
+            *   The shoulder of the "患手" is noticeably protracted (肩前傾).
+            *   The figure's spine is visibly hunched or bent (彎曲脊椎曲線) as a compensatory movement.
+            *   A clear red 'X' icon should be placed over the figure or specifically highlighting the incorrect posture.
+        *   **Text Label:** **「錯誤示範：肩前傾以減少拉扯感（代償）或因痛而彎曲脊椎曲線。」**
+
+    *   **錯誤二：過度拉扯**
+        *   **Image:** A human figure showing the "患手" being pulled excessively high, beyond a safe range, with subtle visual cues indicating pain or extreme discomfort (e.g., a slight grimace on the face, or tension lines around the shoulder).
+        *   A clear red 'X' icon should be placed over the figure.
+        *   **Text Label:** **「錯誤示範：硬拉導致劇烈撕裂痛。」**
+
+**Overall Design Considerations:**
+*   Use simple, clear line art for all illustrations.
+*   Color coding for "好手" and "患手" should be consistent throughout the infographic.
+*   Arrows should be bold and easily distinguishable.
+*   The layout should be clean and easy to follow, guiding the viewer from top to bottom, left to right.
+*   Ensure ample white space for readability.
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

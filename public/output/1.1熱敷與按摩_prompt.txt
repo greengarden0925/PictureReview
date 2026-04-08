@@ -1,0 +1,86 @@
+Generate a detailed medical infographic for rehabilitation.
+
+**Overall Style:** Professional medical education, clean, minimalist, high legibility. Suitable for both print and digital display with clear color contrast. All text annotations in Traditional Chinese (繁體中文), perfectly spelled. Ensure all human figures are anatomically accurate and represent a neutral, diverse patient.
+
+**Infographic Layout:**
+The infographic should be clearly divided into a header section and two main exercise sections. Each exercise section will feature a "正確動作" (Correct Action) panel and a "錯誤動作" (Incorrect Action) panel side-by-side for direct comparison.
+
+---
+
+**Header Section:**
+
+*   **Main Title:** "落枕復健指南：頸部熱敷與輕柔按摩" (Prominently displayed at the top)
+*   **Condition:** "適用病症：落枕 (Acute Stiff Neck)"
+*   **Exercise Goal:** "目標：增加血液循環，軟化僵硬肌肉，降低疼痛感，促進後續活動。"
+*   **Equipment List:** "所需設備：熱敷墊（或熱毛巾）、舒適的椅子或床。" (Illustrated with simple, clear icons for each item)
+
+---
+
+**Section 1: 熱敷 (Heat Application)**
+
+*   **Section Title:** "步驟一：頸部熱敷" (Clearly above this section)
+
+    *   **Left Panel: 正確動作 (Correct Action)**
+        *   **Icon:** A prominent green checkmark (✓).
+        *   **Image:** A person in a comfortable, relaxed sitting position (e.g., on a chair with good back support) or lying face down on a bed. A rectangular heat pack (or neatly folded hot towel) is carefully placed on the back of their neck, covering the stiff and painful area. The person's expression is calm and comfortable.
+        *   **Visual Element:** A small, transparent digital timer icon showing "15-30 min" near the heat pack. Gentle, subtle steam lines emanating from the heat pack to indicate warmth, but not excessive heat.
+        *   **Text Label:** "熱敷：15-30分鐘" (Below the image)
+        *   **Annotation:** "✓ 溫度溫熱舒適，不宜過高，避免燙傷。" (Next to the image or below the label)
+
+    *   **Right Panel: 錯誤動作 (Incorrect Action)**
+        *   **Icon:** A prominent red 'X'.
+        *   **Image:** The same person from the '正確動作' panel, now depicted with their eyes closed, appearing to be deeply asleep or unconscious, with the heat pack still on their neck. The heat pack should subtly emit more intense, perhaps reddish-orange, heat lines or steam to visually imply overheating/danger.
+        *   **Text Label:** "錯誤動作：敷著睡著" (Below the image)
+        *   **Annotation:** "X 絕對避免敷著睡著，以免造成低溫燙傷！" (Next to the image or below the label)
+
+---
+
+**Section 2: 輕柔按摩 (Gentle Massage)**
+
+*   **Section Title:** "步驟二：輕柔按摩" (Clearly above this section, indicating it follows the heat application)
+*   **Starting Position:** The person should be in a comfortable seated position, similar to or the same as the heat application, allowing easy access to the neck.
+
+    *   **Left Panel: 正確動作 (Correct Action)**
+        *   **Icon:** A prominent green checkmark (✓).
+        *   **Image:** A person using the pads of their fingers (specifically thumbs or index/middle fingers) to gently press and slide along the muscles on the side or back of their neck. Focus on illustrating the hand position and finger technique.
+        *   **Visual Elements:** Use clear, concise blue directional arrows to indicate the appropriate massage movements:
+            1.  Several blue arrows pointing upwards and downwards, parallel to the visible muscle fibers (e.g., along the sternocleidomastoid or upper trapezius).
+            2.  Several blue arrows indicating gentle perpendicular pressure or small circular movements across the muscle fibers, emphasizing "平行肌肉紋理上下滑動" 和 "垂直推壓按摩".
+            The person's facial expression should be relaxed and focused, indicating gentle relief, not pain.
+        *   **Text Label:** "輕柔按摩：沿肌肉走向" (Below the image)
+        *   **Annotation:** "✓ 用指腹「適度力道」，沿著頸部肌肉紋理，平行或垂直推壓按摩緊繃的肌肉條索。" (Next to the image or below the label)
+
+    *   **Right Panel: 錯誤動作 (Incorrect Action)**
+        *   **Icon:** A prominent red 'X'.
+        *   **Image:** This panel should clearly show two distinct incorrect scenarios:
+            1.  **Concentrated Pressure:** A hand pressing with excessive force or poking intensely into a *single, small, localized "pain point"* on the neck, with the person wincing or showing clear discomfort. A small red circle or crosshair might highlight the inappropriate single point of focus.
+            2.  **Massage Gun Use:** A person holding a handheld massage gun, attempting to use it directly on the neck or upper shoulder area. A large, prominent red 'X' should be superimposed over the massage gun or the action itself, clearly indicating prohibition.
+        *   **Text Label:** "錯誤動作：力道過猛或單點刺激" (Below the image)
+        *   **Annotation:** "X 勿集中按壓痛點，或單點過度施力。
+            X 絕對不可使用按摩槍直接處理落枕部位！" (Next to the image or below the label)
+
+---
+
+**Color Scheme & Aesthetics:**
+Use a clean, professional medical aesthetic. Predominantly use cool, calming tones (e.g., light blue, teal, white, light grey) for the background and correct actions. Use distinct, contrasting colors for warnings and incorrect actions (e.g., a clear, bright red for 'X' icons and highlighting dangers). Ensure excellent contrast for all text to be readable. Maintain a minimalist design for icons and arrows to prevent clutter.
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

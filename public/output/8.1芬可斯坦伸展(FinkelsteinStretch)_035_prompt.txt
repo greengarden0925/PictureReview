@@ -1,0 +1,80 @@
+Generate a detailed medical education infographic for rehabilitation.
+**Overall Style:** Professional, clean, and modern, suitable for print and digital display. Use crisp vector-style illustrations. High-contrast colors are essential, with clear distinction between correct (using green/blue accents and checkmarks) and incorrect (using red/orange accents and 'X' marks) elements. Ensure strong visual hierarchy and clear negative space for readability. All textual annotations must be in Traditional Chinese, clear, legible, and free of spelling errors.
+
+**Layout:** The infographic should be vertically oriented, divided into distinct, easily scannable sections for clear instruction.
+
+**Title Section:**
+*   **Prominent Main Title:** 『媽媽手復健：芬可斯坦伸展 (Finkelstein Test/Stretch)』
+*   **Subtitle/Goal:** 『伸拇短肌與外展拇長肌放鬆，專為狹窄性肌腱滑膜炎（媽媽手）設計的肌腱伸展』
+
+**Introduction Section:**
+*   A brief, concise paragraph explaining the purpose of the exercise: 『此伸展專門針對媽媽手（狹窄性肌腱滑膜炎）的肌腱進行伸展，有助於緩解疼痛與促進恢復。』
+
+**Equipment Section:**
+*   Clearly labeled section: 『所需器材：無』，配以一個簡單的「無設備」圖示。
+
+**Exercise Steps Section (Core Content):**
+This section will be presented as a series of steps, with each step illustrating both the correct and incorrect execution side-by-side for direct comparison. Each illustration should feature a neutral, gender-ambiguous human figure or just the relevant body part (forearm and hand) for clarity. Poses must be medically accurate. Use concise icons and arrows to denote movement direction (e.g., green arrows for correct movement, red arrows for incorrect movement/stress areas).
+
+---
+
+**Step 1: 拇指包覆 (Thumb Enclosure)**
+
+*   **Left Panel (正確動作 - Correct Action):**
+    *   **Image:** Illustration of a forearm and hand, with the arm extended forward. The hand is gently formed into a fist. The crucial detail is that the thumb is completely bent and tucked inside the palm, fully enveloped by the other four fingers.
+    *   **Text Label:** 『正確動作：四指握拳，將大拇指輕輕包覆在裡面。』
+    *   **Key Point Label:** 『要點：輕輕包住即可，確認大拇指完全在掌心內。』 (Green checkmark icon next to this)
+
+*   **Right Panel (錯誤動作 - Incorrect Action):**
+    *   **Image:** Illustration of a forearm and hand, showing a fist where the thumb is *not* fully tucked in; it is either sticking out, partially exposed, or resting on top of the other fingers.
+    *   **Text Label:** 『錯誤動作：大拇指露在外面。』
+    *   **Consequence Label:** 『這樣伸展不到患處，無法有效放鬆肌腱。』 (Red 'X' icon next to this)
+
+---
+
+**Step 2: 腕部尺偏 (Ulnar Deviation)**
+
+*   **Left Panel (正確動作 - Correct Action):**
+    *   **Image:** Continuation from the correct posture in Step 1 (thumb fully enclosed). The hand, with the fist still formed, is slowly and deliberately bending downwards towards the little finger side (ulnar deviation) at the wrist. The forearm remains stable, straight, and there is no rotation of the arm or shrugging of the shoulder. A clear green arrow indicates the precise direction of the wrist bend (downwards towards the little finger).
+    *   **Text Label:** 『正確動作：手腕緩慢向小指方向側壓（尺偏）。』
+    *   **Key Point Label:** 『要點：動作幅度極小就會很有感，感覺手腕拇指側有強烈拉扯感。』 (Green checkmark icon)
+
+*   **Right Panel (錯誤動作 - Incorrect Action):**
+    *   **Image:** Illustration of the hand in the fist position, but depicting incorrect movements. This could show:
+        *   The entire forearm rotating instead of just the wrist bending.
+        *   The shoulder shrugging upwards.
+        *   The elbow bending or moving excessively.
+    *   Red arrows indicating the rotational movement of the forearm or an upward movement of the shoulder. A red 'X' over the shoulder area.
+    *   **Text Label:** 『錯誤動作：手臂旋轉或肩膀聳起。』
+    *   **Consequence Label:** 『這些代償動作會影響伸展效果，甚至造成其他部位不適。』 (Red 'X' icon)
+
+---
+
+**Step 3: 維持與放鬆 (Hold and Release)**
+
+*   **Image:** Illustration of the hand and forearm holding the correct, fully stretched position from Step 2. A subtle timer icon (e.g., a clock or stopwatch) should be visible near the hand. The expression of the person (or just the body part) should convey a sense of gentle tension/stretch.
+*   **Text Label:** 『維持與放鬆：停留10-15秒，感覺肌肉微微放鬆後再放開。』
+*   **Additional Note (below the image):** 『重複此動作數次，根據復健師指示進行。』
+
+---
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

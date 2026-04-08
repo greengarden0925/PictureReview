@@ -1,0 +1,70 @@
+Generate a professional medical education infographic titled "【復健動作】坐站訓練 (Sit-to-Stand)". The style should be clean, modern, and easy to understand, utilizing clear line art and simplified human figures that accurately depict posture and movement. Use a bright, high-contrast color palette with distinct colors for figures, background, and textual elements, ensuring readability for both print and digital displays. All text annotations must be in bold Traditional Chinese, with no spelling errors.
+
+**Infographic Structure:**
+
+1.  **Header Section:**
+    *   **Title:** Prominently display "【復健動作】坐站訓練 (Sit-to-Stand)" in a large, clear font.
+    *   **Exercise Goal:** Below the title, add "強化下肢肌力" as a subtitle.
+    *   **Equipment:** Include a small icon representing a chair and the text: "設備：一張穩固的椅子".
+
+2.  **Main Body - Step-by-Step Correct Action (Vertical or horizontal flow, clearly numbered):**
+
+    *   **Panel 1: 起始位置 (Starting Position)**
+        *   **Visual:** A simplified human figure (neutral gender and age) sitting on the *front edge* of a stable, backless chair. Their feet are flat on the ground, shoulder-width apart, with knees bent at approximately 90 degrees. Their back is straight.
+        *   **Text Label:** "起始位置：坐在椅子前緣，雙腳平踩地面。"
+
+    *   **Panel 2: 預備站起 (Preparation to Stand)**
+        *   **Visual:** The same figure, still seated, has their upper body leaning slightly forward from the hips. Their hands are crossed over their chest (or placed lightly on their thighs, indicated as an alternative option). Arrows show the body tilting forward.
+        *   **Text Label:** "1. 雙手抱胸（或扶大腿），身體前傾。"
+
+    *   **Panel 3: 站起來 (Standing Up)**
+        *   **Visual:** The figure is actively pushing up from the chair. Their heels are firmly planted on the ground, and their body is moving upwards and slightly forwards. A clear upward arrow originating from the feet indicates the direction of force and movement.
+        *   **Text Label:** "2. 腳跟用力踩地站起來。"
+
+    *   **Panel 4: 完全站直 (Fully Standing)**
+        *   **Visual:** The figure is now fully standing upright in front of the chair. Their knees and hips are extended, and their back is straight.
+        *   **Text Label:** (Implicit in the flow, no specific text needed for this transition panel, or combined with previous if layout is tight)
+
+    *   **Panel 5: 緩慢坐下 (Sitting Down Slowly - Correct Action)**
+        *   **Visual:** The figure is slowly and controllably lowering themselves back onto the chair. A dashed downward arrow indicates slow, controlled movement. Their core should appear engaged, not collapsing. A green checkmark (✓) should be clearly associated with this action.
+        *   **Text Label:** "3. 慢慢坐下：站直後，再慢慢坐下。**（重點：過程必須保持控制）**"
+
+3.  **Contrast Section: 錯誤動作 (Incorrect Action)**
+
+    *   **Panel 6: 錯誤動作示範 (Incorrect Action Demonstration)**
+        *   **Visual:** This panel should be distinctly separate and visually highlight the incorrect way to sit. Depict the same figure *collapsing or "falling"* into the chair during the sitting phase. The movement should look uncontrolled, possibly with a slight slump, impact lines at the chair, or an unstable posture. A large, prominent red 'X' icon should overlay or be next to this figure.
+        *   **Text Label:** "錯誤動作：坐下時直接「跌」進椅子裡 (❌ 無法保持控制，容易受傷)"
+
+4.  **Repetition Instruction:**
+
+    *   **Panel 7: 重複次數 (Repetitions)**
+        *   **Visual:** A simple icon representing repetition (e.g., a circular arrow or a number of figures).
+        *   **Text Label:** "重複10-15次。"
+
+**General Requirements for all Visuals:**
+
+*   **Accuracy:** All postures and movements must be anatomically accurate and medically sound for rehabilitation.
+*   **Clarity:** Use minimalist, clean iconography and arrows to represent direction and force. Arrows should be distinct in color (e.g., black or dark grey for general movement, possibly red for incorrect force/impact).
+*   **Text:** All text labels are clear, easy to read, and positioned directly next to the corresponding visual element. Use a consistent, legible Traditional Chinese font.
+*   **Composition:** The overall layout should be clean and uncluttered, guiding the viewer's eye logically through the steps and highlighting the correct/incorrect comparison.
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

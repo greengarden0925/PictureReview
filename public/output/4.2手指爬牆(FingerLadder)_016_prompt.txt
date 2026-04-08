@@ -1,0 +1,99 @@
+A professional medical education infographic illustrating "手指爬牆運動 (WallWalk/FingerLadder)". The infographic should be clear, easy to understand, and suitable for both print and digital display, with strong color contrast. All text annotations must be in Traditional Chinese, free of spelling errors, and clearly legible. The human figures should be anatomically accurate, depicted with medically standard postures, gender-neutral, and represented with clean lines and simple forms. Use clear, simple icons and directional arrows to indicate movement.
+
+**Infographic Layout:**
+The infographic will be divided into clear sections: a header, an equipment section, starting positions, and a step-by-step guide with correct and incorrect action comparisons.
+
+---
+
+**1. Header Section:**
+*   **Main Title:** 「手指爬牆運動」 (large, prominent font)
+*   **Subtitle/Goal:** 「增加肩關節前屈與外展的活動角度」 (smaller, supportive font)
+*   **Goal Icon:** A stylized icon representing shoulder mobility (e.g., a shoulder joint with circular motion arrows).
+*   **Equipment Icon:** A simple icon of a plain wall.
+*   **Equipment Text:** 「所需器材：一面牆。」
+
+---
+
+**2. Starting Positions (起始姿勢):**
+*   **Panel 1: 「前屈練習」 (Flexion Practice)**
+    *   A full-body illustration of a person standing upright, facing a plain, light-colored wall, maintaining a stable posture. The distance between the person's toes and the wall should be approximately one natural step. Their arms are relaxed by their sides.
+    *   **Text Annotation:** 「面對牆壁，距離約一步。」
+*   **Panel 2: 「外展練習」 (Abduction Practice)**
+    *   A full-body illustration of a person standing upright, with their side facing the same plain wall, also maintaining a stable posture about one step away. Their arm is relaxed by their side.
+    *   **Text Annotation:** 「側對牆壁，距離約一步。」
+
+---
+
+**3. 動作步驟 (Action Steps) - 對比圖示 (Comparison Illustrations):**
+
+**Step A: 「向上爬行」 (Climbing Upwards)**
+*   **Panel A-1: 「正確動作」 (Correct Action)**
+    *   An illustration of the person's arm extended towards the wall. The index and middle fingers of the hand are clearly shown touching the wall, in a staggered, "walking" motion upwards. The arm and hand are moving upwards. The shoulder remains relaxed and low, not elevated. The torso is stable and upright, not leaning excessively.
+    *   **Action Arrows:** Small, dotted arrows indicating the sequential "walking" motion of the fingers along the wall, and a larger, solid upward arrow showing the overall direction of the hand's movement.
+    *   **Text Annotation (Action):** 「手指指尖觸碰牆面，食指與中指交替動作，像走路一樣慢慢沿著牆壁向上爬。」
+    *   **Text Annotation (Concept):** 「利用手指帶動手臂，減少肩膀肌肉主動收縮的疼痛。」
+    *   **Color Scheme:** Positive, calm colors (e.g., green/blue hues).
+*   **Panel A-2: 「錯誤動作」 (Incorrect Action)**
+    *   An illustration depicting two common errors side-by-side or clearly overlaid.
+        *   **Error 1:** The person's shoulder is visibly shrugging upwards towards their ear (聳肩) while climbing.
+        *   **Error 2:** The person's upper body is arched excessively backward, creating a gap between their back and a plumb line from their shoulder (身體過度後仰).
+    *   **Error Indicator:** A prominent 'X' symbol over the incorrect postures.
+    *   **Text Annotation (Error):** 「錯誤：爬高時聳肩」 and 「錯誤：身體過度後仰」 (if shown separately).
+    *   **Color Scheme:** Warning, contrasting colors (e.g., red/orange hues).
+
+**Step B: 「停留伸展」 (Hold and Stretch)**
+*   **Panel B-1: 「正確動作」 (Correct Action)**
+    *   An illustration of the person's arm extended upwards on the wall, reaching their comfortable limit of shoulder mobility. The body is shown slightly leaning *forward* into the wall, applying gentle pressure to enhance the stretch. The shoulder remains relaxed and stable.
+    *   **Action Arrows:** A subtle forward-pointing arrow from the torso to the wall, indicating the slight lean.
+    *   **Timer Icon:** A small, clear icon indicating "10秒" (10 seconds).
+    *   **Text Annotation (Action):** 「爬到緊繃極限處，身體重心微微壓向牆壁，增加伸展角度，停留10秒。」
+    *   **Text Annotation (Concept):** 「腋下要有拉開及拉緊的感覺。」
+    *   **Color Scheme:** Positive, calm colors.
+*   **Panel B-2: 「錯誤動作」 (Incorrect Action)**
+    *   An illustration of the person holding their breath, depicted with a visibly strained or tense facial expression, or a "holding breath" icon (e.g., a speech bubble with '...' and a red circle/cross). The body might appear overly rigid.
+    *   **Error Indicator:** A prominent 'X' symbol.
+    *   **Text Annotation (Error):** 「錯誤：憋氣硬壓」
+    *   **Color Scheme:** Warning, contrasting colors.
+
+**Step C: 「緩慢下放」 (Slow Descent)**
+*   **Panel C-1: 「正確動作」 (Correct Action)**
+    *   An illustration of the person's fingers slowly "walking" downwards along the wall, controlling the descent of the arm. The shoulder remains controlled and stable, indicating active deceleration.
+    *   **Action Arrows:** Small, dotted arrows indicating the sequential "walking" motion of the fingers downwards, and a larger, solid downward arrow showing the overall direction of the hand's controlled movement.
+    *   **Text Annotation (Action):** 「手指慢慢往下爬回原點。」
+    *   **Text Annotation (Concept):** 「下放過程也要控制，不可直接手放掉。」
+    *   **Color Scheme:** Positive, calm colors.
+*   **Panel C-2: 「錯誤動作」 (Incorrect Action)**
+    *   An illustration of the person's hand abruptly detaching from the wall and swinging downwards loosely, with a blurred arm indicating uncontrolled movement.
+    *   **Error Indicator:** A prominent 'X' symbol.
+    *   **Text Annotation (Error):** 「錯誤：手直接離開牆面甩下來」
+    *   **Color Scheme:** Warning, contrasting colors.
+
+---
+
+**General Visual Requirements for the Entire Infographic:**
+*   **Layout:** Clean, minimalist, and organized with clear borders or spacing between panels.
+*   **Color Palette:** Use a harmonious and professional color palette. Ensure high contrast between text and background, and distinct color differentiation for "correct" (e.g., greens, light blues) and "incorrect" (e.g., reds, oranges, grays) actions.
+*   **Typography:** Use a clean, sans-serif font that is highly legible. Font sizes should be appropriate for titles, subtitles, and detailed annotations.
+*   **Background:** A plain, subtle background (e.g., light grey or white) that does not distract from the main content.
+*   **Overall Impression:** The infographic should convey authority, clarity, and safety in rehabilitation education.
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

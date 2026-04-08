@@ -1,0 +1,69 @@
+生成一個專業醫療教育風格的詳細資訊圖 (infographic)。圖片應具有清晰、簡潔的線條和視覺效果，適合印刷和數位顯示，顏色對比鮮明。
+
+主標題為：「**前臂屈肌按摩 (Forearm Self-Massage)**」，字體醒目，位於圖片頂部中央。
+
+副標題或說明文字為：「**目標：放鬆過度緊繃的屈肌群。**」
+
+圖片結構應包含多個面板，引導觀看者逐步了解動作，並明確對比正確與錯誤動作。
+
+**整體佈局與風格要求：**
+
+*   **專業醫療教育風格：** 簡潔、清晰、易懂，使用圖示和箭頭輔助說明。
+*   **人物形象：** 描繪一位性別中立、解剖學上準確、姿勢自然的真人圖示。
+*   **文字標註：** 所有文字均使用繁體中文，無拼寫錯誤，字體清晰易讀的無襯線字體，與背景對比度高。
+*   **圖示與箭頭：** 使用簡潔的圖示和實線箭頭標示壓力方向、按摩路徑或動作方向。
+*   **色彩：** 採用專業且令人放鬆的配色方案，主色調可為藍、綠、灰等冷色系，輔以明亮的對比色（如淺黃、橙色）用於強調，紅色用於警示錯誤動作。確保色彩對比鮮明，適合色盲人士。
+
+**內容面板與細節：**
+
+**1. 【所需器材】面板：**
+    *   標題：「**所需器材**」
+    *   內容：並列展示兩個圖示：一個清晰的按摩球（外觀類似網球）圖示，旁邊標註「**按摩球 (網球)**」；另一個為簡化的人體手肘圖示，旁邊標註「**自己的手肘**」。
+
+**2. 【起始姿勢】面板 (正確動作步驟1)：**
+    *   標題：「**起始姿勢**」
+    *   插圖：一位人物端坐於桌前，其左前臂（或右前臂，保持一致性）自然地平放於桌面上，掌心朝上。人物姿態應放鬆且端正。
+    *   文字標註：「**坐姿，患手放在桌上，掌心朝上。**」
+
+**3. 【找出正確按摩點】面板 (正確動作步驟2)：**
+    *   標題：「**找出正確按摩點**」
+    *   插圖：近距離特寫前臂內側，另一隻手（例如，拇指或食指）正在輕輕觸碰前臂內側。需特別標示出「**前臂內側最肥厚、按壓微酸的肌肉肚**」的區域，可使用虛線框或淺色漸層強調該區域，並配以小圖示表示「微酸感」。
+    *   文字標註：「**找出前臂內側最肥厚、按壓微酸的肌肉肚。**」
+
+**4. 【進行按摩】面板 (正確動作步驟3)：**
+    *   標題：「**進行按摩**」
+    *   插圖A：展示人物使用按摩球對步驟2中找到的肌肉肚進行定點按壓。用實線向下箭頭表示按壓方向和壓力。若有「小範圍畫圈」動作，則用小型圓形箭頭表示。
+    *   插圖B：展示人物使用另一隻手的手肘，對同一肌肉肚進行定點按壓。同樣用實線向下箭頭表示按壓方向和壓力。若有「小範圍畫圈」動作，則用小型圓形箭頭表示。
+    *   文字標註：「**用另一手的手掌或按摩球，進行定點按壓或小範圍畫圈，每個點停留30秒。**」
+
+**5. 【錯誤動作提醒】面板：**
+    *   標題：「**錯誤動作提醒**」，標題旁可加入一個紅色警示圖示（如紅色感嘆號或禁止符號）。
+    *   插圖：近距離特寫前臂，清晰地顯示一隻手或按摩球直接按壓在前臂的骨頭或神經路徑上。用一個顯眼的紅色「X」符號覆蓋該動作。
+    *   視覺提示：在按壓骨頭或神經的區域，增加小型的閃電狀或波浪狀圖案，表示「**麻電感**」。
+    *   文字標註：「**不要直接按骨頭或神經，避免產生麻電感。**」
+
+**最終排版要求：**
+*   所有面板之間應有清晰的間隔，便於區分。
+*   文字與圖示的比例協調，確保所有資訊一目瞭然。
+*   整體版面應專業、整潔，符合醫學教育材料的標準。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

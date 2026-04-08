@@ -1,0 +1,90 @@
+生成一個專業醫療教育風格的復健動作說明圖（infographic），清晰易懂。
+
+**圖片內容描述：**
+此圖為「肩胛骨後收運動 (Scapular Retraction)」的指導圖，目標是放鬆上斜方肌（肩頸交界），強化中下斜方肌，並改善圓肩。圖片應分為多個區塊，清晰展示正確動作的步驟、錯誤動作的示範及關鍵提示。
+
+**整體風格與佈局：**
+*   **風格：** 專業、簡潔的醫療教育插畫風格，線條清晰，顏色對比明顯，適合印刷和數位顯示。
+*   **背景：** 乾淨的白色背景。
+*   **人物：** 呈現一個中性、 anatomically accurate 的人體模型，用於演示動作。在肌肉收縮時，可透過半透明圖層或顏色變化來突出相關肌肉（如中下斜方肌以深色表示其激活，上斜方肌以淺色表示其放鬆）。
+*   **佈局：**
+    *   頂部為大標題和目標說明。
+    *   左側或中央為主體正確動作的三個步驟，逐一清晰展示。
+    *   右側或下方為錯誤動作的示範區塊。
+    *   使用簡潔的圖示（如時鐘、箭頭）和清晰的繁體中文文字標註。
+
+**主要區塊詳述：**
+
+**1. 頂部標題與目標區塊：**
+*   **主標題：** 「肩胛骨後收運動 (Scapular Retraction)」
+*   **副標題/目標：** 「目標：放鬆上斜方肌，強化中下斜方肌，改善圓肩。」
+*   **設備：** 顯示一個小圖示，註明「設備：椅子或站立」，並以簡約線條勾勒出站立人像和椅子。
+
+**2. 正確動作步驟區塊 (Correct Action Steps)：**
+*   此區塊應包含三幅連續圖片，展示動作的起始、執行和放鬆過程。
+*   **起始姿勢 (Starting Position)：**
+    *   **人物姿勢：** 人物挺胸，雙手自然垂下或手肘彎曲90度在身側。肩膀保持放鬆不下垂。
+    *   **標註文字：** 「起始姿勢：挺胸，雙手自然垂下或手肘彎曲90度在身側。」
+*   **步驟一：夾緊肩胛骨 (Action Step 1: Retraction)：**
+    *   **人物姿勢：** 雙肩向後下方移動，肩胛骨明顯向脊椎中線靠攏、夾緊。胸口打開。
+    *   **視覺引導：** 在人物背部中間脊椎處標註一個虛線的「筆」圖示。使用綠色箭頭清晰指示兩片肩胛骨向中線靠攏的方向。
+    *   **標註文字：**
+        *   「1. 想像背部中間脊椎有一支筆，用力將兩片肩胛骨往中間夾，試圖夾住那支筆。」
+        *   下方補充：「**是『往後夾』不是『往上聳』。**」
+*   **步驟二：維持夾緊 (Action Step 2: Hold)：**
+    *   **人物姿勢：** 維持步驟一的夾緊姿勢。脖子放鬆，無明顯青筋。表情平靜。
+    *   **視覺引導：** 旁邊有一個小小的時鐘或計時器圖示。
+    *   **標註文字：**
+        *   「2. 維持夾緊狀態5-10秒。」
+        *   下方補充：「**胸口打開配合呼吸，不要憋氣。**」
+*   **步驟三：慢慢放鬆 (Action Step 3: Release)：**
+    *   **人物姿勢：** 肩胛骨緩慢、有控制地回到起始位置，肩膀保持不聳不垮。
+    *   **視覺引導：** 使用綠色箭頭指示肩胛骨緩慢向外放鬆的方向。
+    *   **標註文字：**
+        *   「3. 慢慢放鬆肩胛骨回到原位。」
+        *   下方補充：「**感受背部肌肉的收縮與放鬆。**」
+
+**3. 錯誤動作對比區塊 (Common Errors)：**
+*   此區塊應獨立展示常見的錯誤動作，並以紅色「X」符號或紅色警示顏色標註。
+*   **錯誤一：夾背時肩膀聳向耳朵 (Shoulder Shrug)：**
+    *   **人物姿勢：** 人物在嘗試夾背時，肩膀明顯向上聳起，靠近耳朵。
+    *   **視覺引導：** 在聳起的肩膀處標註紅色向上箭頭和紅色「X」。
+    *   **標註文字：** 「錯誤：夾背時肩膀聳向耳朵」
+*   **錯誤二：脖子過度用力爆青筋 (Neck Strain)：**
+    *   **人物姿勢：** 人物臉部表情僵硬，脖子肌肉明顯收緊，甚至可見頸部血管突起。
+    *   **視覺引導：** 在頸部區域突出紅色，並標註紅色「X」。
+    *   **標註文字：** 「錯誤：脖子過度用力」
+*   **錯誤三：瞬間放掉力量讓肩膀垮下 (Sudden Release/Slump)：**
+    *   **人物姿勢：** 人物在放鬆時，肩膀瞬間向下塌陷，姿勢垮掉。
+    *   **視覺引導：** 在下垮的肩膀處標註紅色向下箭頭和紅色「X」。
+    *   **標註文字：** 「錯誤：瞬間放掉力量讓肩膀垮下來」
+
+**顏色與圖示要求：**
+*   **顏色：** 主要使用專業的醫療藍、綠色、灰色。正確動作區塊以綠色或藍色系為主。錯誤動作區塊使用紅色警示色。文字顏色應與背景形成高對比。
+*   **箭頭：** 綠色箭頭指示正確的動作方向，紅色箭頭指示錯誤的動作方向。
+*   **圖示：** 簡潔線條圖示，如時鐘、筆、人體骨架線條（用於強調肩胛骨）。
+
+**文字要求：**
+*   所有文字均使用繁體中文，無拼寫錯誤。
+*   字體清晰易讀，排版整齊。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

@@ -1,0 +1,74 @@
+A professional medical education infographic, clear, concise, and easy to understand, illustrating the '離心小腿訓練 (Eccentric Calf Raises)'.
+
+**Infographic Title:** 離心小腿訓練
+
+**Exercise Goal Annotation:** 強化小腿肌腱連結處
+
+**Equipment:** 階梯 (A sturdy step or stair) is clearly visible as the exercise platform.
+
+**Visual Layout:**
+The infographic will feature a series of panels depicting the correct execution of the exercise, followed by a dedicated section contrasting correct and incorrect actions.
+
+**Main Exercise Sequence (Correct Actions - Panels 1-4):**
+Show a neutral-gender, anatomically accurate human figure, viewed from the side, demonstrating each step on a step platform. Each panel should have a clear Traditional Chinese label.
+
+1.  **Panel 1: 起始姿勢 (Starting Position)**
+    *   **Description:** The figure stands with the front part of both feet (腳前掌) firmly on the edge of the step, with both heels (腳跟) completely suspended in the air below the step level. The body is upright, and knees are straight but not locked.
+    *   **Annotation:** 「腳前掌踩在階梯邊緣，腳跟懸空」
+
+2.  **Panel 2: 雙腳用力踮起 (Lift Up - Both Feet)**
+    *   **Description:** The figure uses both feet to forcefully push upwards, rising onto the balls of the feet as high as possible, lifting the body.
+    *   **Annotation:** 「雙腳用力踮起來」
+    *   **Visual Cue:** An upward arrow indicating the lifting motion.
+
+3.  **Panel 3: 抬起健側腳，僅患側腳單腳支撐 (Single Leg Transition)**
+    *   **Description:** While maintaining the elevated position, the figure carefully lifts the '健側腳 (good leg)' off the step, leaving only the '患側腳 (affected leg)' supporting the body on the ball of the foot. The患側腳 should be subtly highlighted (e.g., a faint outline or slightly different shade) to indicate it's the working leg.
+    *   **Annotation:** 「抬起健側腳，僅使用患側腳單腳支撐」
+
+4.  **Panel 4: 患側腳緩慢下降 (Eccentric Lowering - Affected Leg)**
+    *   **Description:** The figure very slowly and controlledly lowers the heel of the '患側腳 (affected leg)' significantly below the level of the step, achieving a full range of motion. The lowering movement should be depicted with emphasis on control and slowness.
+    *   **Annotation:** 「非常緩慢地將腳跟降至低於階梯平面 (離心收縮)」
+    *   **Visual Cue:** A prominent downward arrow with a curved line or dashed line indicating the slow, controlled movement. Text bubble or icon indicating "Slowly" or "Controlled".
+
+**Correct vs. Incorrect Actions Section:**
+A distinct, clearly demarcated section comparing correct and incorrect techniques. Use a green checkmark for correct and a red 'X' for incorrect.
+
+*   **正確動作 (Correct Action):**
+    *   **Description:** A depiction of the '患側腳' lowering phase, emphasizing the slow, controlled movement and the heel descending *fully* below the step level. The body posture is stable.
+    *   **Annotation:** 「緩慢、完全的下降幅度 (Slow, full range of motion)」
+
+*   **錯誤動作 (Incorrect Action):**
+    *   **Error 1: 下降過快 (Too Fast Descent)**
+        *   **Description:** Show the figure quickly dropping the heel of the '患側腳' without control, possibly with motion blur or speed lines.
+        *   **Annotation:** 「下降過快，失去控制」
+    *   **Error 2: 下降幅度不足 (Insufficient Range of Motion)**
+        *   **Description:** Show the figure's '患側腳' heel barely dipping below the step level, not achieving the full eccentric stretch.
+        *   **Annotation:** 「下降幅度不足，未達完整伸展」
+
+**General Visual Requirements:**
+*   **Style:** Professional medical education infographic, clean lines, minimalist design where appropriate, focusing on clarity.
+*   **Text:** All labels, annotations, and titles must be in clear, legible Traditional Chinese, with no spelling errors.
+*   **Icons & Arrows:** Simple, intuitive icons and arrows (e.g., upward arrows for lift, downward for lower, curved or dashed arrows for slow movement) to indicate direction and quality of movement.
+*   **Color Palette:** High-contrast, professional color scheme suitable for both digital displays and print. Use contrasting colors to differentiate correct (e.g., green/blue tones) from incorrect (e.g., red/orange tones) elements. Ample white space for readability.
+*   **Accuracy:** All depicted postures and movements must be anatomically accurate and medically compliant for rehabilitation exercises.
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

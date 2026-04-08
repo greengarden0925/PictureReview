@@ -1,0 +1,66 @@
+生成一個專業醫療教育風格的復健動作說明圖 (infographic)，主題為「外轉直膝抬腿 (Straight Leg Raise with External Rotation)」。圖片整體風格應清晰易懂，線條簡潔，顏色對比鮮明，適合印刷與數位顯示。
+
+**圖片內容要求：**
+
+1.  **整體版面配置：**
+    *   圖片頂部為標題「外轉直膝抬腿 (Straight Leg Raise with External Rotation)」。
+    *   標題下方為簡要目標說明：「利用外轉姿勢更集中訓練股內側肌。」
+    *   版面分為左右兩大區塊：左側為「正確動作」，右側為「錯誤動作」。
+
+2.  **設備呈現：**
+    *   清晰呈現一位中性人體模型 (gender-neutral figure) 平躺在「瑜珈墊」上。瑜珈墊應有適當的顏色與材質紋理。
+
+3.  **「正確動作」區塊（左側）：**
+    *   **人物姿勢：**
+        *   **起始姿勢 (Starting Position)：** 繪製一個中性人體模型平躺於瑜珈墊上。患側腿（可指定為右腿）伸直，腳尖明確向外轉開約45度，呈現明顯的外旋。非患側腿（左腿）彎曲，腳掌平貼地面，以穩定骨盆。手臂自然放於身體兩側。
+        *   **動作步驟 (Action Steps)：** 繪製連續兩格或一個動態示意圖，顯示患側腿在保持腳尖向外45度旋轉的同時，直直地抬起。抬起的高度應控制在與非患側膝蓋大致平行，或在腰部不產生代償性拱起的前提下最高點。
+    *   **文字標註 (Traditional Chinese)：**
+        *   大標題：「正確動作」
+        *   起始姿勢處標註：「平躺，患腳伸直，腳尖向外轉開約45度，另一腳彎曲穩定。」
+        *   動作過程中標註：「保持腳尖朝外，將腿直直抬起，感受大腿內側靠近膝蓋處的水滴狀肌肉用力。」
+    *   **視覺提示：**
+        *   使用綠色箭頭清晰標示腿部抬起的方向。
+        *   在大腿內側（股內側肌，VMO區域）以亮色（如黃色或淺綠色）高亮顯示，並可輔以肌肉圖示，強調該處肌肉的收縮感。
+        *   在腳尖處使用小箭頭或弧線標示其外轉方向。
+
+4.  **「錯誤動作」區塊（右側）：**
+    *   **人物姿勢：** 繪製兩個獨立的中性人體模型，分別展示兩種常見錯誤。
+        *   **錯誤一：未保持外轉**
+            *   起始姿勢與正確動作相似，但抬腿時腳尖沒有保持外轉（腳尖朝上或內旋），導致發力不正確。
+        *   **錯誤二：抬腿過高或腰部拱起**
+            *   抬腿高度過高，導致腰部明顯拱起，失去中立位，呈現骨盆前傾或腰椎過度伸展的姿勢。
+    *   **文字標註 (Traditional Chinese)：**
+        *   大標題：「錯誤動作」
+        *   錯誤一處標註：「腳尖未保持外轉姿勢，導致股四頭肌整體發力而非內側肌群。」
+        *   錯誤二處標註：「抬腿過高，腰部過度拱起，導致腰部代償與壓力。」
+    *   **視覺提示：**
+        *   使用紅色X標記錯誤的腳尖方向或腰部拱起。
+        *   使用紅色箭頭標示錯誤的抬腿方向或腰部壓力點。
+        *   在錯誤姿勢的腰部區域以紅色高亮顯示，強調壓力或錯誤代償。
+
+5.  **整體風格與色彩：**
+    *   採用專業醫療教育的扁平化或線條清晰的插畫風格。
+    *   人體模型姿態準確，符合醫學標準，避免卡通化。
+    *   主要顏色使用專業、沉穩的藍綠色系，搭配鮮明的暖色系（如亮黃、橙色）作為重點標示和高亮顯示，紅色用於錯誤警示。確保顏色對比明顯，易於閱讀和識別。
+    *   所有文字標註均為繁體中文，無拼寫錯誤，字體清晰易讀。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

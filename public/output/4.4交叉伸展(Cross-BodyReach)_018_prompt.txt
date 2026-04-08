@@ -1,0 +1,81 @@
+生成一張專業醫療教育風格的復健動作說明圖（infographic），清晰易懂。
+圖片標題為「十字交叉伸展 (Cross-Body Stretch)」。
+副標題為「目標：伸展後關節囊與旋轉肌群」。
+版面應清晰區分為「正確動作」和「錯誤動作」兩大區塊，進行視覺對比。
+使用簡潔、線條清晰的醫學插圖人物（性別中立，例如簡約的灰色人體模型或白色輪廓人物），姿勢精確，符合醫學標準。
+背景為純白色或極淺灰色，無任何干擾元素。
+整體顏色對比明顯，適合印刷和數位顯示：正確動作使用藍色、綠色和白色，錯誤動作使用紅色和橙色以示警告。
+所有文字標註皆使用繁體中文，無拼寫錯誤，字體應為清晰易讀的無襯線字體。
+
+**【正確動作】區塊：**
+此區塊包含兩步驟圖示，每個步驟都需有詳細的姿勢描述、關鍵點標註和指示箭頭。
+
+**第一步：起始與初期動作**
+1.  **人物姿勢**: 一位中性人物，保持坐姿或站姿（請選擇一種並貫穿整個說明圖）。患側手臂水平抬起至胸前高度。患手放鬆，橫過胸前，好手掌心輕柔扶住患側手肘處。
+2.  **動作細節**: 患側手肘可以呈現微彎或伸直的兩種示範，用虛線箭頭或不同圖示說明其靈活性。
+3.  **文字標註 (繁體中文)**:
+    *   標題：「步驟一：準備動作」
+    *   「起始位置：坐姿或站姿」
+    *   「患側手臂水平抬起至胸前」
+    *   「患手放鬆橫過胸前」
+    *   「好手掌心扶住患手手肘處」
+    *   「患手手肘可微彎或伸直」
+4.  **圖示與箭頭**: 綠色「✔」符號表示正確。淺藍色箭頭指示患手橫過胸前的方向。
+
+**第二步：伸展動作**
+1.  **人物姿勢**: 接續第一步的姿勢。好手穩定施力，將患手輕柔往胸口方向壓緊。人物表情應顯示輕微的拉伸感，而非疼痛。
+2.  **動作細節**: 強調肩膀保持下沉放鬆，不可聳起。
+3.  **文字標註 (繁體中文)**:
+    *   標題：「步驟二：進行伸展」
+    *   「好手施力將患手往胸口壓緊」
+    *   「感受肩膀後側有拉伸感」
+    *   「維持15-30秒」
+    *   「關鍵：肩膀不可聳起」
+4.  **圖示與箭頭**: 綠色「✔」符號表示正確。深藍色箭頭指示好手對患手施力的方向，強調向內壓緊。
+
+**【錯誤動作】區塊：**
+此區塊包含兩張獨立的圖示，分別展示兩種常見的錯誤動作，並與正確動作形成鮮明對比。每張圖都應有紅色的「X」符號和警告標誌。
+
+**錯誤示範一：身體跟著手臂轉向**
+1.  **人物姿勢**: 人物在進行十字交叉伸展時，其腰部以上隨著患側手臂轉向側邊，身體明顯扭曲。但骨盆以下半身（臀部、腿部）應明確固定朝向前方，與腰部形成對比。
+2.  **動作細節**: 強調腰部錯誤的旋轉動作與骨盆的固定形成的反差。
+3.  **文字標註 (繁體中文)**:
+    *   標題：「錯誤示範一：身體旋轉」
+    *   「錯誤：身體跟著手臂轉向側邊」
+    *   「僅腰部旋轉，骨盆以下半身應固定朝前」
+4.  **圖示與箭頭**: 大型紅色「X」符號。紅色波浪形箭頭標示腰部錯誤的旋轉方向，並用紅色框線突出骨盆以下半身應保持固定的區域。
+
+**錯誤示範二：壓迫到喉嚨位置**
+1.  **人物姿勢**: 人物在進行十字交叉伸展時，患側手臂抬得過高，導致手肘或前臂壓迫到喉嚨或頸部前方區域。人物表情可略顯不適。
+2.  **動作細節**: 清楚顯示手臂過高的位置與喉嚨受壓迫的關係。
+3.  **文字標註 (繁體中文)**:
+    *   標題：「錯誤示範二：手臂過高」
+    *   「錯誤：手舉太高」
+    *   「導致壓迫到喉嚨位置」
+4.  **圖示與箭頭**: 大型紅色「X」符號。紅色圓圈或紅線標註喉嚨受壓迫的區域，並用紅色虛線箭頭示意手臂上舉過高的路徑。
+
+**【設備資訊】**
+在圖片下方或側邊的獨立區塊，用清晰的文字標註：「所需設備：無」。
+
+整體排版應簡潔清晰，資訊層次分明，確保所有圖示、箭頭、文字標註都能一目瞭然地傳達動作要點與注意事項，營造出專業且易於理解的醫療教育氛圍。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

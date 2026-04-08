@@ -1,0 +1,69 @@
+Infographic for "站姿髂脛束伸展 (Standing IT Band Stretch)". Professional medical education style, clear, concise, and easy to understand. High contrast color palette suitable for print and digital display, primarily using blues, greens, and grays with red accents for warnings and green for emphasis. All text labels must be in Traditional Chinese, free of spelling errors.
+
+The infographic should be structured with clear sections:
+
+**Section 1: Title and Goal**
+-   Main Title: 「站姿髂脛束伸展」 (Large, bold font).
+-   Subtitle/Goal: 「運動目標：放鬆大腿外側張力，減少髂脛束對膝蓋造成的摩擦與不適。」
+-   A small, clean icon representing muscle stretch or flexibility next to the goal statement.
+
+**Section 2: Equipment**
+-   Label: 「所需器材」
+-   Text: 「牆壁（用於手扶保持平衡）」
+-   Simple, clean line-art icon of a wall next to the text.
+
+**Section 3: 正確動作示範 (Correct Posture Demonstration)**
+This section should feature a neutral-gender human figure (e.g., a male or female figure with clear, simple anatomical lines) performing the exercise accurately. The figure should be set against a clean, plain light background.
+
+-   **Panel 1: Starting Position & Initial Lean**
+    -   Figure: Standing upright, facing slightly forward but angled to clearly show the crossing legs. The "好腳" (good leg, e.g., right leg) is crossed in front of the "患腳" (affected leg, e.g., left leg). The hand on the affected side (left hand) is gently placed on an implied wall for balance.
+    -   Text Label 1: 「起始姿勢：站立，好腳（右）交叉跨到患腳（左）前方。手扶牆保持平衡。」
+    -   Text Label 2: 「步驟一：身體向好腳側（右）慢慢側彎。」
+    -   Visual Cues: A smooth, curved green arrow originating from the torso and pointing towards the "好腳" side (right), indicating the direction of the side bend. The left outer thigh/hip area should be subtly highlighted to draw attention to the target region.
+
+-   **Panel 2: Full Stretch & Hip Push**
+    -   Figure: Same figure as Panel 1, now in the full stretched position. The upper body is clearly leaned towards the "好腳" side (right). Crucially, the "患側"骨盆 (affected side hip, left hip) is visibly pushed outwards, away from the body's midline. The hand on the wall remains in position.
+    -   Text Label 1: 「步驟二：側彎同時，將患側骨盆向外推。」
+    -   Text Label 2: 「感受：大腿外側有明顯緊繃與拉伸感。」
+    -   Visual Cues: A prominent, straight green arrow pointing directly outwards from the "患側"骨盆 (left hip), emphasizing the hip push. The entire outer left thigh region should be clearly highlighted (e.g., shaded green or outlined with a dotted line) with a subtle "stretching" effect (e.g., wavy lines) inside, to indicate where the stretch should be intensely felt.
+
+**Section 4: 常見錯誤動作 (Common Error Actions)**
+This section should feature the same human figure demonstrating common mistakes.
+
+-   **Panel 1: Incorrect Posture (Leaning Forward/Backward)**
+    -   Figure: The figure attempts the stretch but is visibly leaning forward (or backward), not purely sideways. The body's alignment should clearly deviate from the straight side bend.
+    -   Text Label 1: 「錯誤一：身體向前或向後傾斜。」
+    -   Visual Cues: A large, red "X" icon overlapping the figure. Red, curved arrows indicating the incorrect forward/backward lean, with a strike-through line. A faded or absent highlight on the outer thigh, suggesting ineffective stretching.
+
+-   **Panel 2: Incorrect Posture (No Hip Push or Bending at Waist Only)**
+    -   Figure: The figure attempts the side bend, but the "患側"骨盆 (affected side hip) is not pushed outwards, or the figure appears to be merely bending at the waist without the proper side lean and hip extension. The stretch on the outer thigh would be minimal or absent.
+    -   Text Label 2: 「錯誤二：骨盆未向外推出，或僅彎腰而非側彎身體。」
+    -   Visual Cues: A red arrow pointing to the hip area with a strike-through line, indicating the lack of outward hip push. A red outline or lack of highlight on the outer thigh area, signifying that the target muscle is not being effectively stretched.
+
+**Overall Visual Elements:**
+-   Clean, professional line art or minimalist illustration style for the human figures. Figures should be anatomically accurate and reflect medically correct posture and movement.
+-   All arrows (green for correct, red for incorrect) should be clear, distinct, and easily understandable.
+-   Text labels should be positioned clearly next to their corresponding figures/actions, using a legible font.
+-   Utilize sufficient white space for excellent readability and a clean aesthetic.
+-   Color Palette: White or very light gray background. Dark gray or black text for body. Dark blue for section titles. Bright green for correct action arrows and highlights. Bright red for error markers and incorrect action arrows. This ensures strong contrast suitable for both print and digital display.
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

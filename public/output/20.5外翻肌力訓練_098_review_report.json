@@ -1,0 +1,35 @@
+{
+  "total_iterations": 1,
+  "final_passed": true,
+  "reviews": [
+    {
+      "passed": true,
+      "content_match": {
+        "score": 100,
+        "issues": []
+      },
+      "text_accuracy": {
+        "score": 100,
+        "errors": []
+      },
+      "visual_correctness": {
+        "score": 100,
+        "issues": []
+      },
+      "overall_quality": {
+        "score": 100,
+        "comments": [
+          "圖片完美符合所有原始要求，專業且清晰。",
+          "視覺風格統一，顏色對比鮮明，非常適合醫療教育用途。",
+          "動作分解、預備姿勢與錯誤示範皆精確且易於理解。"
+        ]
+      },
+      "recommendations": [
+        "無需進一步修改，此圖片已完全符合並超越預期。"
+      ],
+      "summary": "此復健動作說明圖片在所有審查項目中均表現出色。內容完整、文字準確、視覺呈現醫學正確且專業，整體品質極佳，完全符合原始要求，並非常適合作為醫療教育材料使用。",
+      "iteration": 1,
+      "image_path": "output\\20.5外翻肌力訓練_098_v1.jpg"
+    }
+  ]
+}
