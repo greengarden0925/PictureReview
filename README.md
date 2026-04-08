@@ -13,7 +13,7 @@
 
 **審查者三步驟：**
 
-1. 用瀏覽器開啟你提供的網址（例如 `http://主機:8080`）。
+1. 用瀏覽器開啟你提供的網址（例如 `http://主機`；若你改用 8080 則為 `http://主機:8080`）。
 2. 在跳出視窗輸入 **HTTP 帳號／密碼**（密碼是當初設定的**明文**，不是 `.htpasswd` 裡的 `$2a$10$...` 雜湊）。
 3. 進站後再填 **審查者名稱**（用於寫入審查紀錄），即可開始審圖。
 
@@ -54,13 +54,13 @@ npm run dev
 
 2. **準備圖檔與資料**：在專案根目錄建立 `docker-data/output/`，將父專案 **`output/`** 整份複製進去（內容等同本機的 `public/output/`）。
 
-3. **啟動**（需 Docker；對外埠預設 `8080`）：
+3. **啟動**（需 Docker；對外埠預設 `80`，可用 `HTTP_PORT` 改為 `8080` 等）：
 
    ```bash
    docker compose up -d --build
    ```
 
-   瀏覽 `http://<主機>:8080`，瀏覽器會要求 Basic Auth；通過後再使用站內審查者名稱登入即可。
+   瀏覽 `http://<主機>`（或 `http://<主機>:<HTTP_PORT>`），瀏覽器會要求 Basic Auth；通過後再使用站內審查者名稱登入即可。
 
 4. **持久化**：`survey.json` / `reviews.json` 寫在容器內 **`/data`**，對應主機 **`./docker-data/`**（已列於 `.gitignore`）。圖檔讀 **`/data/output`**（即 `./docker-data/output`）。
 
@@ -84,7 +84,7 @@ npm run dev
 
 4. **Nginx 502 / 一直重啟 / 401**：看 `docker compose logs nginx`。`.htpasswd` 必須**只有一行** `使用者:雜湊`；勿用 `npm run ... >` 重導向（會混入 npm 標頭導致 401）。請用：`node scripts/generate-htpasswd.cjs user pass > deploy/nginx/.htpasswd`。另注意 PowerShell 勿寫成 UTF-16。
 
-5. **驗證服務**：`docker compose ps` 兩個服務皆 `running` 後，用瀏覽器或 `curl.exe -u 帳:密 http://localhost:8080/api/groups` 測試（PowerShell 請用 `curl.exe`，勿用別名 `curl`）。
+5. **驗證服務**：`docker compose ps` 兩個服務皆 `running` 後，用瀏覽器或 `curl.exe -u 帳:密 http://localhost/api/groups` 測試（PowerShell 請用 `curl.exe`，勿用別名 `curl`；若改用 `HTTP_PORT=8080` 則改成 `http://localhost:8080/api/groups`）。
 
 ---
 
