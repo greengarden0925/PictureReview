@@ -1,0 +1,9 @@
+# PictureReview 子專案規則
+
+- 資深前端思維：可維護、可讀、型別安全。
+- 使用 **Next.js App Router**、**TypeScript**、**Tailwind CSS**。
+- React 僅使用**函式元件**與 **Hooks**；避免 class component。
+- 交付須為**完整可編譯、可執行**的程式碼；API Route 與前端狀態需一致。
+- 與父目錄 Python 流程**隔離**：不修改父專案檔案；審查前以 `npm run sync-output` 將父專案 **`output/` 整份複製**到本專案 **`public/output/`**（預設讀取位置；可用環境變數覆寫）。
+- 路徑處理須防 **path traversal**；寫入 JSON 時優先**原子寫入**避免並發毀損。
+- UI 文案與註解優先使用**繁體中文**（技術名詞可保留英文）。

@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "reviewerName": "green",
+      "groupKey": "1.5對側伸展_005",
+      "answers": {
+        "q1": 5
+      },
+      "submittedAt": "2026-04-08T02:19:42.311Z",
+      "updatedAt": "2026-04-08T02:19:43.872Z"
+    },
+    {
+      "reviewerName": "green",
+      "groupKey": "10.1手指被動伸展_044",
+      "answers": {
+        "q1": 5
+      },
+      "submittedAt": "2026-04-08T02:19:47.832Z",
+      "updatedAt": "2026-04-08T02:19:47.832Z"
+    },
+    {
+      "reviewerName": "green",
+      "groupKey": "10.3掌指關節按摩_046",
+      "answers": {
+        "q1": 4
+      },
+      "submittedAt": "2026-04-08T02:19:51.481Z",
+      "updatedAt": "2026-04-08T02:19:51.481Z"
+    },
+    {
+      "reviewerName": "node-smoke",
+      "groupKey": "test_group_key",
+      "answers": {
+        "q1": 4,
+        "q2": "hi"
+      },
+      "submittedAt": "2026-04-08T02:23:58.987Z",
+      "updatedAt": "2026-04-08T02:23:58.987Z"
+    }
+  ]
+}

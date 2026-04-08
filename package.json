@@ -1,0 +1,36 @@
+{
+  "name": "picture-review",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "sync-output": "node scripts/sync-output.cjs",
+    "gen-htpasswd": "node scripts/generate-htpasswd.cjs",
+    "write-htpasswd": "node scripts/write-htpasswd-file.cjs",
+    "docker:check": "node scripts/verify-docker-setup.cjs",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.18",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.17.6",
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "autoprefixer": "10.4.20",
+    "eslint": "8.57.1",
+    "eslint-config-next": "14.2.18",
+    "postcss": "8.4.49",
+    "tailwindcss": "3.4.15",
+    "typescript": "5.6.3",
+    "bcryptjs": "2.4.3",
+    "@types/bcryptjs": "2.4.6"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  }
+}

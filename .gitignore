@@ -1,0 +1,14 @@
+/node_modules
+/.next
+/out
+.env*.local
+*.log
+
+# 由父專案 output/ 同步複製，不納入版控
+/public/output
+
+# Nginx Basic Auth 密碼檔（請自行產生，勿提交）
+/deploy/nginx/.htpasswd
+
+# Docker 掛載用：問卷 JSON + 圖檔 output（勿納入版控）
+/docker-data

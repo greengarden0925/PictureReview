@@ -1,0 +1,9 @@
+node_modules
+.next
+.git
+.env
+.env*.local
+*.log
+public/output
+data
+deploy/nginx/.htpasswd

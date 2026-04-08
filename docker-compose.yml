@@ -1,0 +1,32 @@
+# PictureReview + Nginx Basic Auth
+# 1) 產生密碼檔：npm run write-htpasswd -- reviewer 你的密碼
+# 2) 將父專案 output/ 複製到主機 ./docker-data/output/（見 README）
+# 3) docker compose up -d --build
+#
+# 對外：http://localhost:8080（HTTP_PORT 可改）
+
+services:
+  app:
+    build: .
+    restart: unless-stopped
+    environment:
+      NODE_ENV: production
+      PICTURE_REVIEW_DATA_DIR: /data
+      PICTURE_REVIEW_OUTPUT_DIR: /data/output
+      # 上線務必設定：問卷管理 PUT 需 Bearer 或 ?token=
+      PICTURE_REVIEW_ADMIN_TOKEN: ${PICTURE_REVIEW_ADMIN_TOKEN:-}
+    volumes:
+      - ./docker-data:/data
+    expose:
+      - "3000"
+
+  nginx:
+    image: nginx:1.27-alpine
+    depends_on:
+      - app
+    ports:
+      - "${HTTP_PORT:-8080}:80"
+    volumes:
+      - ./deploy/nginx/default.conf:/etc/nginx/conf.d/default.conf:ro
+      - ./deploy/nginx/.htpasswd:/etc/nginx/.htpasswd:ro
+    restart: unless-stopped
