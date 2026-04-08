@@ -1,0 +1,67 @@
+生成一張專業醫療教育風格、清晰易懂的復健動作說明圖 (infographic)。圖片應具有現代感，色彩對比鮮明，適合印刷與數位顯示。
+
+**圖片整體佈局：**
+圖片上方應有清晰的標題和副標題。下方主要內容分區塊呈現『正確動作』與『錯誤動作』的對比圖示，並輔以簡潔的文字說明與箭頭、圖示標註。
+
+**標題與副標題 (繁體中文)：**
+*   **標題：** 弓箭步小腿伸展 (Runner's Stretch / Calf Stretch)
+*   **副標題：** 針對腓腸肌進行伸展
+
+**人物與設備：**
+圖中應明確顯示一位穿著運動服裝的無性別、標準身形人物正在進行動作，體態標準，姿勢符合醫學標準。人物動作時應利用『牆壁』作為穩固的支撐物，雙手平推於牆壁上。
+
+**【正確動作】區塊：**
+此區塊應清晰展示正確的動作姿勢，並分階段呈現。
+
+1.  **起始姿勢：**
+    *   人物雙手平推於牆壁上，身體呈弓箭步站姿。
+    *   **患側腳（後方腿）**腳跟踩實地板，膝蓋保持完全伸直。
+    *   前腳膝蓋微彎，身體軀幹打直，視線向前。
+    *   此處應有文字標註：『雙手推牆，患側腳在後方並保持伸直』。
+
+2.  **伸展執行：**
+    *   在此基礎上，前腳膝蓋進一步彎曲，使身體重心緩慢前移，直到感覺到後方小腿肚（腓腸肌）上方有明顯的緊繃感。
+    *   **後腳腳跟全程緊貼地板，後腿膝蓋保持伸直不彎曲。**
+    *   使用清晰的綠色箭頭標示身體重心前移的方向。
+    *   在後方小腿肚（腓腸肌）位置，應有簡潔的解剖學示意圖（可簡化為肌肉輪廓），並以高亮或漸變色顯示其被伸展的狀態。
+    *   此處應有文字標註：
+        *   『後腳腳跟踩死地板，前腳膝蓋彎曲，重心前移』
+        *   『感覺小腿肚上方緊繃』
+        *   『停留15-30秒』
+    *   整體動作上方應有綠色勾號，表示「正確」。
+
+**【錯誤動作】區塊：**
+此區塊應與正確動作並列呈現，清晰對比錯誤的動作姿勢。
+
+1.  **錯誤動作示意：**
+    *   人物起始姿勢與正確動作一致，雙手推牆，弓箭步站姿。
+    *   但當身體重心前移時，**後方患側腳的『膝蓋明顯彎曲』**。
+    *   錯誤動作部分應有紅色的叉號，表示「錯誤」。
+    *   此處應有文字標註：『勿使患側膝蓋彎曲』，並使用紅色箭頭明確指向彎曲的膝蓋。
+
+**通用標註與風格要求：**
+*   所有文字標註均使用繁體中文，字體清晰易讀，無拼寫錯誤。
+*   使用簡潔的圖示和箭頭（綠色表示正確方向，紅色表示錯誤警示）標示動作方向和重點。
+*   背景簡潔，不分散注意力，可以是淺色漸變或純色，以突出人物動作。
+*   整體畫面應傳達專業、可信賴的醫療資訊感。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

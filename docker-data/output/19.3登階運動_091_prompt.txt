@@ -1,0 +1,84 @@
+請生成一張專業醫療教育風格的復健動作說明圖（infographic），清晰易懂，適合印刷和數位顯示。
+
+圖片標題應為「登階訓練：增加髖部與脊椎骨密度」。
+
+**整體構圖：**
+圖片應分為兩個主要部分：左側展示「正確動作」，右側展示「常見錯誤動作」。兩部分之間有清晰的分隔線或背景區塊區分，並使用對比鮮明的顏色。
+
+**左側：「正確動作」區塊**
+
+1.  **設備展示：**
+    *   圖中下方放置一個穩固的階梯或踏板，高度約10-15公分。階梯應顯示其穩固性。
+    *   背景可有示意性的牆面，人物一側的手可輕扶牆壁，強調安全。
+2.  **人物姿勢：**
+    *   描繪一位身形中性、肌肉骨骼比例符合醫學標準的人物（可穿著合身運動服裝）。
+    *   **起始姿勢：** 人物面對階梯站立，雙腳與肩同寬，背部挺直，核心微收，目光平視前方。
+    *   **動作分解（分步說明）：**
+        *   **步驟一：**
+            *   人物右腳完整踩上階梯，確保腳掌完全貼合踏板。
+            *   膝蓋應對準腳尖方向，不內夾或外翻。
+            *   軀幹保持正直，稍微前傾但不彎腰，利用髖部和臀部肌肉發力。
+            *   左腳輕微離地，準備跟上。
+            *   使用一個向上彎曲的箭頭，從右腳膝蓋指向髖部，表示主要發力方向。
+            *   文字標註：「右腳踩上階梯，核心穩定，膝蓋對準腳尖」。
+        *   **步驟二：**
+            *   左腳輕輕跟上，腳跟抬起，腳尖輕觸踏板或懸空，保持身體平衡。
+            *   此時右腳仍為主要支撐腳，膝蓋微彎但不鎖死。
+            *   軀幹繼續保持正直。
+            *   使用一個向上直線箭頭，從左腳向上指向腰部，表示身體向上移動。
+            *   文字標註：「左腳跟上，身體保持正直」。
+        *   **步驟三：**
+            *   右腳控制性地慢慢退下，先腳尖觸地，再腳跟落地。
+            *   左腳接著控制性地退下，回到起始位置。
+            *   動作應緩慢且有控制，避免摔落。
+            *   使用一個向下彎曲的箭頭，從右腳膝蓋指向地面，表示控制性下放。
+            *   文字標註：「依序緩慢退下，保持節奏與控制」。
+    *   **提示與建議：**
+        *   文字標註：「可扶牆確保安全。」
+        *   文字標註：「保持節奏，勿過快。」
+        *   文字標註：「目標：增加髖部與脊椎的骨密度。」
+
+**右側：「常見錯誤動作」區塊**
+
+此區塊應展示兩種常見的錯誤姿勢，並以紅色「X」符號或警示圖示明確標示錯誤點。
+
+1.  **錯誤動作一：膝蓋內夾（膝外翻）**
+    *   描繪人物右腳踩上階梯時，右膝蓋明顯向內側彎曲，未對準腳尖。
+    *   在右膝蓋位置上方標註一個大大的紅色「X」符號。
+    *   文字標註：「錯誤：膝蓋內夾（未對準腳尖）」。
+    *   旁白提示：「可能導致膝關節壓力過大，增加受傷風險。」
+2.  **錯誤動作二：身體過度前傾或後腳過度蹬地**
+    *   描繪人物右腳踩上階梯時，軀幹明顯過度向前彎曲，或後方左腳過度用力蹬地，導致右腳臀部肌肉未充分發力。
+    *   在人物的軀幹（腰部區域）或左腳（後腳）位置上方標註一個大大的紅色「X」符號。
+    *   文字標註：「錯誤：身體過度前傾 或 後腳過度蹬地」。
+    *   旁白提示：「減少目標肌群訓練效果，增加腰背負擔。」
+
+**整體視覺要求：**
+
+*   **顏色：** 使用專業、乾淨的配色方案。正確動作區域可使用綠色系或藍色系（代表正確、安全），錯誤動作區域使用紅色系或黃色系（代表警告、錯誤）。人物膚色應為中性色調。
+*   **文字：** 所有文字標註均使用繁體中文，字體清晰易讀，大小適中，無拼寫錯誤。重要標題可加粗或放大。
+*   **圖示：** 使用簡潔的箭頭指示動作方向和發力方向。可加入一個綠色勾號標示正確動作，紅色叉號標示錯誤動作。
+*   **背景：** 簡潔明瞭，不分散注意力。
+*   **人物線條：** 清晰流暢，具備醫學圖示的精確性。
+*   **版面配置：** 清晰的區塊劃分，易於快速理解信息。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

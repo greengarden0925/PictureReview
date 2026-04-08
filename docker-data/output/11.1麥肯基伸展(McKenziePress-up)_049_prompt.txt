@@ -1,0 +1,83 @@
+生成一張專業醫療教育風格的復健動作說明圖 (infographic)。圖片需清晰易懂，色彩對比鮮明，適合印刷與數位顯示。
+
+**標題：** 椎間盤突出復健：麥肯基伸展 (McKenzie Extension / Cobra Pose)
+**目的：** 本圖旨在指導椎間盤突出患者，利用脊椎後伸擠壓，將突出的椎間盤核向前推回原位（集中化現象），以減輕腿部麻痛，促進康復。
+
+**畫面布局：**
+圖片應分為左右兩大部分，左側清晰展示「正確動作」的起始、執行與完成，右側則明確對比「錯誤動作」。
+
+**人物設定：**
+展示一位身高體重適中的中性體型人物（可為男性或女性），身穿輕便運動服。人物姿勢需準確符合醫學標準，呈現中等年齡的健康形象。
+
+**所需設備：**
+一個簡潔的瑜珈墊或床的圖示，並標註文字「瑜珈墊或床」。
+
+---
+
+**左側：正確動作示範 (Correct Movement)**
+
+**1. 起始姿勢 (Starting Position)：**
+*   人物俯臥（趴姿），臉部朝下，雙手掌心朝下平放在肩膀下方，手臂彎曲，肘部靠近身體。
+*   全身呈現完全放鬆狀態，臀部與下半身（包括腿部）完全貼地，不可用力。
+*   文字標註：「俯臥，雙手置於肩膀下方，全身放鬆，臀部與下半身完全貼地。」
+
+**2. 動作步驟 (Action Steps)：**
+*   **步驟一：上半身撐起**
+    *   人物用手臂力量緩慢且穩定地撐起上半身，使頭部和胸部抬離地面，腰椎（不含骨盆）逐漸後仰，形成一個「C」字型曲線。
+    *   明確的向上箭頭標示上半身（從胸部到頭部）的抬起方向。
+    *   明確的向下箭頭或穩定線標示臀部、骨盆與雙腿始終固定不動，完全貼於地面。
+    *   文字標註：「用手臂力量撐起上半身，腰椎後仰」、「臀部與下半身完全放鬆貼地，不可離地」。
+    *   重要提示文字：「腰部是被動彎曲的，不能用力。若臀部感覺緊繃即為錯誤。」
+*   **步驟二：維持至適當角度**
+    *   人物繼續撐起，直到腰部有輕微的擠壓感或微痠感。表情應顯示舒適或專注，無痛苦。
+    *   此時，應特別觀察腿部麻痛感的變化。
+    *   文字標註：「撐到腰部有擠壓感或微痠」。
+    *   重要提示文字：「正確判斷：腿部麻痛感減少或往腰部集中」。
+    *   警示標註：「警示：如果腿部麻痛感增加或向外擴散，請立即減少抬起角度或停止動作。」
+*   **步驟三：停留與返回**
+    *   在最高點，人物保持姿勢1-2秒。
+    *   然後，用控制的力量緩慢地、平穩地趴回地面，回到起始姿勢。
+    *   一個圓形箭頭標示在最高點的停留時間。
+    *   一個向下箭頭標示上半身緩慢返回地面的方向。
+    *   文字標註：「在最高點停留1-2秒」、「慢慢趴回地面」。
+
+---
+
+**右側：錯誤動作示範 (Incorrect Movement)**
+
+**常見錯誤：骨盆離開地面**
+*   展示一個對比人物，同樣嘗試執行伸展動作，但其骨盆明顯抬離地面。腰部過度拱起，呈現不自然的壓力。
+*   一個清晰的向上箭頭標示骨盆抬起的方向，與左側正確動作的臀部固定形成鮮明對比。
+*   一個醒目的紅色「X」符號標示在錯誤動作上方。
+*   文字標註：「錯誤：骨盆離開地面」、「下半身未放鬆，腰部代償過度」。
+
+---
+
+**視覺元素與風格要求：**
+*   **圖示與箭頭：** 畫面應多使用簡潔的線條圖示和箭頭，明確標示動作方向、力量施加方向（如手臂推力）、以及需要穩定不動的區域。
+*   **顏色對比：** 正確動作的箭頭、邊框和標註文字可使用綠色或藍色系（如#28A745或#007BFF）。錯誤動作則使用醒目的紅色系（如#DC3545）來標示。
+*   **文字標註：** 所有文字標註均使用繁體中文，字體易讀，大小適中，無拼寫錯誤。
+*   **專業感：** 整體風格應如同專業醫療機構發布的衛教單張，乾淨、精確、具有權威性，避免任何卡通化或過度藝術化的元素。
+*   **骨骼強調：** 可簡化呈現人體骨骼結構，特別是脊椎和骨盆區域，以更直觀地說明動作對這些部位的影響。
+*   **背景：** 簡潔的淺色或白色背景，以確保圖示和文字的清晰度。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

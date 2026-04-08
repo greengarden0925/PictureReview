@@ -1,0 +1,75 @@
+生成一張專業醫療教育風格的復健動作說明圖（infographic），主題為「手腕屈肌/伸肌伸展(WristStretch)」。圖片需清晰易懂，提供正確動作指導與常見錯誤對比，所有文字標註使用繁體中文，無拼寫錯誤。
+
+**整體佈局與風格要求：**
+*   **風格：** 專業醫療插畫風格，線條簡潔，色彩明亮，適合印刷與數位顯示，具有高度可讀性。
+*   **人物：** 畫面中人物應為一個中性、簡潔風格的醫療插畫人物（無明顯性別或種族特徵），姿勢標準，穿著運動服或醫療服。
+*   **背景：** 簡潔的白色或淺色背景，無干擾元素。
+*   **配色：** 顏色對比明顯，主要使用藍、綠、灰等專業醫療常用色系，重點強調部分（如箭頭、錯誤標示）可使用鮮明對比色（如紅色、綠色）。
+*   **文字：** 所有標註文字使用繁體中文，字體清晰，大小適中。
+*   **排版：** 圖片應分為多個清晰區塊，每個區塊展示一個動作步驟或注意事項，區塊間有適當留白。
+
+**圖片內容細節：**
+
+**1. 標題區塊（圖頂部）：**
+*   **主標題：** 特大字體清晰標示「手腕屈肌/伸肌伸展 (Wrist Stretch)」。
+*   **副標題/目的：** 在主標題下方，小字體標示「目的：放鬆與拇指肌腱相連的前臂筋膜」。
+*   **設備：** 緊隨其後標註「所需設備：無」。
+
+**2. 動作步驟區塊：**
+
+**A. 伸展伸肌 (Extensor Stretch) - 左側面板**
+*   **標題：** 在此面板上方標示「動作一：伸展伸肌」。
+*   **正確動作圖：**
+    *   **人物姿勢：** 描繪人物患側手臂向前平伸，手肘完全伸直（不可彎曲），掌心朝下。
+    *   **動作：** 健側手輕輕握住患側手掌，將患側手腕向下壓，使患側手指指向地面。
+    *   **動作細節：** 患側手腕應明顯彎曲，前臂伸肌群有清晰的拉伸感。
+    *   **標註：**
+        *   使用簡潔的紅色箭頭清晰標示健側手向下壓的方向（從手掌上方指向下方）。
+        *   文字標註：「手肘伸直」、「掌心朝下」、「向下壓」。
+
+**B. 伸展屈肌 (Flexor Stretch) - 右側面板**
+*   **標題：** 在此面板上方標示「動作二：伸展屈肌」。
+*   **正確動作圖：**
+    *   **人物姿勢：** 描繪人物患側手臂向前平伸，手肘完全伸直（不可彎曲），掌心朝上。
+    *   **動作：** 健側手輕輕握住患側手指（可延伸至掌心），將患側手掌及手指向後（朝向身體方向）扳，使患側手指指向天花板。
+    *   **動作細節：** 患側手腕應明顯向後彎曲，前臂屈肌群有清晰的拉伸感。
+    *   **標註：**
+        *   使用簡潔的紅色箭頭清晰標示健側手向後扳的方向（從手指尖端指向手腕或身體）。
+        *   文字標註：「手肘伸直」、「掌心朝上」、「向後扳」。
+
+**3. 常見錯誤動作提醒區塊（圖底部）：**
+*   **標題：** 獨立標題「常見錯誤動作提醒」。
+*   **左右對比圖：**
+    *   **左側子圖（錯誤動作）：**
+        *   **人物姿勢：** 描繪人物患側手臂向前伸，但手肘明顯彎曲（約90度或更小），導致前臂未完全伸展。手腕動作可參考上述正確方向。
+        *   **標註：** 明確標示「錯誤：手肘彎曲」，並用紅色「X」符號醒目標示。
+    *   **右側子圖（正確動作）：**
+        *   **人物姿勢：** 描繪人物患側手臂向前平伸，手肘完全伸直（與上述正確動作保持一致），手腕動作可參考上述正確方向。
+        *   **標註：** 明確標示「正確：手肘完全伸直」，並用綠色「✓」符號醒目標示。
+*   **文字說明：** 在對比圖下方，簡潔說明文字：「執行手腕伸展時，請務必確保手肘始終保持完全伸直，以有效拉伸前臂肌群，避免因手肘彎曲導致伸展效果不佳。」
+
+**整體視覺要求：**
+*   所有動作姿勢均需符合醫學標準，精準無誤。
+*   箭頭和簡潔圖示應清晰指明動作方向和重點。
+*   文字標註應直接貼近相關動作部位或清晰指向。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

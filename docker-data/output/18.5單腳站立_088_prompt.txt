@@ -1,0 +1,80 @@
+生成一個專業醫療教育風格的復健動作說明圖 (infographic)。
+
+**圖片主題：** 跌倒預防系列：單腳站立運動 (Single Leg Stance)
+
+**整體風格：** 清晰易懂，專業簡潔，使用平面化設計元素，無陰影或複雜紋理。背景為純白色或極淺灰色。圖片應呈現高對比度，色彩鮮明，適合印刷及數位顯示。
+
+**主要內容區塊：**
+
+1.  **標題區 (頂部中央)：**
+    *   主標題：**跌倒預防系列：單腳站立運動 (Single Leg Stance)**
+    *   副標題：訓練骨盆穩定度，避免行走時骨盆晃動，是預防跌倒的關鍵。
+    *   字體：粗體、醒目，繁體中文。
+
+2.  **動作說明區 (分為左右兩欄或上下兩區塊)：**
+
+    *   **左側/上方區塊：正確動作 (Green Checkmark Icon)**
+        *   **標題：正確動作** (Green text, bold)
+        *   **人物描繪：**
+            *   一位中性、健康的成年人，穿著簡潔運動服，全身入鏡。
+            *   背景有一面簡單的全身鏡，鏡面可模糊顯示人物倒影，暗示正在觀察。
+            *   **起始姿勢：** 雙手輕鬆插腰站立，雙腳與肩同寬，目光平視前方。
+            *   **動作執行：**
+                *   圖示一個連貫的動作，或兩張小圖顯示起始與抬腿。
+                *   抬起其中一隻腳，膝蓋微彎，腳尖離地約10-15公分。
+                *   **關鍵細節：** 站立腿保持微彎不鎖死，身體軀幹保持筆直，不前傾或側彎。**骨盆必須保持水平，兩側高度一致，絕不能一高一低。**
+                *   **視覺強調：** 在站立腿的臀部外側（臀中肌區域）輕微標示收縮感，可使用簡潔的紋理或內部箭頭暗示肌肉發力。
+                *   **時間標註：** 在圖旁或圖下標註「維持單腳站立30秒」。
+        *   **文字標註 (繁體中文，置於圖旁)：**
+            *   1. 雙手插腰站立，面對鏡子。
+            *   2. 抬起一腳，維持單腳站立30秒。
+            *   3. **觀察鏡子，確認骨盆必須保持水平，不能一高一低。**
+            *   4. 確保臀中肌及深處梨狀肌等肌群有收縮使力，以維持軀幹穩定。
+        *   **圖示與箭頭：**
+            *   綠色粗實線箭頭表示穩定和正確的姿勢方向（例如：從骨盆兩側向內，或從腳底向上）。
+            *   一個綠色圓形打勾的圖標，表示正確。
+
+    *   **右側/下方區塊：錯誤動作 (Red Cross Icon)**
+        *   **標題：錯誤動作** (Red text, bold)
+        *   **人物描繪：**
+            *   另一位中性、健康的成年人，與正確動作的人物服裝和角度相似，以便對比。
+            *   **動作執行：**
+                *   同樣做出單腳站立的姿勢，但**明顯且誇張地呈現骨盆傾斜**。
+                *   抬起腳的那一側骨盆明顯下沉，造成一高一低的狀況。
+                *   軀幹可能伴隨輕微的側彎，以代償骨盆的失衡。
+                *   **關鍵細節：** 明顯的骨盆高低不平。
+        *   **文字標註 (繁體中文，置於圖旁)：**
+            *   **錯誤！骨盆傾斜，一高一低。**
+            *   此動作未能有效訓練骨盆穩定肌群。
+        *   **圖示與箭頭：**
+            *   紅色虛線箭頭或波浪箭頭表示不穩定和錯誤的方向（例如：從高側骨盆向下，或從低側骨盆向下）。
+            *   一個紅色圓圈打叉的圖標，表示錯誤。
+
+3.  **整體設計要求：**
+    *   使用簡潔的線條和圖示。
+    *   文字使用標準繁體中文，無錯別字，字體清晰易讀。
+    *   顏色對比鮮明：例如，綠色代表正確，紅色代表錯誤。主要文字顏色為黑色或深灰色。
+    *   圖示中的人物應呈現專業、中性的醫學插畫風格，而非寫實照片。
+    *   版面布局應留有足夠的留白，避免擁擠。
+    *   設備「鏡子」應以簡潔的圖示方式呈現，不佔用過多畫面。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

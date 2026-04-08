@@ -1,0 +1,68 @@
+Generate a detailed rehabilitation exercise infographic in a professional medical education style, characterized by clarity, ease of understanding, and distinct color contrast suitable for both print and digital display.
+
+The infographic should focus on the exercise **'俯臥休息 (Prone Lying)'** for the goal of **'恢復脊椎生理曲度'**.
+
+**Visual Elements & Layout:**
+The layout must be clean, with distinct sections for title, equipment, correct actions (standard and modified), and incorrect actions. Use a neutral background (e.g., white or light grey). The overall tone should be informative and reassuring. All human figures should be gender-neutral, depicted with professional, simplified medical drawing style that clearly illustrates posture and spinal alignment, without being overly detailed like a full anatomical chart.
+
+**Header Section:**
+*   **大標題 (Main Title): 脊椎復健動作：俯臥休息 (Prone Lying)** - Prominently displayed at the top, bold and clear.
+*   **副標題 (Subtitle): 目標：恢復脊椎生理曲度** - Below the main title, clearly stating the exercise's purpose.
+
+**Equipment Section:**
+*   A small, clear icon or graphic representation of the required equipment: **床或瑜珈墊，枕頭 (扁平)**. Label this clearly in Traditional Chinese.
+
+**Core Content - Divided into Three Main Illustrations (Vertically or Horizontally Arranged for Comparison):**
+
+**1. 正確動作：標準姿勢 (Correct Action: Standard Posture)**
+*   **Illustration:** A full-body depiction of a person lying prone on a yoga mat or bed.
+    *   **Posture Details:** The person is lying face down, with their head gently turned to one side to avoid neck strain. The neck is relaxed and aligned with the spine. Arms are relaxed, positioned comfortably either alongside the body or extended gently above the head. Legs are straight and relaxed.
+    *   **Spine Focus:** Emphasize that the entire body is relaxed, allowing gravity to gently extend the spine. The lower back should show a natural, passive curve without any active arching or muscle tension. The pelvis should be gently resting on the surface.
+    *   **Text Annotation (Traditional Chinese):**
+        *   Primary label below figure: **正確姿勢：全身放鬆趴著**
+        *   Concept label: **讓地心引力幫助椎間盤復位**
+        *   Duration label: **維持5-10分鐘**
+*   **Visual Cues:** Use subtle blue or green arrows pointing downwards to represent gravity's gentle pull, indicating a passive, relaxed state that aids spinal extension.
+
+**2. 正確動作：腰痛劇烈時的調整 (Correct Action: Adjustment for Severe Lower Back Pain)**
+*   **Illustration:** A full-body depiction similar to the standard posture, but with a specific modification clearly shown.
+    *   **Posture Details:** The person is lying prone as described above, but a flat pillow is distinctly placed under the lower abdomen (specifically, the area between the navel and the pubic bone). The head and neck remain relaxed and aligned.
+    *   **Text Annotation (Traditional Chinese):**
+        *   Primary label below figure: **若腰痛劇烈，可在腹部下方墊一個枕頭**
+*   **Visual Cues:** A clear arrow pointing to the exact placement of the pillow under the abdomen. The pillow should be distinct but not overly thick, demonstrating a supportive adjustment.
+
+**3. 錯誤動作：常見錯誤 (Incorrect Action: Common Error)**
+*   **Illustration:** A contrasting full-body depiction of a person lying prone, clearly exhibiting common mistakes.
+    *   **Posture Details:** The person appears visibly tense. Their back muscles are tensed, perhaps actively arching the lower back excessively (hyperlordosis) or lifting the head/chest unnecessarily, causing strain in the neck or lower back. The face might show a strained or uncomfortable expression, clearly indicating lack of relaxation. The spine does not appear relaxed or naturally extended.
+    *   **Text Annotation (Traditional Chinese):**
+        *   Primary label below figure: **錯誤姿勢：全身緊繃，或刻意挺腰／抬頭**
+        *   Explanation label: **錯誤原因：肌肉緊繃會妨礙脊椎放鬆與椎間盤復位。過度挺腰或抬頭可能加劇不適。**
+*   **Visual Cues:** Place a large, prominent red 'X' mark over this figure to denote incorrectness. Use red, jagged arrows or warning symbols to highlight specific areas of tension or excessive arching (e.g., lower back, neck), emphasizing potential harm or incorrect form.
+
+**General Visual and Text Requirements:**
+*   **Text:** All text labels, titles, and explanations must be in clear, legible Traditional Chinese, with no spelling errors. Use bold fonts for titles and key phrases to enhance readability.
+*   **Icons and Arrows:** Employ clean, simple, vector-like arrows (blue/green for correct actions and guidance, red for errors and warnings) to indicate posture, direction of force (gravity), and areas of focus or tension. Simple, minimalist icons (e.g., a simplified spine or disk icon) can be used subtly to reinforce the goal without clutter.
+*   **Color Palette:** Utilize a professional medical color scheme (e.g., blues, greens, greys) with high contrast against a white or light background for optimal readability and accessibility. Reserve red specifically for highlighting errors and warnings to draw immediate attention. Ensure the colors are vibrant and distinct for both digital display and high-quality print.
+*   **Anatomy Accuracy:** All depicted postures and their modifications must be medically accurate and safe, reflecting standard rehabilitation guidelines for passive prone lying. The emphasis is on clear, didactic representation rather than hyper-realism.
+*   **Clarity:** The distinction between correct and incorrect actions must be immediately obvious and easily understood at a glance. Each illustration and its accompanying text should convey its message effectively and unambiguously.
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

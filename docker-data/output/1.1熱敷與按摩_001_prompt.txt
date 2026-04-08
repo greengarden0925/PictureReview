@@ -1,0 +1,76 @@
+生成一個專業醫療教育風格的資訊圖表（infographic），標題為「落枕復健：頸部熱敷與輕柔按摩」。此圖表應清晰易懂，色彩對比明顯，適合印刷和數位顯示。所有文字標註均使用繁體中文，無拼寫錯誤。
+
+圖表應包含以下區塊：
+
+**1. 資訊圖表主標題：**
+   - 斗大且清晰的標題文字：**落枕復健：頸部熱敷與輕柔按摩**
+   - 次標題/目標說明：**目標：緩解痙攣，恢復活動度。增加血液循環，軟化僵硬肌肉，降低疼痛感以便後續活動。**
+
+**2. 器材 (Equipment) 區塊：**
+   - 簡潔的圖示：一個熱敷墊（或一條熱毛巾的圖示）、一張椅子、一張床。
+   - 文字說明：**器材：熱敷墊（或熱毛巾）、椅子或床。**
+
+**3. 準備姿勢 (Starting Position) 區塊：**
+   - 繪製一個中性別的擬人化圖示（簡潔但醫學上準確），展示兩種舒適姿勢：
+     - **舒適坐姿：** 患者坐在椅子上，肩部放鬆，頸部中立。
+     - **舒適趴姿：** 患者趴在床上，頸部舒適地放置。
+   - 在兩種姿勢中，熱敷墊（或熱毛巾）應清晰地放置在患者頸部後方僵硬疼痛的區域。
+   - 文字說明：**準備姿勢：患者採舒適坐姿或趴姿，將熱敷墊置於頸部僵硬疼痛處。**
+
+**4. 動作一：熱敷 (Action 1: Heat Pack) 區塊：**
+   - **正確動作示範：**
+     - 圖示：延續「準備姿勢」中的圖示，患者維持舒適坐姿或趴姿，熱敷墊敷於頸部患處。
+     - 輔助圖示：一個時鐘圖示或數字顯示「15-30分鐘」，指示敷用時間。
+     - 視覺提示：以溫和的波浪線條或顏色漸變，示意「溫熱舒適」的感覺，避免過熱。
+     - 文字說明：
+       - 主標題：**動作一：熱敷**
+       - 步驟：**將熱敷墊敷於患處15-30分鐘。**
+       - 概念：**概念：溫度不宜過高，避免燙傷，感覺溫熱舒適即可。**
+   - **錯誤示範（對比）：**
+     - 圖示：在正確動作旁，繪製一個患者敷著熱敷墊睡著的圖示，圖中頸部區域以紅色或警告色標示可能燙傷的風險，並加上一個大大的紅色「X」符號。
+     - 文字說明（紅色或警告色）：**錯誤示範：敷著睡著導致燙傷。**
+
+**5. 動作二：輕柔按摩 (Action 2: Gentle Massage) 區塊：**
+   - **正確動作示範：**
+     - 圖示：繪製一個中性別的擬人化圖示，展示患者在熱敷後，用指腹輕柔按摩頸部周圍緊繃肌肉的姿勢。可以稍微側面或背面視角，以便看清頸部和手部動作。
+     - 特寫：在頸部區域加入一個局部特寫，清晰展示頸部肌肉紋理，以及指腹按壓和移動的方向。
+       - 使用箭頭指示兩種按摩方向：
+         - **平行肌肉紋理上下滑動：** 沿著肌肉纖維方向上下移動的箭頭。
+         - **垂直推壓按摩：** 垂直於肌肉纖維方向的推壓箭頭。
+       - 視覺提示：指腹輕微按壓肌肉的狀態，強調「適度的力道」，而非深層揉捏。
+     - 文字說明：
+       - 主標題：**動作二：輕柔按摩**
+       - 步驟：**熱敷後，用指腹「適度的力道」按壓脖子周圍緊繃的肌肉條索，平行肌肉紋理上下滑動或垂直推壓按摩。**
+       - 概念：**概念：力道適中，像是在沿肌肉走向撥弄按壓肌肉塊，而非無標的用力推拿。**
+   - **錯誤示範（對比）：**
+     - 圖示：在正確動作旁，繪製兩個錯誤情境圖示：
+       - 圖示A：一個手指過度集中並用力按壓頸部單一「痛點」的圖示，痛點周圍有紅色疼痛放射線，並加上大紅色「X」符號。
+       - 圖示B：一個患者使用自動按摩槍直接衝擊頸部或脊椎區域的圖示，並加上大紅色「X」符號。
+     - 文字說明（紅色或警告色）：**錯誤示範：集中按壓痛點或單點使用按摩槍處理。**
+
+**整體風格要求：**
+- 圖片採用專業醫療教育風格，線條清晰，圖形簡潔，醫學姿勢準確。
+- 使用柔和、專業的醫療色調（如藍色、綠色、灰色系），警示部分使用紅色。
+- 文本使用易讀的無襯線字體，確保所有繁體中文字體清晰可辨。
+- 每個動作步驟和其概念、錯誤示範應有清晰的區塊分隔。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

@@ -1,0 +1,79 @@
+一個專業醫療教育風格的復健動作說明圖（infographic），清晰、簡潔、易懂。圖片應為垂直排版，顏色對比明顯，適合印刷和數位顯示。所有文字標註均使用繁體中文，無拼寫錯誤。
+
+**主題區塊：**
+1.  **頂部標題：** 顯眼地標示「梨狀肌症候群復健運動」。
+2.  **副標題：** 「【仰臥4字伸展】(Figure-4 Piriformis Stretch)」。
+3.  **目標說明：** 「目標：放鬆緊繃的梨狀肌，深層伸展梨狀肌，緩解假性坐骨神經痛。」
+4.  **所需器材：** 「所需器材：瑜珈墊」。
+
+**主要動作圖示區塊（正確動作）：**
+此區塊應包含一系列連貫的圖示，展示正確的動作步驟。
+*   **人物：** 繪製一個性別中立、姿態準確、表情平靜的人體模型（或簡潔的醫學插畫風格人物），穿著輕便運動服，躺在瑜珈墊上。
+*   **起始姿勢圖示：**
+    *   人物平躺於瑜珈墊上，雙膝彎曲，雙腳掌平放於地面。
+    *   患側腳踝（例如右腳踝）輕輕跨在好腳（例如左腳）的膝蓋上，使患側腿形成一個清晰的「數字4」形狀。
+    *   **文字標註：** 「起始姿勢：平躺，雙膝彎曲，患側腳踝跨在好腳膝蓋上（腿呈數字4）。」
+*   **動作步驟圖示（三步驟）：**
+    1.  **步驟一：** 延續起始姿勢，雙手交疊，輕輕抱住好腳（下方腳）的大腿後側。
+        *   **圖示細節：** 雙手動作清晰，抱住大腿後側的示意圖。
+        *   **文字標註：** 「步驟1：雙手抱住「好腳」大腿後側。」
+    2.  **步驟二：** 保持頭部與背部平貼瑜珈墊，慢慢將好腳（下方腳）拉向胸口方向。
+        *   **圖示細節：** 繪製一個從好腳大腿後側往胸口方向的清晰箭頭，表示拉伸方向。
+        *   強調：頭部、頸部與肩部放鬆，下巴微收，腰部緊貼瑜珈墊，不拱起。
+        *   **文字標註：** 「步驟2：慢慢將好腳拉向胸口。感受患側臀部深處強烈痠脹感。」
+        *   在患側臀部深處（梨狀肌位置）可用淡色光暈或圓點標示，並標註「梨狀肌伸展處」。
+    3.  **步驟三：** 保持拉伸姿勢，進行深呼吸。
+        *   **圖示細節：** 人物保持拉伸動作，臉部表情顯示放鬆。可加入一個簡潔的呼吸圖示（例如波浪線或肺部小圖標）。
+        *   **文字標註：** 「步驟3：停留30秒，保持深呼吸放鬆。」
+*   **正確姿勢核對點（側邊或下方）：**
+    *   使用綠色打勾符號（✓）配合文字標註：
+        *   「✓ 患側腳踝輕輕跨於好腳膝蓋上」
+        *   「✓ 腰部緊貼瑜珈墊，勿拱起」
+        *   「✓ 頸部放鬆，下巴微收」
+        *   「✓ 感受臀部深處痠脹感」
+
+**常見錯誤對比區塊：**
+此區塊應與正確動作圖示形成鮮明對比。
+*   **標題：** 標示「常見錯誤」。
+*   **錯誤圖示：** 繪製另一個人體模型，同樣進行仰臥4字伸展，但明顯呈現錯誤動作。
+    *   **錯誤細節：** 當拉動好腳時，腰部明顯拱起，離開瑜珈墊。頭部或肩部可能過度用力抬起。
+    *   **視覺警示：** 在錯誤動作圖示上方或旁邊使用紅色大叉（X）符號。
+    *   用紅色箭頭指向腰部拱起的區域。
+    *   **文字標註：** 「X 錯誤：拉動時腰部拱起離開地面。這會導致腰椎壓力，降低伸展效果。」
+    *   人物臉部表情可顯示輕微不適或用力過度。
+
+**整體風格與配色：**
+*   **風格：** 專業、乾淨、現代的醫療插畫風格。線條清晰，去背景化或使用簡潔的單色背景。
+*   **配色：** 
+    *   主要顏色：藍色、綠色等醫療機構常用且具穩定感的色調作為主色系。
+    *   背景：白色或淺灰色。
+    *   指示箭頭、重點區域：可使用橘色或深藍色等較亮的對比色。
+    *   錯誤警示：鮮豔的紅色。
+    *   文字顏色：清晰易讀的深色（例如黑色或深灰色）。
+
+**排版要點：**
+*   標題置於最上方，清晰醒目。
+*   正確動作步驟圖示按邏輯順序排列，配以相應的文字說明。
+*   「常見錯誤」區塊獨立放置，與正確動作形成視覺對比，並配有警示標誌。
+*   圖示與文字間距適中，版面整潔不擁擠。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

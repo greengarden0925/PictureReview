@@ -1,0 +1,51 @@
+生成一張專業醫療教育風格的復健動作說明圖 (Infographic)。圖表主題為「貓牛式 (Cat-Cow Stretch)」，目標是「恢復脊椎分節活動度」。
+
+圖片內容需分為清晰的區塊，整體呈現專業、整潔、有條理的版面：
+1.  **標題區塊**: 醒目的繁體中文大標題「貓牛式 (Cat-Cow Stretch)」，下方以較小字體標註「復健目標：恢復脊椎分節活動度」。
+2.  **起始姿勢區塊**:
+    *   描繪一個中性、解剖學上精確的人物，以標準的四足跪姿呈現，雙手掌平貼地面，手肘筆直伸展，與肩同寬。膝蓋與臀部同寬，腳背放鬆平貼地面。人物身體下方顯示一張簡潔的瑜珈墊。
+    *   清晰的繁體中文文字標註：「起始姿勢：四足跪姿，手掌撐地手肘伸直」。
+3.  **正確動作區塊（左右對比或上下排列兩張圖）**:
+    *   **動作一：吐氣、拱背（貓式）**:
+        *   描繪人物從起始姿勢流暢地轉變為「貓式」：頭部向下，眼睛看向肚臍。背部向上弓起，脊椎呈現圓弧狀，像一隻生氣的貓。
+        *   使用簡潔的白色或淺色箭頭清晰標示：頭部向下、脊椎向上拱起的動作方向。
+        *   加入標準的呼吸圖示（代表吐氣的向下箭頭）於人物嘴部附近。
+        *   繁體中文文字標註：「吐氣，低頭看肚臍，背部拱起像生氣的貓，將脊椎一節節推向天花板。動作要慢且流暢。」
+    *   **動作二：吸氣、塌腰（牛式）**:
+        *   描繪人物從起始姿勢或貓式流暢地轉變為「牛式」：頭部抬起，眼睛看向前方。肚子自然下沉，腰部向下凹陷，脊椎呈現下凹弧線。
+        *   使用簡潔的白色或淺色箭頭清晰標示：頭部向上、脊椎向下凹陷的動作方向。
+        *   加入標準的呼吸圖示（代表吸氣的向上箭頭）於人物嘴部附近。
+        *   繁體中文文字標註：「吸氣，抬頭看前方，肚子下沉，腰部呈現下凹弧線。動作要慢且流暢。」
+4.  **錯誤動作區塊**:
+    *   描繪一個四足跪姿的人物，姿勢嘗試做貓牛式，但其「手肘明顯彎曲」，與正確動作形成鮮明對比。
+    *   使用紅色X符號或警示圖示清楚標註彎曲的手肘，並用紅色箭頭指向錯誤處。
+    *   繁體中文文字標註：「錯誤動作：手肘彎曲」。
+    *   可加入一個小型對比圖示，顯示正確手肘筆直伸展的樣貌，以強化提示。
+
+**整體圖片風格要求**:
+*   色彩對比鮮明，使用專業的醫療藍、白色、灰色作為主色調，輔以少量清晰的警示紅色，確保圖片在印刷和數位顯示上都清晰易讀。
+*   線條清晰、簡潔，人物姿勢準確符合醫學標準和解剖學原理。
+*   所有圖示（如呼吸符號、動作方向箭頭）應簡潔易懂，一目瞭然。
+*   所有文字內容皆為繁體中文，無任何拼寫錯誤，字體應清晰且大小適中，便於閱讀。
+*   背景為純色或淡色，避免任何可能分散注意力的元素，保持畫面清潔感。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

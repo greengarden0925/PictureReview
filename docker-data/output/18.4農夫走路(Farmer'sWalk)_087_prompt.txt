@@ -1,0 +1,81 @@
+生成一張專業醫療教育風格的復健動作說明圖 (Infographic)。圖片應清晰易懂，色彩對比鮮明，適合印刷與數位顯示。
+
+**主標題：** 「農夫走路 (Farmer's Carry)」
+**副標題：** 「全身性負重訓練：強化握力、核心與行走能力」
+
+**設備資訊區塊：** 圖片上方或側邊應有獨立區塊，顯示「設備：兩個裝水的寶特瓶或重物」的簡潔圖示，並附上繁體中文標註。
+
+圖片主要分為左右兩部分，清晰對比「正確動作」與「錯誤動作」。
+
+---
+
+**左側 (或上方) 區塊：**
+**標題：** 「圖例一：正確動作」
+
+**人物描繪：**
+一位成年人（男女不拘，體態中等），以側面視角展示。
+*   **起始姿勢：** 雙手各持一個裝水的寶特瓶或相同大小的重物，自然垂於身體兩側。
+*   **正確姿勢細節：** 
+    *   挺胸，縮腹，背部打直，雙肩放鬆並下沉。
+    *   視線平視前方，頭部與脊椎呈一直線。
+    *   核心肌群收緊，保持身體軀幹在行進過程中穩定，沒有任何左右或前後的晃動。
+    *   膝蓋微彎，步伐穩定向前。
+
+**動作指示：**
+*   使用粗實的綠色箭頭標示人物「向前穩定行走」的方向。
+*   在人物的身體上方或核心區域，放置一個綠色的「✓」圖示，明確表示動作正確。
+
+**文字標註：**
+*   「起始姿勢：雙手各拿重物垂在身側」
+*   「動作要領：挺胸縮腹，身體核心穩定，像提菜籃一樣平穩向前走。」
+*   可加入簡潔的圖示或文字，強調「強化握力」、「核心穩定」、「改善行走能力」。
+
+---
+
+**右側 (或下方) 區塊：**
+**標題：** 「圖例二：錯誤動作」
+
+**人物描繪：**
+與左側相同的成年人，以側面或略帶俯視的角度，清晰呈現錯誤姿勢。
+*   **錯誤姿勢細節：** 
+    *   人物的身體軀幹（特別是腰部或臀部）明顯左右搖晃或左右傾斜，重心不穩。
+    *   雙肩可能一高一低，或隨身體擺動。
+    *   頭部可能低垂或左右轉動。
+    *   持重物的手臂因身體搖晃而過度擺動。
+
+**動作指示：**
+*   使用紅色的虛線箭頭標示人物「身體左右搖晃」的動作方向（例如，從左到右，再從右到左的弧線箭頭），以視覺化方式呈現不穩定性。
+*   在人物的身體上方或主要搖晃區域，放置一個紅色的「X」圖示，明確表示動作錯誤。
+
+**文字標註：**
+*   「錯誤示範：身體左右搖晃，核心不穩定。」
+*   **警示標語：** 在錯誤動作下方應有簡潔的警示語，例如：「錯誤動作可能導致：姿勢不良、核心失衡、潛在受傷風險。」
+
+---
+
+**整體風格與要求：**
+*   **風格：** 採用簡潔的扁平化設計（flat design）或線條圖（line art），避免過於寫實的插畫，以提高辨識度與專業感。
+*   **文字：** 所有文字標註均使用繁體中文，字體清晰易讀，無拼寫錯誤。
+*   **色彩：** 使用綠色或藍色系表示正確動作，紅色或橘色系表示錯誤動作，形成鮮明對比。背景簡潔，不包含雜亂的元素，確保動作為視覺焦點。
+*   **準確性：** 確保人物比例和動作姿勢符合醫學標準和人體工學，無誇張變形。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

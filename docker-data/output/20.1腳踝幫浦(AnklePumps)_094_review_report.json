@@ -1,0 +1,39 @@
+{
+  "total_iterations": 1,
+  "final_passed": true,
+  "reviews": [
+    {
+      "passed": true,
+      "content_match": {
+        "score": 95,
+        "issues": [
+          "「正確起始姿勢」區塊的標題缺少英文翻譯「(Correct Starting Position)」。",
+          "「動作步驟」區塊的標題缺少英文翻譯「(Action Steps)」。",
+          "「正確與錯誤示範」區塊的標題缺少英文翻譯「(Correct vs. Incorrect Demonstration)」。"
+        ]
+      },
+      "text_accuracy": {
+        "score": 100,
+        "errors": []
+      },
+      "visual_correctness": {
+        "score": 100,
+        "issues": []
+      },
+      "overall_quality": {
+        "score": 98,
+        "comments": [
+          "圖片整體風格專業，符合醫療教育材料的要求。",
+          "資訊呈現清晰、易讀，具備高對比度。",
+          "視覺元素保持一致性，有助於學習者理解。"
+        ]
+      },
+      "recommendations": [
+        "建議在「正確起始姿勢」、「動作步驟」及「正確與錯誤示範」等區塊標題下方或旁邊，依據原始要求補上對應的英文翻譯，以完全符合 Prompt 需求。"
+      ],
+      "summary": "這張復健動作說明圖片在內容呈現、文字準確性、視覺正確性和整體品質方面都表現出色，高度符合原始要求。所有的關鍵資訊、動作步驟、正確與錯誤示範以及視覺風格都得到了很好的實施。唯一的不足是部分區塊標題缺少原始 Prompt 中要求提供的英文翻譯。若能補齊這些英文翻譯，將達到完美符合度。",
+      "iteration": 1,
+      "image_path": "output\\20.1腳踝幫浦(AnklePumps)_094_v1.jpg"
+    }
+  ]
+}

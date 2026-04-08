@@ -1,0 +1,64 @@
+生成一張專業醫療教育風格的復健動作說明圖（infographic），清晰易懂，針對「比目魚肌伸展 (Soleus Stretch)」。
+
+**圖片主題與目標：**
+主標題：**比目魚肌伸展 (Soleus Stretch)**
+副標題：**目標：伸展深層的比目魚肌**
+
+**圖片整體結構要求：**
+1.  圖片應分為左右兩大部分，左側為「正確動作」，右側為「錯誤動作」，並在下方提供關鍵提示。
+2.  人物模型應為中性、寫實風格，穿著運動服裝，肌肉線條清晰可見，以利動作呈現。
+3.  整體構圖簡潔，留白適度，重點突出。
+
+**左側區域：正確動作 (Correct Action)**
+1.  **標題：正確動作**
+2.  **起始姿勢：** 描繪人物以弓箭步面向一面牆壁，雙手扶牆以維持身體穩定。患腳（目標伸展的後腳）腳尖指向前方，腳跟確實踩地。
+3.  **動作步驟與姿勢：**
+    *   **步驟一：** 縮短雙腳前後距離，使後腳膝蓋微微彎曲（約15-30度角）。請明確顯示後腳膝蓋彎曲的姿勢，但腳跟仍緊貼地面。
+    *   **步驟二：** 保持後腳腳跟緊貼地面，身體重心緩慢向下沉，同時軀幹保持正直，不駝背。
+4.  **感覺與目標肌肉：**
+    *   使用文字標註：「感覺拉伸感位於小腿深層、靠近腳踝處」。
+    *   以簡潔的肌肉圖示（或高亮）明確標示出比目魚肌的位置（位於小腿深層），並用綠色箭頭指向該區域，強調伸展目標。
+5.  **視覺標示：**
+    *   在正確動作人物旁顯示一個大型的綠色「✓」符號。
+    *   使用粗體實線綠色箭頭標示推牆的方向（輕微往前推）和重心下沉的方向（垂直向下）。
+    *   使用虛線箭頭從彎曲的後腳膝蓋指向腳踝，示意伸展的深層感。
+
+**右側區域：常見錯誤動作 (Common Error)**
+1.  **標題：常見錯誤動作**
+2.  **動作描述：** 描繪與左側相同起始姿勢的人物，但後腳膝蓋完全打直，或彎曲幅度過小，呈現直膝狀態。後腳腳跟也應踩地。
+3.  **錯誤標示與說明：**
+    *   明確標註文字：「膝蓋打直」。
+    *   說明錯誤影響：「主要伸展到小腿淺層腓腸肌，比目魚肌伸展效果不佳」。
+    *   以簡潔的肌肉圖示（或高亮）標示出腓腸肌的位置（位於小腿淺層），並用紅色箭頭指向該區域，與左側的目標肌肉形成對比。
+4.  **視覺標示：**
+    *   在錯誤動作人物旁顯示一個大型的紅色「✕」符號。
+    *   使用紅色虛線箭頭從打直的後腳膝蓋指向小腿肚，示意錯誤的伸展方向。
+    *   錯誤動作的人物可以輕微模糊或顏色稍微暗淡，以凸顯左側的正確動作。
+
+**文字標註與圖示風格要求：**
+*   所有標題、步驟說明、感覺提示和錯誤提示均使用繁體中文，字體清晰易讀，無拼寫錯誤。
+*   使用簡潔的圖示和方向性箭頭（如重心下沉方向、拉伸感方向、推牆方向）。
+*   圖示應為扁平化或簡約線條風格，易於理解。
+*   顏色對比鮮明，例如白色或淺色背景，主要文字和圖示使用深色。正確動作可搭配綠色或藍色系，錯誤動作搭配紅色或橘色系，以確保印刷和數位顯示效果俱佳。
+*   整體氛圍應專業、醫學、清晰，傳達正確的復健資訊。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

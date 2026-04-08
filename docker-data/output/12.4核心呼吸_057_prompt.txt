@@ -1,0 +1,77 @@
+生成一個專業醫療教育風格的復健動作說明圖（infographic），清晰易懂。圖片內容需展示「腹式呼吸 (Diaphragmatic Breathing)」的正確動作、姿勢要求、設備資訊，並明確對比正確動作與常見錯誤動作。
+
+**整體佈局與風格：**
+該資訊圖表應包含以下清晰區塊：標題與目標、所需設備、起始姿勢、正確動作步驟（分解圖）、以及正確與錯誤動作對比。採用簡潔、現代的設計，色彩對比明顯，適合印刷和數位顯示。線條清晰，人物姿勢符合醫學標準，無背景干擾。
+
+**文字標註：**
+所有文字標註均使用繁體中文，清晰易讀，無拼寫錯誤。字體為專業無襯線字體。
+
+**內容細節：**
+
+1.  **標題區塊：**
+    *   **主標題 (大字體)：** 腹式呼吸 (Diaphragmatic Breathing)
+    *   **副標題 (小字體)：** 目標：啟動腹橫肌（天然護腰），降低交感神經興奮（止痛）
+
+2.  **設備區塊：**
+    *   **圖示：** 一張簡潔的瑜珈墊圖示。
+    *   **文字標註：** 設備：瑜珈墊
+
+3.  **起始姿勢區塊 (單一人物示範)：**
+    *   **人物：** 一位身著輕便服裝、中性或代表性人物躺在瑜珈墊上。
+    *   **姿勢：** 平躺，雙膝彎曲，雙腳平放於墊上，與臀同寬。
+    *   **手部位置：** 一隻手輕輕放在胸口，另一隻手輕輕放在肚子上（肚臍上方）。
+    *   **文字標註：** 起始姿勢：平躺屈膝，一手放胸口，一手放肚子
+
+4.  **正確動作步驟區塊 (序列圖，至少兩張圖示)：**
+
+    *   **步驟一：吸氣 (Inhalation)**
+        *   **圖示：** 延續起始姿勢，人物正透過鼻子深吸氣。
+        *   **視覺強調：** 肚子上的手被頂高，腹部明顯膨隆。胸口上的手保持不動，胸部沒有明顯起伏。
+        *   **箭頭標示：** 肚子上方使用一個粗大的向上箭頭（↑）表示腹部上升。胸口上方使用一個小的水平線或「X」表示胸部無動作。
+        *   **文字標註：** 1. 吸氣：用鼻子深吸氣，感覺肚子把手頂高，胸口的手不動。
+
+    *   **步驟二：吐氣 (Exhalation)**
+        *   **圖示：** 人物正噘起嘴巴慢慢吐氣。
+        *   **視覺強調：** 肚子凹陷，肚子上的手隨之下降。強調肚臍深處的肌肉收緊感。
+        *   **箭頭標示：** 肚子上方使用一個粗大的向下箭頭（↓）表示腹部下降和收縮。
+        *   **文字標註：** 2. 吐氣：嘴巴噘起慢慢吐氣，肚子凹陷，感覺肚臍深處肌肉收緊。
+
+5.  **正確與錯誤動作對比區塊 (並排圖示)：**
+    此區塊應並排展示兩個獨立人物，均處於起始姿勢，但分別演示正確和錯誤的吸氣方式。
+
+    *   **左側：正確動作 (Correct Action)**
+        *   **圖示：** 人物吸氣時，肚子膨隆（向上箭頭），胸部保持不動（水平線或「X」）。
+        *   **圖示符號：** 在人物旁放置一個綠色的打勾符號 (✓)。
+        *   **文字標註：** 正確動作：肚子起伏，胸口不動
+
+    *   **右側：錯誤動作 (Incorrect Action / 胸式呼吸)**
+        *   **圖示：** 人物吸氣時，胸部明顯起伏（向上箭頭），肚子則保持不動或微動（水平線或「X」）。
+        *   **圖示符號：** 在人物旁放置一個紅色的交叉符號 (✕)。
+        *   **文字標註：** 錯誤動作：胸口起伏，肚子不動 (胸式呼吸)
+
+**圖示與箭頭：**
+所有動作方向應使用簡潔、粗體、對比鮮明的箭頭標示。正確動作使用綠色箭頭和打勾符號，錯誤動作使用紅色箭頭和交叉符號。
+
+**醫學準確性：**
+所有姿勢和動作均需符合醫學標準，確保準確性和安全性。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

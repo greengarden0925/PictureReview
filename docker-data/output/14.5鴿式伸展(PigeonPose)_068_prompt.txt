@@ -1,0 +1,65 @@
+專業醫療教育風格的復健動作說明圖，標題為「鴿式 (Pigeon Pose) - 強效臀部伸展」。圖片需清晰易懂，色彩對比鮮明，適合印刷與數位顯示，所有文字標註皆使用繁體中文，無拼寫錯誤。
+
+**整體佈局：**
+圖示分為多個步驟，從準備姿勢到最終動作，並包含正確與錯誤動作的對比區塊，以及重點提示。背景為簡潔的淺灰色或白色，確保圖形和文字突出。
+
+**內容細節：**
+
+1.  **標題區塊：**
+    *   位於圖片頂端，以大而清晰的字體標註：「鴿式 (Pigeon Pose) - 強效臀部伸展」。
+    *   下方小字體標註：「目標：強效臀部伸展 / 設備：瑜珈墊」。
+
+2.  **步驟 1：準備姿勢**
+    *   **圖片：** 一位標準身材、中性膚色的成年人，身著舒適運動服，在瑜珈墊上呈現標準的「四足跪姿」。膝蓋在臀部下方，手腕在肩膀下方，背部平直。
+    *   **文字標註：** 「1. 準備姿勢：四足跪姿」
+
+3.  **步驟 2：右腳前置**
+    *   **圖片：** 承接步驟 1，人物將右腳膝蓋向前滑動，使其位於右手手腕後方。右腳踝則滑向左手手腕方向，小腿盡可能橫向放置（根據柔軟度可略微傾斜，但需示意其目標是橫放）。左腳仍保持向後伸直。
+    *   **圖示：** 使用綠色箭頭清晰標示右膝蓋和右腳踝的滑動方向。
+    *   **文字標註：** 「2. 右腳前置：將右膝滑至右手腕後方，右踝滑向左手腕（小腿盡量橫放）」
+
+4.  **步驟 3：骨盆正向下沉 (正確動作示範)**
+    *   **圖片：** 人物保持右腳前置的鴿式姿勢，左腳向後完全伸直，腳背貼地。核心關鍵是「骨盆」必須保持完全正向，不歪斜，臀部緩慢下沉接近地面。身體軀幹略微挺直或輕微前傾。
+    *   **圖示：** 在骨盆區域使用綠色圓圈或方框強調其平穩、正向的狀態。可加入一個簡潔的「✔ 正確」圖標。
+    *   **文字標註：** 「3. 骨盆正向下沉 (✔ 正確)：左腳向後伸直，臀部緩慢下沉至地面，骨盆保持正向不歪斜。」
+
+5.  **步驟 4：錯誤動作示範 (骨盆歪斜)**
+    *   **圖片：** 與步驟 3 相同姿勢，但明確展示「骨盆歪斜」的錯誤。例如，右側臀部明顯低於左側臀部，或整個身體向右側傾斜，導致骨盆不正對前方。
+    *   **圖示：** 在骨盆區域使用紅色圓圈或方框強調其歪斜狀態。可加入一個簡潔的「X 錯誤」圖標。紅色箭頭可指示歪斜方向。
+    *   **文字標註：** 「X 錯誤示範：骨盆歪斜，身體未保持中立。」
+
+6.  **步驟 5：上半身前趴 (加深伸展)**
+    *   **圖片：** 承接步驟 3 的正確姿勢，人物上半身緩慢向前趴下，雙手向前延伸或疊放支撐頭部，軀幹盡可能貼近右側小腿，加深臀部伸展。
+    *   **圖示：** 使用綠色箭頭標示上半身前傾的動作方向。
+    *   **文字標註：** 「4. 上半身前趴 (可選)：若柔軟度允許，上半身可向前趴下，加深伸展。」
+
+7.  **重點提示區塊：**
+    *   **獨立區塊：** 位於圖片下方或側邊，以醒目的方框或顏色區隔。
+    *   **文字標註：** 「**【重點提示】**：全程保持骨盆正向，避免身體歪斜，以確保有效伸展並保護關節。感覺伸展即可，無需勉強，避免疼痛。」
+
+**繪製風格要求：**
+*   **人物：** 以簡潔線條勾勒的人物模型，無需過度細節，但需清楚呈現肌肉和關節的相對位置，符合醫學標準的骨骼和關節對齊。
+*   **色彩：** 主要使用專業、清爽的醫療教育配色。人物膚色為中性色，服裝為簡約單色。瑜珈墊為深色（如深藍或灰色）。正確動作使用綠色箭頭和標記；錯誤動作使用紅色箭頭和標記。文字使用深灰色或黑色，重點文字可加粗。
+*   **圖示：** 箭頭、勾選符號 (✔)、交叉符號 (X) 簡潔明瞭。
+*   **整體視覺：** 乾淨、整齊、資訊層次分明，使觀者一眼即可理解動作要領和注意事項。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

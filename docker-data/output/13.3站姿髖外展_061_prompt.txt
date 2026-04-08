@@ -1,0 +1,65 @@
+請生成一個詳細的復健動作說明圖（infographic）。
+
+**整體風格與要求：**
+本圖片應為專業醫療教育風格的復健動作說明圖，清晰易懂，設計簡潔且現代。色彩對比明顯，適合印刷與數位顯示，綠色用於正確動作，紅色用於錯誤動作。所有文字標註必須使用繁體中文，無拼寫錯誤。動作姿勢需準確，符合醫學標準，並使用簡潔的圖示和箭頭標示動作方向。
+
+**圖片內容結構：**
+
+1.  **標題區塊 (頂部中央):**
+    *   清晰、醒目地顯示大標題：**站姿側抬腿 (Standing Hip Abduction)**
+
+2.  **目標與器材區塊 (標題下方):**
+    *   左側：標註「目標：功能性臀中肌訓練。」
+    *   右側：標註「器材：椅子或牆壁」，並繪製一個簡潔的椅子或牆壁的圖示，作為人物支撐之用。
+
+3.  **動作示範區塊 (主體，左右對比):**
+    *   此區塊應佔圖片主體，清晰對比「正確動作」與「錯誤動作」。
+
+    **左側：正確動作 (Correct Action)**
+    *   **標題:** 「正確動作」
+    *   **人物描繪:**
+        *   一個簡潔、清晰、醫學繪圖風格的人體圖示（可選中性別或示意性剪影）。
+        *   人物呈站姿，身體直立，一隻手輕扶椅背或牆壁保持平衡。
+        *   另一隻腳（執行動作的腳）緩慢地向外側抬起。
+    *   **視覺標註:**
+        *   人物上半身中央繪製一條筆直的綠色虛線，從頭部延伸至支撐腳，強調軀幹的正直。
+        *   從抬起的腳踝處向外側繪製一條粗綠色箭頭，指示抬腿方向。
+        *   在抬起的腳尖處繪製一個小型的綠色箭頭或圖示，明確指出「腳尖朝前」的姿勢。
+        *   在人物下方或旁側標註一個綠色打勾圖示。
+    *   **文字說明 (繁體中文):**
+        *   「預備姿勢：站姿，手扶椅背保持平衡。」
+        *   「動作要領：保持身體直立，將一腳向外側拉開抬起。」
+        *   「重點：腳尖朝前，不要外八。」
+
+    **右側：錯誤動作 (Incorrect Action)**
+    *   **標題:** 「錯誤動作 (代償)」
+    *   **人物描繪:**
+        *   相同風格的人體圖示。
+        *   人物在抬腿時，上半身明顯地向**反方向**歪斜（即抬左腿則身體向右傾斜，抬右腿則身體向左傾斜），呈現代償姿勢。
+    *   **視覺標註:**
+        *   人物上半身中央繪製一條傾斜的紅色虛線，從頭部延伸，與正直的綠色虛線形成鮮明對比，強調軀幹的歪斜。
+        *   在人物歪斜的軀幹部位繪製一個紅色的「X」標誌，或用紅色彎曲箭頭指示歪斜方向。
+        *   在人物下方或旁側標註一個紅色打叉圖示。
+    *   **文字說明 (繁體中文):**
+        *   「避免：抬腿時上半身向反方向歪斜（代償）。」
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

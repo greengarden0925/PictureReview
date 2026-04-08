@@ -1,0 +1,71 @@
+**生成提示詞：**
+
+Create a professional medical education infographic for the "腳趾抓毛巾 (Towel Scrunches)" exercise. The infographic should be clear, easy to understand, and suitable for both print and digital display with excellent color contrast. All text annotations must be in Traditional Chinese, crisp, clear, and legible with no spelling errors, using a clean sans-serif font.
+
+The infographic layout should be vertical, divided into clear sections with ample white space. The overall color scheme should be professional, using a medical-grade palette with strong visual contrast. Green should be used to highlight correct actions and key benefits, while red should clearly mark incorrect actions.
+
+**Title and Goal Section (Top):**
+*   **Main Title:** Prominently displayed at the very top: **腳趾抓毛巾 (Towel Scrunches)**.
+*   **Subtitle/Goal:** Immediately below the main title, clearly stating the exercise's purpose: **強化足底小肌肉，放鬆過度緊繃的足底筋膜。** (Reinforce small foot muscles, relax overly tight plantar fascia.)
+
+**Equipment Section:**
+*   **Heading:** **所需器材** (Required Equipment).
+*   **Icon:** A simple, clean icon of a flat towel.
+*   **Text Annotation:** 毛巾 (Towel).
+
+**Starting Position Section:**
+*   **Heading:** **起始姿勢** (Starting Position).
+*   **Illustration:** Depict a human figure (gender-neutral, stylized for medical illustration) seated comfortably on a sturdy chair. The person's bare feet are flat on the floor, directly in front of them. A clean, white towel is laid flat and smoothly on the floor, extending forward from the toes. The person should have an upright, relaxed posture.
+*   **Text Annotation:** 採坐姿，將毛巾平鋪於腳下的地板上。
+
+**Correct Action Section (Prominent, detailed):**
+*   **Heading:** **正確動作** (Correct Action).
+*   **Illustration Sequence (Two main panels or clear sequential overlay):**
+    1.  **Preparation View:** A close-up of a bare foot with toes extended, lightly touching the edge of the flat towel.
+    2.  **Action View:** The same foot actively performing the scrunching. The toes are clearly seen curling downwards and inwards, gathering the towel into small, distinct folds. **Crucially, the heel must remain firmly on the ground, and the rest of the foot (midfoot, ankle) should remain stable without lifting or tilting.**
+*   **Visual Cues for Correct Action:**
+    *   A bold green checkmark icon.
+    *   Simple, black arrows indicating the direction of the towel being pulled inwards, towards the heel, and also showing the curling motion of the toes.
+    *   A subtle green highlight around the toes to emphasize isolated movement.
+*   **Text Annotation:**
+    *   **動作描述:** 只利用腳趾彎曲的力量，將毛巾抓皺並慢慢拉向自己。
+    *   **重要提示:** 腳跟不可抬起，腳掌其他部分應保持不動。
+
+**Common Error Section (Clear Contrast):**
+*   **Heading:** **錯誤動作** (Common Error).
+*   **Illustration:** Directly adjacent to or below the correct action for easy comparison. Depict a bare foot attempting the exercise, but with a clear, common mistake:
+    *   **Error 1:** The heel is visibly lifting off the ground, or the entire foot/ankle is pivoting/lifting to pull the towel, instead of just the toes. The towel may or may not be scrunching effectively.
+*   **Visual Cues for Error:**
+    *   A bold red 'X' icon overlaying the erroneous action.
+    *   A red circle or highlight clearly marking the lifted heel or the general movement of the entire foot/ankle.
+    *   Red dashed arrows indicating the upward movement of the heel or whole foot.
+*   **Text Annotation:**
+    *   **錯誤範例:** 腳跟抬起 或 腳掌整體移動。
+    *   **影響:** 這樣會使用到小腿或其他不相關肌肉，無法有效訓練足底小肌肉。
+
+**Overall Aesthetic:**
+*   Clean lines, minimalist design, easy-to-read typography.
+*   No shadows or complex textures, maintaining a flat, infographic style.
+*   Clear separation between correct and incorrect actions using distinct visual elements and color coding.
+*   Ensure anatomical accuracy of the foot and leg for medical credibility.
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

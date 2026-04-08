@@ -1,0 +1,85 @@
+Create a professional medical educational infographic for rehabilitation, clearly illustrating the 'Eccentric Wrist Flexion' exercise. The overall style should be clean, clear, and suitable for both print and digital display with high color contrast. All text annotations must be in Traditional Chinese with no spelling errors.
+
+**Infographic Title:**
+「離心屈腕運動」 (Eccentric Wrist Flexion)
+**Infographic Goal/Subtitle:**
+「重建手肘內側肌腱強度」 (Rebuild strength in the medial elbow tendon)
+
+**Layout:**
+The infographic should be divided into clear sections with distinct headings. Use a clean, anatomical illustration style for the human body, focusing on the arm, wrist, and hand. Use simple, universally understood icons and bright, contrasting colors for clarity (e.g., green for correct actions, red for incorrect actions, blue for equipment and general information). The layout should be easy to follow from top to bottom, with clear visual cues guiding the eye.
+
+**Section 1: 所需器材 (Required Equipment)**
+*   **Visual:** Two clean, simple icons: one depicting a generic water bottle (e.g., a plastic bottle filled with water) and another depicting a sturdy, flat table surface.
+*   **Text Annotation:** Below each icon, clearly label:
+    *   「水瓶」
+    *   「桌子」
+
+**Section 2: 準備姿勢 (Starting Position)**
+*   **Visual:** A clear illustration of a person's forearm (depicting the affected arm) resting flat on a table. The hand and wrist should be suspended off the edge of the table, with the palm facing upwards. The hand should be gently but firmly gripping a water bottle. The elbow should be slightly bent and relaxed. Use a light background for the table and arm to ensure clarity.
+*   **Text Annotation (positioned clearly next to the illustration):**
+    *   「前臂平放桌上，手腕懸空，掌心朝上握水瓶。」
+
+**Section 3: 正確動作步驟 (Correct Action Steps)**
+This section should feature two sequential steps of the correct exercise, clearly labeled with "步驟一" and "步驟二". Use green arrows and checkmarks to emphasize correctness.
+
+*   **步驟一：好手協助將患手手腕向上捲起（屈曲）**
+    *   **Visual:** Start with the forearm in the preparation posture (palm up, holding bottle, wrist off table). An additional hand (the "good hand") is shown gently assisting the affected hand by pushing or guiding the wrist upwards into a fully flexed position (wrist curled towards the forearm). A dashed green arrow indicates the assistive force from the good hand. A curved solid green arrow shows the wrist moving upwards.
+    *   **Text Annotation:**
+        *   「步驟一：好手協助將患手手腕向上捲起（屈曲）。」
+
+*   **步驟二：患手用力控制，慢慢將水瓶向下放直，對抗地心引力（約3-5秒）**
+    *   **Visual:** Show the wrist starting from the fully flexed position (achieved in Step one). The affected hand is slowly extending downwards, bringing the water bottle back towards the starting flat position. Illustrate subtle muscle engagement lines on the forearm of the affected arm to show controlled effort. A slow, controlled downward-curved solid green arrow indicates the eccentric movement. A small, clear timer icon or text bubble adjacent to the arrow should display "3-5秒" (3-5 seconds).
+    *   **Text Annotation:**
+        *   「步驟二：患手用力控制，慢慢將水瓶向下放直，對抗地心引力（約3-5秒）。」
+
+*   **重點提示 (Key Concept):**
+    *   **Visual:** A prominent text box or thought bubble, perhaps with a green exclamation mark icon.
+    *   **Text Annotation:**
+        *   「只練『放下』的過程，避免患手出力抬起。」 (Only practice the "lowering" process, avoid the affected hand exerting effort to lift).
+
+**Section 4: 常見錯誤 (Common Errors)**
+This section should illustrate three common incorrect ways of performing the exercise, each with a clear title, illustration, and a red cross or "X" symbol to denote incorrectness.
+
+*   **錯誤示範一：放下速度過快**
+    *   **Visual:** Depict the affected hand and water bottle dropping rapidly downwards from the flexed position. Use a jagged, thick red arrow pointing downwards to emphasize uncontrolled, fast movement. The muscle engagement lines should be absent or shown as limp.
+    *   **Text Annotation:**
+        *   「錯誤示範一：放下速度過快。應緩慢控制。」
+
+*   **錯誤示範二：患手未用力控制**
+    *   **Visual:** Show the affected hand lowering the water bottle, but the muscles of the forearm appear flaccid, lacking tension or control. The bottle appears to be passively falling due to gravity rather than being actively resisted. A red "X" symbol should be placed over the forearm muscles.
+    *   **Text Annotation:**
+        *   「錯誤示範二：患手未用力控制。應感受肌肉張力對抗重力。」
+
+*   **錯誤示範三：抬起時患手用力**
+    *   **Visual:** Illustrate the affected hand attempting to lift the water bottle upwards from the extended position (without the good hand's assistance), showing clear signs of strain or exertion in the forearm muscles. A curved red arrow pointing upwards from the affected hand indicates active concentric contraction, with a red cross mark superimposed over it. The good hand should be absent from this depiction.
+    *   **Text Annotation:**
+        *   「錯誤示範三：抬起時患手用力。抬起動作應由好手輔助完成。」
+
+**Overall Infographic Design Principles:**
+*   Use a clean, legible sans-serif font (e.g., Noto Sans TC, Source Han Sans TC) for all text.
+*   Ensure generous white space around all elements for maximum readability.
+*   Use clear, consistent color coding: e.g., shades of green for correct actions, shades of red for errors, and neutral tones for the human body and equipment.
+*   Arrows should be simple, distinct, and clearly indicate direction and speed (e.g., smooth for slow, jagged for fast).
+*   Illustrations should be professional, anatomically accurate, and represent generic human forms for broad applicability.
+*   The final image must be high-resolution, suitable for printing as a poster or displaying on any digital screen while maintaining clarity and legibility.
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

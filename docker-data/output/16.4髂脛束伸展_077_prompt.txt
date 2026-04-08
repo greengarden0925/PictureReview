@@ -1,0 +1,77 @@
+請生成一個專業醫療教育風格的資訊圖表（infographic），清晰易懂，具有明顯的顏色對比，適合印刷和數位顯示。所有文字標註必須使用繁體中文，無拼寫錯誤。
+
+**主要標題 (Main Title):**
+「站姿髂脛束伸展 (Standing IT Band Stretch)」
+
+**運動目標 (Exercise Goal):**
+在標題下方顯示：「目標：放鬆大腿外側張力，減少髕骨外拉力量。」
+
+**設備 (Equipment):**
+清晰地顯示一個簡潔的牆壁圖示，並標註：「設備：牆壁（保持平衡）」
+
+**整體佈局 (Overall Layout):**
+資訊圖表應包含「正確動作」和「常見錯誤」兩大區塊，每個區塊都有獨立的視覺呈現。
+
+---
+
+**區塊一：正確動作 (Correct Action)**
+此區塊應包含一個連續的動作序列圖，展示一位標準體態的人員以醫學標準姿勢進行伸展。請以左腿為「患腳」（受影響的腿），右腿為「好腳」（非受影響的腿）進行示範。
+
+1.  **起始姿勢 (Starting Position):**
+    *   描繪一個人站立，右腿（好腳）交叉跨到左腿（患腳）的前方，雙腳平穩著地。
+    *   左側身體（患側）靠近牆壁，左手輕扶牆面以保持平衡。
+    *   文字標註：「起始姿勢：站姿，好腳（右腳）交叉跨到患腳（左腳）的前方。患側（左側）靠近牆壁，手輕扶牆面保持平衡。」
+
+2.  **動作步驟一 (Action Step 1):**
+    *   從起始姿勢過渡，描繪該人員將身體緩慢地向「好腳」那一側（右側）側彎。身體軀幹應保持在同一平面內，避免前傾、後仰或扭轉。
+    *   使用簡潔的藍色箭頭指示身體側彎的方向。
+    *   文字標註：「步驟一：身體向「好腳」（右側）緩慢側彎。」
+
+3.  **動作步驟二 (Action Step 2):**
+    *   在身體側彎的同時，描繪該人員將「患側」（左側）骨盆向外推出，遠離身體中線。
+    *   使用簡潔的藍色箭頭指示患側骨盆向外推出的方向。
+    *   特別將「患側」大腿外側的髂脛束區域（從髖部下方到膝蓋外側）用鮮明的對比色（例如：亮紅色或橙色）高亮顯示，以強調伸展的目標區域。
+    *   文字標註：「步驟二：同時將患側（左側）骨盆向外推出去，直到感覺大腿外側有明顯緊繃感。」
+
+---
+
+**區塊二：常見錯誤 (Common Errors)**
+此區塊應包含兩幅較小的插圖，清晰地展示不正確的動作，並與「正確動作」形成對比。每個錯誤姿勢上應標註一個紅色的「X」符號。
+
+1.  **錯誤一：身體前傾或後仰 (Leaning Forward or Backward):**
+    *   描繪一個人嘗試伸展時，其上半身明顯向前傾斜或向後仰，而非純粹的側彎。
+    *   文字標註：「錯誤一：身體前傾或後仰，而非純粹側彎，導致伸展效果不佳。」
+
+2.  **錯誤二：患側骨盆未充分向外推出 (Pelvis Not Pushed Out):**
+    *   描繪一個人進行側彎但患側骨盆未充分向外推出，導致髂脛束區域未受到有效伸展的姿勢。高亮區域（如前述的髂脛束）應不明顯或不存在。
+    *   文字標註：「錯誤二：患側骨盆未充分向外推出，無法有效伸展髂脛束。」
+
+---
+
+**視覺與標註要求 (Visual and Annotation Requirements):**
+*   **人物風格：** 簡潔的線條繪圖或扁平化設計，清晰呈現人體姿勢和動作。
+*   **顏色：** 使用鮮明的對比色，確保各元素清晰可辨，適合色盲人士。背景應為中性色（如白色或淺灰色）。
+*   **箭頭：** 使用一致的箭頭樣式指示動作方向，藍色表示正確動作方向，紅色可輔助指示錯誤。
+*   **文字：** 所有文字標註應清晰易讀，使用一致的無襯線字體，並準確放置在對應的圖示旁。
+*   **醫學準確性：** 確保所有動作姿勢符合醫學復健標準。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

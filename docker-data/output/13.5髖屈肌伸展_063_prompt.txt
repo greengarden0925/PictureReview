@@ -1,0 +1,63 @@
+生成一張專業醫療教育風格、清晰易懂的復健動作說明圖 (infographic)。圖中包含兩個對比部分：『正確動作』和『錯誤動作』的示範。
+
+**主要標題：** 弓箭步伸展 (Hip Flexor Stretch / Lunge Stretch)
+**次要標題：** 伸展髂腰肌（髖前側），改善久坐造成的髖部緊繃
+
+**所需設備：** 軟墊 (以簡潔圖示呈現，放置於頁面一角)
+
+**內容詳情：**
+
+1.  **正確動作示範 (置於左側或上方，佔畫面主要區域)：**
+    *   一個清晰、簡潔的擬人化圖示 (可為中性性別人物，穿著簡潔運動服)，呈現「高跪姿」。
+    *   **起始姿勢：** 單膝跪地（下方有軟墊），前腳踩地，膝蓋彎曲呈90度角，膝蓋位於腳踝正上方。
+    *   **動作細節：** 軀幹筆直，背部挺直，核心微收，臀部輕微夾緊。人物重心緩慢向前下方移動，感受跪地那隻腳的大腿前側根部（鼠蹊部）被拉開。
+    *   **視覺標示：**
+        *   使用綠色實線箭頭清晰標示重心前移的方向（向前下方）。
+        *   跪地腿的髖前側區域（髂腰肌/鼠蹊部）應以柔和的對比色（例如淺綠色或淺藍色）高亮顯示，明確指出目標伸展區域。
+        *   使用虛線標示脊柱的自然弧度，強調「背部挺直」。
+        *   前腳膝蓋與腳踝間可使用垂直虛線，強調「90度角」和「膝蓋對齊腳踝」。
+    *   **文字標註 (繁體中文，字體清晰)：**
+        *   『正確動作』
+        *   『背部挺直』
+        *   『臀部夾緊』
+        *   『重心前移』
+        *   『感受鼠蹊部伸展』
+
+2.  **錯誤動作示範 (置於右側或下方，與正確動作形成對比)：**
+    *   另一個清晰、簡潔的擬人化圖示，呈現相同的高跪姿，但姿勢明顯錯誤。
+    *   **錯誤細節：** 核心鬆弛，腰椎明顯過度前凸（腰部向後彎曲，形成誇張的凹陷），導致骨盆前傾，未能有效伸展髖屈肌，反而對腰椎造成壓力。
+    *   **視覺標示：**
+        *   腰椎過度前凸的區域應以紅色或帶有紅色交叉的警告標誌清晰標示。
+        *   使用紅色虛線標示腰椎的不正確弧度。
+        *   可以用紅色箭頭表示腰椎向後凹陷的方向。
+    *   **文字標註 (繁體中文，字體清晰)：**
+        *   『錯誤動作』
+        *   『腰椎過度前凸 (避免！)』
+
+**圖片風格要求：**
+*   專業醫療教育風格，線條簡潔，圖示化人物，非寫實照片。
+*   色彩對比明顯，色彩飽和度適中，適合印刷和數位顯示，背景簡潔乾淨。例如，可以使用白色背景，人物線稿搭配局部填充色。
+*   所有文字標註均使用繁體中文，字體清晰易讀，無拼寫錯誤。
+*   動作姿勢需符合醫學標準和解剖學精確性。
+*   使用簡潔的圖示和箭頭（如綠色表示正確方向和目標，紅色表示錯誤和避免區域）來強化視覺引導。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

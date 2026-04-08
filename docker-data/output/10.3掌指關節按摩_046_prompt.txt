@@ -1,0 +1,68 @@
+A detailed medical education infographic, titled "橫向深層按摩 (Deep Friction Massage) - A1滑車結節軟化", designed to be highly professional, clear, and easy to understand. The infographic should be split into two main sections: '正確動作' (Correct Action) and '錯誤動作' (Incorrect Action), with a clear visual contrast between them.
+
+**主要目標 (Main Goal):**
+顯著標註：「目標：軟化A1滑車（A1 Pulley）處的結節。」
+
+**整體風格 (Overall Style):**
+專業醫療教育風格，清晰易懂，無浮誇或卡通元素。線條清晰，顏色對比鮮明，適合印刷與數位顯示（如：白色背景，搭配藍色、綠色、灰色等醫療常用色彩）。所有文字標註均為繁體中文，無拼寫錯誤，使用簡潔易讀的無襯線字體。使用簡潔的圖示和粗體箭頭明確標示動作方向、施力方向和疼痛點。保持動作姿勢的醫學準確性，無多餘背景裝飾。
+
+---
+
+**區塊一：正確動作 (Correct Action)**
+
+1.  **情境設定 (Scenario):**
+    *   展示一隻打開手掌、掌心朝上的手（例如左手），手指微彎。
+    *   使用清晰的標註和箭頭，精確指出食指根部掌心側的「A1滑車結節」位置，可用一個小紅點或圓圈標示痛點或硬塊。
+    *   文字標註：「找出掌心近手指根部結節 (A1滑車)」。
+
+2.  **動作執行 (Action Execution):**
+    *   在同一畫面中，展示另一隻手（例如右手）的拇指（指腹部位）正對準並重壓在上述標註的「A1滑車結節」上。
+    *   **施力指示：** 繪製一個粗體向下（垂直於手掌）的箭頭，表示「重壓」。
+    *   **按摩動作指示：**
+        *   繪製一個粗體雙向橫向箭頭，表示拇指正在進行「左右橫向撥動」。
+        *   同時，或在相鄰的步驟圖中，繪製一個粗體圓形箭頭，表示拇指正在進行「畫圈」按摩。
+    *   **文字說明：**
+        *   「用另一手拇指重壓該結節。」
+        *   「進行左右橫向撥動或畫圈。」
+        *   「會有些微疼痛，需忍耐，目的是破壞沾黏。」
+        *   「每次按摩3-5分鐘，每天數次。」
+
+---
+
+**區塊二：錯誤動作 (Incorrect Action)**
+
+1.  **情境設定 (Scenario):**
+    *   展示與正確動作相同姿勢的手，以及另一隻手的拇指。
+    *   拇指看似在相同區域，但動作和力道明顯不同。
+    *   強調這是一個「錯誤」的示範。
+
+2.  **錯誤執行 (Incorrect Execution):**
+    *   拇指輕輕地在結節區域的皮膚表面進行「搓揉」，沒有向下重壓，也未表現出深層的橫向撥動或畫圈。
+    *   **施力指示：** 繪製一個細小的、分散的、或僅限於皮膚表層的搓揉箭頭，對比正確動作的「重壓」。
+    *   在整個錯誤動作的圖示上覆蓋一個大型的紅色「X」或「禁止」符號，以明確指出這是錯誤的。
+    *   **文字說明：**
+        *   「錯誤！力道不足或未對準結節，僅輕柔搓揉皮膚無效。」
+        *   「無法達到軟化結節，破壞沾黏的目的。」
+
+---
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

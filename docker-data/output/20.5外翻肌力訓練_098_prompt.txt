@@ -1,0 +1,85 @@
+生成一張專業醫療教育風格的復健動作說明圖（infographic），清晰易懂，適合印刷和數位顯示。圖片應包含多個分區，顏色對比明顯，並使用簡潔的圖示和箭頭標示動作方向。所有文字標註均為繁體中文，無拼寫錯誤。
+
+---
+
+**Infographic 佈局與內容要求：**
+
+1.  **頂部主標題區塊：**
+    *   **主標題：** 腳踝慣性扭傷預防
+    *   **副標題：** 外翻阻力訓練 (Eversion Strengthening)
+    *   **目標說明：** 強化腓骨肌（腳踝外側），預防慣性扭傷。
+    *   此區塊應位於圖片頂部中央，字體清晰醒目，顏色對比高。
+
+2.  **左側分區：設備與預備姿勢**
+    *   **分區標題：** 設備與正確預備姿勢
+    *   **設備圖示：** 彈力帶的簡潔圖示。
+    *   **人物圖示：** 繪製一位中性人物（無特定性別），以坐姿呈現。
+        *   患側腳（假設為右腳）膝蓋伸直，腳踝自然垂直於地面，腳趾朝上。
+        *   一條彈力帶清晰地套在患側腳掌的前緣（約腳趾根部）。
+        *   彈力帶的另一端應被對側腳（左腳）彎曲膝蓋後踩住，或由對側手拉住，以提供穩定的阻力。
+        *   人物的身體姿態應放鬆但穩定，膝蓋完全伸直。
+    *   **文字標註：**
+        *   「**設備：彈力帶**」
+        *   「**坐姿，患側膝蓋伸直，腳踝垂直，腳趾朝上。彈力帶套在患側腳掌，對側腳踩住或手拉住。**」
+
+3.  **右側分區：正確動作示範**
+    *   **分區標題：** 正確動作示範
+    *   **人物圖示：** 繪製與預備姿勢相同的人物，顯示患側腳進行動作。
+        *   患側腳掌從垂直位置，**用力向「外側」翻轉**。
+        *   具體表現為：腳掌的外側緣向身體方向抬起，腳掌內側緣則輕微向下。
+        *   **關鍵細節：** 動作必須嚴格限制在腳踝關節，**整個小腿應保持靜止不動，沒有任何旋轉。**
+        *   使用一個粗體的藍色或綠色箭頭，清晰地標示腳掌向「外翻」的運動方向。箭頭起點在腳底，終點指向外側上方。
+    *   **文字標註：**
+        *   「**動作：患腳腳掌用力向「外側」翻轉，對抗彈力帶阻力。**」
+        *   「**✓ 只有腳踝在動，小腿不動，避免旋轉。**」
+        *   旁邊附上一個綠色的「打勾」圖示，表示正確。
+        *   可輕微示意腓骨肌（小腿外側）的收縮。
+
+4.  **下方分區：常見錯誤動作對比**
+    *   **分區標題：** 常見錯誤動作（對比）
+    *   **人物圖示：** 繪製與上述相似的人物，但強調錯誤動作。
+        *   圖中顯示患側腳在嘗試外翻時，**整個小腿也跟著向外側旋轉**，而非僅限於腳踝。
+        *   使用一個紅色的粗體箭頭，以虛線或不同顏色表示錯誤的、額外的小腿旋轉方向，與正確動作的箭頭形成鮮明對比。
+        *   腳踝的外翻動作可能仍然存在，但重點在於小腿的錯誤旋轉。
+    *   **文字標註：**
+        *   「**X 錯誤：小腿跟著旋轉。**」
+        *   「**請確保只有腳踝在動，小腿保持固定。**」
+        *   旁邊附上一個紅色的「叉號」圖示，表示錯誤。
+
+---
+
+**整體風格與視覺要求：**
+
+*   **專業醫療教育風格：** 簡潔的線條繪圖，人物形象中性，專注於動作的解剖學精確性和可讀性。
+*   **清晰易懂：** 無冗餘裝飾，信息密度適中，重點突出。
+*   **顏色對比：** 使用高對比度的色彩方案，例如：
+    *   背景為淺色（白、淺灰）。
+    *   人物線條為深色（深灰、黑）。
+    *   彈力帶可使用鮮明顏色（如藍色或紫色）。
+    *   正確動作的箭頭和標註使用綠色系。
+    *   錯誤動作的箭頭和標註使用紅色系。
+*   **箭頭與圖示：** 箭頭應清晰指示方向，簡潔的「✓」和「X」圖示用於快速區分正確與錯誤。
+*   **文字標註：** 所有文字均為繁體中文，字體清晰，大小適中，易於閱讀，且無拼寫錯誤。標籤應靠近其描述的圖形元素。
+*   **動作準確性：** 所有動作姿勢和關節角度均需符合醫學康復標準。
+*   **光線與陰影：** 採用簡潔、均勻的光照，避免複雜的陰影，以確保清晰度。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.
