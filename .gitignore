@@ -10,4 +10,4 @@
 /deploy/nginx/.htpasswd
 
 # Docker 掛載用：問卷 JSON + 圖檔 output（勿納入版控）
-# /docker-data
+/docker-data
