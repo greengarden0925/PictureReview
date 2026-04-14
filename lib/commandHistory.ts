@@ -77,7 +77,6 @@ export function makeSetAnswerCommand(
     undo() {
       setter((prev) => {
         if (prevValue === undefined) {
-          // eslint-disable-next-line @typescript-eslint/no-unused-vars
           const { [questionId]: _removed, ...rest } = prev;
           return rest;
         }
