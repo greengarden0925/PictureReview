@@ -103,11 +103,10 @@ export default function AdminReviewsPage() {
     window.open(`/api/reviews/export?${params}`, "_blank");
   }
 
-  function downloadAnnotation(filename: string) {
-    window.open(
-      `/api/annotations/file?filename=${encodeURIComponent(filename)}`,
-      "_blank"
-    );
+  function downloadAnnotationsZip(reviewerName?: string) {
+    const params = new URLSearchParams();
+    if (reviewerName) params.set("reviewer", reviewerName);
+    window.open(`/api/annotations/zip?${params}`, "_blank");
   }
 
   const overallPct =
@@ -231,14 +230,25 @@ export default function AdminReviewsPage() {
                     {formatDate(r.lastUpdatedAt)}
                   </td>
                   <td className="px-4 py-3 text-right">
-                    <button
-                      type="button"
-                      onClick={() => downloadCsv(r.name)}
-                      disabled={r.completed === 0}
-                      className="rounded border border-[var(--border)] px-3 py-1 text-xs hover:bg-[var(--border)] disabled:cursor-not-allowed disabled:opacity-30"
-                    >
-                      下載 CSV
-                    </button>
+                    <div className="flex justify-end gap-2">
+                      <button
+                        type="button"
+                        onClick={() => downloadCsv(r.name)}
+                        disabled={r.completed === 0}
+                        className="rounded border border-[var(--border)] px-3 py-1 text-xs hover:bg-[var(--border)] disabled:cursor-not-allowed disabled:opacity-30"
+                      >
+                        下載 CSV
+                      </button>
+                      {annoByReviewer[r.name]?.length > 0 && (
+                        <button
+                          type="button"
+                          onClick={() => downloadAnnotationsZip(r.name)}
+                          className="rounded border border-[var(--border)] px-3 py-1 text-xs hover:bg-[var(--border)]"
+                        >
+                          標記 ZIP
+                        </button>
+                      )}
+                    </div>
                   </td>
                 </tr>
               ))}
@@ -258,6 +268,15 @@ export default function AdminReviewsPage() {
               </span>
             )}
           </h2>
+          {annotations.length > 0 && (
+            <button
+              type="button"
+              onClick={() => downloadAnnotationsZip()}
+              className="rounded-lg bg-[var(--accent)] px-3 py-1.5 text-xs font-medium text-white hover:bg-[var(--accent-dim)]"
+            >
+              下載全部標記 ZIP
+            </button>
+          )}
         </div>
 
         {!loading && annotations.length === 0 && (
@@ -274,7 +293,6 @@ export default function AdminReviewsPage() {
                 <th className="px-4 py-2 font-medium">圖組</th>
                 <th className="px-4 py-2 font-medium">圖片</th>
                 <th className="px-4 py-2 font-medium">上傳時間</th>
-                <th className="px-4 py-2 font-medium text-right">操作</th>
               </tr>
             </thead>
             <tbody>
@@ -296,15 +314,6 @@ export default function AdminReviewsPage() {
                   </td>
                   <td className="px-4 py-3 text-[var(--muted)]">
                     {formatDate(a.uploadedAt)}
-                  </td>
-                  <td className="px-4 py-3 text-right">
-                    <button
-                      type="button"
-                      onClick={() => downloadAnnotation(a.filename)}
-                      className="rounded border border-[var(--border)] px-3 py-1 text-xs hover:bg-[var(--border)]"
-                    >
-                      下載 PNG
-                    </button>
                   </td>
                 </tr>
               ))}
