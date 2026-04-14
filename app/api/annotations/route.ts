@@ -1,25 +1,9 @@
 import { NextResponse } from "next/server";
 import fs from "fs/promises";
 import path from "path";
-import { getDataDir } from "@/lib/paths";
+import { annotationBasename, annotationsDir } from "@/lib/annotationUtils";
 
 export const dynamic = "force-dynamic";
-
-function annotationsDir(): string {
-  return path.join(getDataDir(), "annotations");
-}
-
-function safeSegment(s: string): string {
-  return s.replace(/[^\w\u4e00-\u9fff]/g, "_").replace(/_+/g, "_").trim();
-}
-
-export function annotationBasename(
-  reviewer: string,
-  groupKey: string,
-  imageKey: string
-): string {
-  return `${safeSegment(reviewer)}__${safeSegment(groupKey)}__${imageKey}`;
-}
 
 /** GET /api/annotations — 列出所有已上傳的標記圖 */
 export async function GET() {

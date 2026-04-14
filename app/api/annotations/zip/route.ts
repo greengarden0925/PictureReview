@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 import fs from "fs/promises";
 import path from "path";
 import JSZip from "jszip";
-import { getDataDir } from "@/lib/paths";
+import { annotationsDir } from "@/lib/annotationUtils";
 
 export const dynamic = "force-dynamic";
 
@@ -13,7 +13,7 @@ export async function GET(request: Request) {
   const url = new URL(request.url);
   const reviewerFilter = url.searchParams.get("reviewer")?.trim() ?? null;
 
-  const dir = path.join(getDataDir(), "annotations");
+  const dir = annotationsDir();
 
   // 讀取 meta 檔取得清單
   let files: string[];
