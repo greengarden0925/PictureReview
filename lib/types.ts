@@ -1,4 +1,4 @@
-export type QuestionType = "likert" | "open";
+export type QuestionType = "likert" | "open" | "compare";
 
 export type SurveyQuestion = {
   id: string;
@@ -25,6 +25,15 @@ export type ReviewsFile = {
 };
 
 export type ImageSlot = "raw" | "v1" | "v2" | "v3";
+
+export type AssignmentData = {
+  n: number;
+  m: number;
+  totalGroups: number;
+  generatedAt: string;
+  /** reviewer name → array of assigned group keys */
+  reviewerGroups: Record<string, string[]>;
+};
 
 export type GroupPayload = {
   groupKey: string;

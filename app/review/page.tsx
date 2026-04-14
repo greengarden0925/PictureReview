@@ -4,124 +4,27 @@ import {
   useCallback,
   useEffect,
   useMemo,
+  useRef,
   useState,
-  type ReactNode,
 } from "react";
 import { useRouter } from "next/navigation";
 import type { GroupPayload, SurveyConfig, SurveyQuestion } from "@/lib/types";
+import { CommandHistory, makeSetAnswerCommand } from "@/lib/commandHistory";
+import { ImageAnnotator } from "./ImageAnnotator";
 
 const REVIEWER_KEY = "reviewerName";
 const INDEX_KEY = "pictureReviewGroupIndex";
 
-const SLOT_LABELS = [
-  { key: "raw" as const, title: "原始圖" },
-  { key: "v1" as const, title: "第一版圖" },
-  { key: "v2" as const, title: "第2版圖" },
-  { key: "v3" as const, title: "第3版圖" },
-];
+// 從 slots 取得最新版本圖（v3 > v2 > v1）
+function getLatestVersionSlot(
+  slots: GroupPayload["slots"]
+): string | null {
+  return slots.v3 ?? slots.v2 ?? slots.v1 ?? null;
+}
 
 function assetUrl(rel: string | null) {
   if (!rel) return null;
   return `/api/asset?path=${encodeURIComponent(rel)}`;
-}
-
-/** 將 JSON key 轉成可讀標題（底線改空白，保留原樣大小寫） */
-function formatJsonKeyLabel(key: string): string {
-  return key.replace(/_/g, " ");
-}
-
-/**
- * 將審查報告 JSON 以 key 為小標題、巢狀段落／清單呈現。
- */
-function JsonReadable({ value, depth = 0 }: { value: unknown; depth?: number }): ReactNode {
-  if (value === null || value === undefined) {
-    return <span className="text-[var(--muted)]">—</span>;
-  }
-
-  if (
-    typeof value === "string" ||
-    typeof value === "number" ||
-    typeof value === "boolean"
-  ) {
-    const s =
-      typeof value === "string" ? value : String(value);
-    return (
-      <p className="whitespace-pre-wrap break-words text-[var(--text)]">{s}</p>
-    );
-  }
-
-  if (Array.isArray(value)) {
-    if (value.length === 0) {
-      return <span className="text-[var(--muted)]">（無項目）</span>;
-    }
-
-    const allPrimitive = value.every(
-      (v) =>
-        v === null ||
-        v === undefined ||
-        typeof v === "string" ||
-        typeof v === "number" ||
-        typeof v === "boolean"
-    );
-
-    if (allPrimitive) {
-      return (
-        <ul className="list-disc space-y-1.5 pl-4 text-[var(--text)]">
-          {value.map((item, i) => (
-            <li key={i} className="leading-relaxed">
-              <JsonReadable value={item} depth={depth + 1} />
-            </li>
-          ))}
-        </ul>
-      );
-    }
-
-    return (
-      <div className="space-y-3">
-        {value.map((item, i) => (
-          <div
-            key={i}
-            className="rounded-md border border-[var(--border)]/60 bg-black/25 p-3"
-          >
-            <p className="mb-2 text-[10px] font-medium uppercase tracking-wider text-[var(--muted)]">
-              第 {i + 1} 筆
-            </p>
-            <JsonReadable value={item} depth={depth + 1} />
-          </div>
-        ))}
-      </div>
-    );
-  }
-
-  if (typeof value === "object") {
-    const entries = Object.entries(value as Record<string, unknown>);
-    if (entries.length === 0) {
-      return <span className="text-[var(--muted)]">（空物件）</span>;
-    }
-
-    return (
-      <div
-        className={
-          depth > 0
-            ? "mt-1 space-y-4 border-l border-[var(--border)]/50 pl-3"
-            : "space-y-4"
-        }
-      >
-        {entries.map(([k, v]) => (
-          <section key={k}>
-            <h4 className="mb-1.5 border-b border-[var(--border)]/40 pb-1 text-sm font-semibold text-[var(--text)]">
-              {formatJsonKeyLabel(k)}
-            </h4>
-            <div className="text-xs leading-relaxed">
-              <JsonReadable value={v} depth={depth + 1} />
-            </div>
-          </section>
-        ))}
-      </div>
-    );
-  }
-
-  return null;
 }
 
 function ImageLightbox({
@@ -141,16 +44,15 @@ function ImageLightbox({
       if (e.key === "Escape") onClose();
     };
     window.addEventListener("keydown", onKey);
-    const prevOverflow = document.body.style.overflow;
+    const prev = document.body.style.overflow;
     document.body.style.overflow = "hidden";
     return () => {
       window.removeEventListener("keydown", onKey);
-      document.body.style.overflow = prevOverflow;
+      document.body.style.overflow = prev;
     };
   }, [open, onClose]);
 
   if (!open || !src) return null;
-
   return (
     <div
       className="fixed inset-0 z-50 flex items-center justify-center bg-black/88 p-4"
@@ -197,17 +99,24 @@ function ImageLightbox({
 function SlotImage({
   rel,
   label,
+  badge,
   onOpenPreview,
 }: {
   rel: string | null;
   label: string;
+  badge?: string;
   onOpenPreview: (imageUrl: string, imageTitle: string) => void;
 }) {
   const url = assetUrl(rel);
   return (
     <div className="flex min-w-0 flex-col">
-      <div className="mb-2 text-center text-xs font-medium text-[var(--muted)]">
-        {label}
+      <div className="mb-2 flex items-center justify-center gap-2">
+        <span className="text-xs font-medium text-[var(--muted)]">{label}</span>
+        {badge && (
+          <span className="rounded bg-[var(--accent)]/20 px-1.5 py-0.5 text-[10px] font-semibold text-[var(--accent)]">
+            {badge}
+          </span>
+        )}
       </div>
       <div className="relative aspect-[4/3] w-full overflow-hidden rounded-lg border border-[var(--border)] bg-black/40">
         {url ? (
@@ -237,73 +146,79 @@ function SlotImage({
   );
 }
 
-function SidecarBlock({
+// ─── Compare question options ───────────────────────────────────────────────
+const COMPARE_OPTIONS = ["A圖", "B圖", "兩者差不多"] as const;
+type CompareOption = (typeof COMPARE_OPTIONS)[number];
+
+// ─── Collapsible survey panel for a single image (A or B) ──────────────────
+function CollapsibleSurveyPanel({
   title,
-  path,
-  mode,
+  suffix,
+  questions,
+  answers,
+  onSetAnswer,
 }: {
   title: string;
-  path: string | null;
-  mode: "text" | "json";
+  suffix: "_A" | "_B";
+  questions: SurveyQuestion[];
+  answers: Record<string, number | string>;
+  onSetAnswer: (id: string, value: number | string) => void;
 }) {
-  const [text, setText] = useState<string>("");
-  const [jsonValue, setJsonValue] = useState<unknown | null>(null);
-  const [loading, setLoading] = useState(false);
-
-  useEffect(() => {
-    if (!path) {
-      setText("");
-      setJsonValue(null);
-      return;
-    }
-    const u = assetUrl(path);
-    if (!u) return;
-    setLoading(true);
-    fetch(u)
-      .then((r) => (r.ok ? r.text() : Promise.reject()))
-      .then((raw) => {
-        if (mode === "json") {
-          try {
-            setJsonValue(JSON.parse(raw));
-            setText("");
-          } catch {
-            setJsonValue(null);
-            setText(raw);
-          }
-        } else {
-          setJsonValue(null);
-          setText(raw);
-        }
-      })
-      .catch(() => {
-        setText("（讀取失敗）");
-        setJsonValue(null);
-      })
-      .finally(() => setLoading(false));
-  }, [path, mode]);
+  const [open, setOpen] = useState(true);
 
   return (
-    <div className="flex min-h-0 flex-1 flex-col">
-      <h3 className="mb-2 text-sm font-semibold text-[var(--text)]">{title}</h3>
-      {!path ? (
-        <p className="text-sm text-[var(--muted)]">（無檔案）</p>
-      ) : (
-        <div
-          className={
-            mode === "json"
-              ? "max-h-96 min-h-[6rem] overflow-auto rounded-md border border-[var(--border)] bg-black/30 p-3 text-[var(--muted)]"
-              : "max-h-48 min-h-[6rem] overflow-auto rounded-md border border-[var(--border)] bg-black/30 p-3 text-xs leading-relaxed text-[var(--muted)]"
-          }
-        >
-          {loading ? (
-            "載入中…"
-          ) : mode === "json" && jsonValue !== null ? (
-            <JsonReadable value={jsonValue} />
-          ) : (
-            <pre className="whitespace-pre-wrap break-words font-mono text-xs text-[var(--muted)]">
-              {text}
-            </pre>
-          )}
+    <div className="rounded-xl border border-[var(--border)] bg-[var(--surface)]">
+      <button
+        type="button"
+        className="flex w-full items-center justify-between px-4 py-3 text-left"
+        onClick={() => setOpen((o) => !o)}
+        aria-expanded={open}
+      >
+        <span className="font-semibold">{title}</span>
+        <span className="text-sm text-[var(--muted)]">{open ? "▲" : "▼"}</span>
+      </button>
+      {open && (
+        <div className="border-t border-[var(--border)] p-4">
+          <div className="flex flex-col gap-5">
+            {questions.map((q) => {
+              const answerId = `${q.id}${suffix}`;
+              return (
+                <div key={q.id}>
+                  <label className="mb-2 block text-sm font-medium">
+                    {q.label}
+                  </label>
+                  {q.type === "likert" && (
+                    <div className="flex flex-wrap gap-3">
+                      {[1, 2, 3, 4, 5].map((v) => (
+                        <label
+                          key={v}
+                          className="flex cursor-pointer items-center gap-2 text-sm"
+                        >
+                          <input
+                            type="radio"
+                            name={answerId}
+                            checked={answers[answerId] === v}
+                            onChange={() => onSetAnswer(answerId, v)}
+                          />
+                          {v}
+                        </label>
+                      ))}
+                      <span className="ml-2 text-xs text-[var(--muted)]">
+                        （1 = 非常不同意　5 = 非常同意）
+                      </span>
+                    </div>
+                  )}
+                  {q.type === "open" && (
+                    <textarea
+                      className="min-h-[80px] w-full rounded-lg border border-[var(--border)] bg-[var(--bg)] p-3 text-sm text-[var(--text)]"
+                      value={String(answers[answerId] ?? "")}
+                      onChange={(e) => onSetAnswer(answerId, e.target.value)}
+                    />
+                  )}
+                </div>
+              );
+            })}
+          </div>
         </div>
       )}
     </div>
@@ -319,11 +234,44 @@ export default function ReviewPage() {
   const [answers, setAnswers] = useState<Record<string, number | string>>({});
   const [status, setStatus] = useState<string | null>(null);
   const [loadErr, setLoadErr] = useState<string | null>(null);
-  const [preview, setPreview] = useState<{
-    src: string;
-    title: string;
-  } | null>(null);
+  const [preview, setPreview] = useState<{ src: string; title: string } | null>(
+    null
+  );
 
+  // ── Command Pattern ─────────────────────────────────────────────────────
+  const cmdHistory = useRef(new CommandHistory());
+  const [canUndo, setCanUndo] = useState(false);
+  const [canRedo, setCanRedo] = useState(false);
+
+  const syncHistoryState = useCallback(() => {
+    setCanUndo(cmdHistory.current.canUndo);
+    setCanRedo(cmdHistory.current.canRedo);
+  }, []);
+
+  // answers ref lets Command closures read the current value at dispatch time
+  const answersRef = useRef(answers);
+  useEffect(() => {
+    answersRef.current = answers;
+  }, [answers]);
+
+  function dispatchSetAnswer(id: string, value: number | string) {
+    const prev = answersRef.current[id];
+    const cmd = makeSetAnswerCommand(id, value, prev, setAnswers);
+    cmdHistory.current.execute(cmd);
+    syncHistoryState();
+  }
+
+  function handleUndo() {
+    cmdHistory.current.undo();
+    syncHistoryState();
+  }
+
+  function handleRedo() {
+    cmdHistory.current.redo();
+    syncHistoryState();
+  }
+
+  // ── Load reviewer ───────────────────────────────────────────────────────
   useEffect(() => {
     const n =
       typeof window !== "undefined"
@@ -336,13 +284,15 @@ export default function ReviewPage() {
     setReviewerName(n);
   }, [router]);
 
+  // ── Load groups + survey ────────────────────────────────────────────────
   useEffect(() => {
     if (!reviewerName) return;
     let cancelled = false;
     (async () => {
       try {
+        const groupsUrl = `/api/groups?reviewer=${encodeURIComponent(reviewerName)}`;
         const [gr, sv] = await Promise.all([
-          fetch("/api/groups").then((r) => r.json()),
+          fetch(groupsUrl).then((r) => r.json()),
           fetch("/api/survey").then((r) => r.json()),
         ]);
         if (cancelled) return;
@@ -364,11 +314,25 @@ export default function ReviewPage() {
   }, [reviewerName]);
 
   const current = groups[index] ?? null;
+
   const sortedQuestions: SurveyQuestion[] = useMemo(() => {
     if (!survey) return [];
     return [...survey.questions].sort((a, b) => a.order - b.order);
   }, [survey]);
 
+  // 非比較題目（A、B各自作答）
+  const nonCompareQuestions = useMemo(
+    () => sortedQuestions.filter((q) => q.type !== "compare"),
+    [sortedQuestions]
+  );
+
+  // 比較題目（一組只問一次）
+  const compareQuestion = useMemo(
+    () => sortedQuestions.find((q) => q.type === "compare") ?? null,
+    [sortedQuestions]
+  );
+
+  // ── Load saved answers for current group ────────────────────────────────
   const loadAnswersForGroup = useCallback(
     async (g: GroupPayload | null) => {
       if (!reviewerName || !g) {
@@ -391,13 +355,15 @@ export default function ReviewPage() {
   useEffect(() => {
     if (!current) return;
     loadAnswersForGroup(current);
-  }, [current, loadAnswersForGroup]);
+    // Clear undo/redo history when switching groups
+    cmdHistory.current.clear();
+    syncHistoryState();
+  }, [current, loadAnswersForGroup, syncHistoryState]);
 
   useEffect(() => {
     sessionStorage.setItem(INDEX_KEY, String(index));
   }, [index]);
 
-  /** groups 筆數變化時將 index 限制在合法範圍，避免越界造成 current 為 null 等異常狀態 */
   useEffect(() => {
     setIndex((i) => {
       if (groups.length === 0) return 0;
@@ -405,32 +371,20 @@ export default function ReviewPage() {
     });
   }, [groups.length]);
 
-  /** 換組時關閉放大預覽，避免仍顯示上一組圖 */
   useEffect(() => {
     setPreview(null);
   }, [index]);
 
-  function setAnswer(id: string, v: number | string) {
-    setAnswers((prev) => ({ ...prev, [id]: v }));
-  }
-
+  // ── Submit ───────────────────────────────────────────────────────────────
   async function submit() {
     if (!reviewerName || !current) return;
     setStatus(null);
     const res = await fetch("/api/reviews", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        reviewerName,
-        groupKey: current.groupKey,
-        answers,
-      }),
+      body: JSON.stringify({ reviewerName, groupKey: current.groupKey, answers }),
     });
-    if (res.ok) {
-      setStatus("已儲存");
-    } else {
-      setStatus("儲存失敗");
-    }
+    setStatus(res.ok ? "已儲存" : "儲存失敗");
   }
 
   function logout() {
@@ -440,33 +394,30 @@ export default function ReviewPage() {
   }
 
   function downloadCsv() {
-    window.open("/api/reviews/export?format=csv", "_blank");
+    const params = new URLSearchParams({ format: "csv" });
+    if (reviewerName) params.set("reviewerName", reviewerName);
+    window.open(`/api/reviews/export?${params}`, "_blank");
   }
 
-  if (!reviewerName) {
-    return null;
-  }
-
-  if (loadErr) {
-    return (
-      <div className="p-8 text-center text-red-400">{loadErr}</div>
-    );
-  }
-
-  if (!survey) {
+  if (!reviewerName) return null;
+  if (loadErr)
+    return <div className="p-8 text-center text-red-400">{loadErr}</div>;
+  if (!survey)
     return (
       <div className="p-8 text-center text-[var(--muted)]">載入問卷…</div>
     );
-  }
 
   const closePreview = () => setPreview(null);
-
   const total = groups.length;
-  const n =
-    total === 0 ? 0 : Math.min(index + 1, total);
+  const n = total === 0 ? 0 : Math.min(index + 1, total);
+
+  // A圖 = raw, B圖 = 最新版本 (v3 > v2 > v1)
+  const slotA = current?.slots.raw ?? null;
+  const slotB = current ? getLatestVersionSlot(current.slots) : null;
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-6">
+      {/* ── Header ── */}
       <header className="mb-6 flex flex-wrap items-center justify-between gap-4 border-b border-[var(--border)] pb-4">
         <div>
           <p className="text-sm text-[var(--muted)]">
@@ -518,17 +469,55 @@ export default function ReviewPage() {
             {current.groupKey}
           </p>
 
-          <div className="mb-8 grid grid-cols-2 gap-3 lg:grid-cols-4">
-            {SLOT_LABELS.map(({ key, title }) => (
+          {/* ── A/B 圖片 + 問卷並排 ── */}
+          <div className="mb-6 grid grid-cols-2 gap-6">
+            {/* ── A圖欄 ── */}
+            <div className="flex flex-col gap-4">
               <SlotImage
-                key={key}
-                rel={current.slots[key]}
-                label={title}
-                onOpenPreview={(src, imageTitle) =>
-                  setPreview({ src, title: imageTitle })
-                }
+                rel={slotA}
+                label="A圖（原始圖）"
+                badge="A"
+                onOpenPreview={(src, title) => setPreview({ src, title })}
               />
-            ))}
+              <CollapsibleSurveyPanel
+                key={`${current.groupKey}_A`}
+                title="A圖審查問卷"
+                suffix="_A"
+                questions={nonCompareQuestions}
+                answers={answers}
+                onSetAnswer={dispatchSetAnswer}
+              />
+              <ImageAnnotator
+                src={assetUrl(slotA)}
+                label="A圖（原始圖）"
+                groupKey={current.groupKey}
+                imageKey="A"
+              />
+            </div>
+
+            {/* ── B圖欄 ── */}
+            <div className="flex flex-col gap-4">
+              <SlotImage
+                rel={slotB}
+                label="B圖（最後一版圖）"
+                badge="B"
+                onOpenPreview={(src, title) => setPreview({ src, title })}
+              />
+              <CollapsibleSurveyPanel
+                key={`${current.groupKey}_B`}
+                title="B圖審查問卷"
+                suffix="_B"
+                questions={nonCompareQuestions}
+                answers={answers}
+                onSetAnswer={dispatchSetAnswer}
+              />
+              <ImageAnnotator
+                src={assetUrl(slotB)}
+                label="B圖（最後一版圖）"
+                groupKey={current.groupKey}
+                imageKey="B"
+              />
+            </div>
           </div>
 
           <ImageLightbox
@@ -538,55 +527,73 @@ export default function ReviewPage() {
             onClose={closePreview}
           />
 
-          <div className="mb-8 grid gap-6 md:grid-cols-2">
-            <SidecarBlock
-              title="圖片 prompt"
-              path={current.promptRelativePath}
-              mode="text"
-            />
-            <SidecarBlock
-              title="AI圖片修改意見"
-              path={current.reviewReportRelativePath}
-              mode="json"
-            />
-          </div>
-
+          {/* ── 比較問題 + 送出 ── */}
           <section className="rounded-xl border border-[var(--border)] bg-[var(--surface)] p-6">
-            <h2 className="mb-4 text-lg font-semibold">問卷</h2>
-            <div className="flex flex-col gap-6">
-              {sortedQuestions.map((q) => (
-                <div key={q.id}>
-                  <label className="mb-2 block text-sm font-medium">
-                    {q.label}
-                  </label>
-                  {q.type === "likert" ? (
-                    <div className="flex flex-wrap gap-3">
-                      {[1, 2, 3, 4, 5].map((v) => (
-                        <label
-                          key={v}
-                          className="flex cursor-pointer items-center gap-2 text-sm"
-                        >
-                          <input
-                            type="radio"
-                            name={q.id}
-                            checked={answers[q.id] === v}
-                            onChange={() => setAnswer(q.id, v)}
-                          />
-                          {v}
-                        </label>
-                      ))}
-                    </div>
-                  ) : (
-                    <textarea
-                      className="min-h-[100px] w-full rounded-lg border border-[var(--border)] bg-[var(--bg)] p-3 text-sm text-[var(--text)]"
-                      value={String(answers[q.id] ?? "")}
-                      onChange={(e) => setAnswer(q.id, e.target.value)}
-                    />
-                  )}
-                </div>
-              ))}
+            <div className="mb-4 flex items-center justify-between gap-4">
+              <h2 className="text-lg font-semibold">比較問題</h2>
+              {/* Undo / Redo */}
+              <div className="flex gap-2">
+                <button
+                  type="button"
+                  disabled={!canUndo}
+                  onClick={handleUndo}
+                  title={
+                    cmdHistory.current.undoDescription
+                      ? `復原：${cmdHistory.current.undoDescription}`
+                      : "無可復原的操作"
+                  }
+                  className="rounded-lg border border-[var(--border)] px-3 py-1.5 text-xs disabled:opacity-30"
+                >
+                  ↩ 復原
+                </button>
+                <button
+                  type="button"
+                  disabled={!canRedo}
+                  onClick={handleRedo}
+                  title={
+                    cmdHistory.current.redoDescription
+                      ? `重做：${cmdHistory.current.redoDescription}`
+                      : "無可重做的操作"
+                  }
+                  className="rounded-lg border border-[var(--border)] px-3 py-1.5 text-xs disabled:opacity-30"
+                >
+                  ↪ 重做
+                </button>
+              </div>
             </div>
-            <div className="mt-6 flex items-center gap-4">
+
+            {compareQuestion && (
+              <div className="mb-6">
+                <label className="mb-3 block text-sm font-medium">
+                  {compareQuestion.label}
+                </label>
+                <div className="flex flex-wrap gap-4">
+                  {COMPARE_OPTIONS.map((opt: CompareOption) => (
+                    <label
+                      key={opt}
+                      className={`flex cursor-pointer items-center gap-2 rounded-lg border px-4 py-2 text-sm transition-colors ${
+                        answers[compareQuestion.id] === opt
+                          ? "border-[var(--accent)] bg-[var(--accent)]/10 text-[var(--accent)]"
+                          : "border-[var(--border)] text-[var(--text)] hover:border-[var(--accent)]/50"
+                      }`}
+                    >
+                      <input
+                        type="radio"
+                        name={compareQuestion.id}
+                        className="sr-only"
+                        checked={answers[compareQuestion.id] === opt}
+                        onChange={() =>
+                          dispatchSetAnswer(compareQuestion.id, opt)
+                        }
+                      />
+                      {opt}
+                    </label>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            <div className="flex items-center gap-4">
               <button
                 type="button"
                 onClick={submit}
@@ -599,6 +606,40 @@ export default function ReviewPage() {
               )}
             </div>
           </section>
+
+          {/* ── 底部導覽列 ── */}
+          <div className="mt-6 flex flex-wrap justify-end gap-2 border-t border-[var(--border)] pt-4">
+            <button
+              type="button"
+              disabled={index <= 0}
+              onClick={() => setIndex((i) => Math.max(0, i - 1))}
+              className="rounded-lg border border-[var(--border)] px-4 py-2 text-sm disabled:opacity-40"
+            >
+              上一組
+            </button>
+            <button
+              type="button"
+              disabled={index >= total - 1}
+              onClick={() => setIndex((i) => Math.min(total - 1, i + 1))}
+              className="rounded-lg border border-[var(--border)] px-4 py-2 text-sm disabled:opacity-40"
+            >
+              下一組
+            </button>
+            <button
+              type="button"
+              onClick={downloadCsv}
+              className="rounded-lg border border-[var(--border)] px-4 py-2 text-sm"
+            >
+              下載 CSV
+            </button>
+            <button
+              type="button"
+              onClick={logout}
+              className="rounded-lg px-4 py-2 text-sm text-[var(--muted)] hover:text-[var(--text)]"
+            >
+              登出
+            </button>
+          </div>
         </>
       )}
     </div>

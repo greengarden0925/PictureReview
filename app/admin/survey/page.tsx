@@ -67,7 +67,12 @@ export default function AdminSurveyPage() {
         {
           id: newId(),
           type,
-          label: type === "likert" ? "新題目（Likert）" : "新題目（開放）",
+          label:
+            type === "likert"
+              ? "新題目（Likert）"
+              : type === "open"
+              ? "新題目（開放）"
+              : "新題目（比較）",
           order: maxOrder + 1,
         },
       ],
@@ -135,6 +140,13 @@ export default function AdminSurveyPage() {
         </button>
         <button
           type="button"
+          onClick={() => addQuestion("compare")}
+          className="rounded-lg border border-[var(--border)] px-4 py-2 text-sm"
+        >
+          新增比較題
+        </button>
+        <button
+          type="button"
           onClick={save}
           className="rounded-lg bg-[var(--accent)] px-4 py-2 text-sm font-medium text-white"
         >
@@ -191,6 +203,7 @@ export default function AdminSurveyPage() {
                 >
                   <option value="likert">likert（1–5）</option>
                   <option value="open">open（開放）</option>
+                  <option value="compare">compare（A圖 / B圖 / 兩者差不多）</option>
                 </select>
               </label>
             </div>
