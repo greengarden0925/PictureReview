@@ -179,7 +179,7 @@ function CollapsibleSurveyPanel({
       </button>
       {open && (
         <div className="border-t border-[var(--border)] p-4">
-          <div className="flex flex-col gap-5">
+          <div className="flex max-h-[420px] flex-col gap-5 overflow-y-auto pr-2">
             {questions.map((q) => {
               const answerId = `${q.id}${suffix}`;
               return (
