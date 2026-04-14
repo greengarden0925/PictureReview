@@ -1,0 +1,82 @@
+Generate a detailed rehabilitation exercise infographic in a professional medical education style, clear and easy to understand.
+
+**Infographic Title:** 骨盆後傾運動 (Posterior Pelvic Tilt)
+
+**Exercise Goal:** 覺察骨盆位置，強化深層腹肌，放鬆下背壓力。
+
+**Equipment:** 瑜珈墊
+
+The infographic should feature a neutral-gender human figure performing the exercise on a yoga mat, depicted from a side view. Use clear, crisp lines, and a clean, minimalist design with high color contrast suitable for both print and digital display.
+
+**Layout:**
+The infographic will be structured with the title and goal at the top. Below this, there will be a clear section for "起始姿勢" (Starting Position). Following this, three main "動作步驟" (Action Steps) sections will be presented sequentially, each showing the *correct* posture prominently and a corresponding *錯誤動作* (Incorrect Action) illustration for direct comparison. Use numbered steps (1, 2, 3) for the actions.
+
+All text annotations must be in traditional Chinese (繁體中文) and free of spelling errors. Use concise icons and arrows to indicate movement direction, muscle activation, and breathing cues (e.g., "吸氣" for inhale, "吐氣" for exhale). Green checkmarks should denote correct actions, while red crosses or warning signs should denote incorrect actions.
+
+**Detailed Content:**
+
+**1. 起始姿勢 (Starting Position):**
+*   **Visual:** A person lying flat on their back on a yoga mat. Knees bent, feet flat on the floor, hip-width apart. Arms resting palms down by the sides of the body. The lower back should show a natural, slight arch (neutral pelvic position).
+*   **Text Annotation:** "起始姿勢：平躺，雙膝彎曲踩地，雙手放在身體兩側，保持腰部自然拱起。"
+
+**2. 動作步驟 (Action Steps):**
+
+**步驟 1: 骨盆後傾 (Posterior Pelvic Tilt)**
+*   **正確動作視覺呈現 (Correct Action Visual):**
+    *   Figure maintaining the starting position.
+    *   **動作：** 骨盆輕柔地向後轉動，使下背部（腰部拱起處）用力向下貼平瑜珈墊，腰部的自然拱起消失。
+    *   **箭頭/圖示：** 一個向下箭頭從下背部指向瑜珈墊，表示下背部貼平。一個向上箭頭從恥骨指向肚臍方向，表示骨盆捲動。腹部區域顯示輕微收縮的圖示。
+    *   **文字標註 (主要動作):** "吸氣準備，吐氣時腹部用力內收，將下背部（腰部拱起處）用力向下貼平地板。"
+    *   **文字標註 (動作概念):** "概念：想像要把腰下的螞蟻壓扁，恥骨往肚臍方向捲。"
+*   **錯誤動作視覺呈現 (Incorrect Action Visual):**
+    *   **動作：** 身體的臀部明顯抬離瑜珈墊，形成類似橋式（Bridge Pose）的姿勢。
+    *   **警示圖示：** 紅色叉號或警示三角形。
+    *   **文字標註：** "錯誤動作：用臀部力量把屁股抬太高（變成橋式）。"
+
+**步驟 2: 維持姿勢 (Hold Position)**
+*   **正確動作視覺呈現 (Correct Action Visual):**
+    *   Figure維持下背部緊貼瑜珈墊的狀態，如同步驟1所達成的姿勢。臀部和腿部沒有明顯的移動。
+    *   **文字標註 (主要動作):** "維持下背貼地5-10秒，保持淺呼吸。"
+    *   **文字標註 (動作概念):** "概念：只有骨盆在轉動，屁股不用離開地板。"
+*   **錯誤動作視覺呈現 (Incorrect Action Visual):**
+    *   **動作：** 大腿前側肌肉（股四頭肌）呈現過度用力或緊繃的狀態，可能導致臀部輕微上抬或前推。
+    *   **警示圖示：** 紅色叉號。
+    *   **文字標註：** "錯誤動作：大腿過度用力。"
+
+**步驟 3: 緩慢放鬆 (Slow Release)**
+*   **正確動作視覺呈現 (Correct Action Visual):**
+    *   Figure緩慢放鬆腹部收縮，讓骨盆輕柔地向前轉動，使下背部回到自然的、輕微拱起的狀態（骨盆中立位）。
+    *   **箭頭/圖示：** 一個向上箭頭表示下背部輕微恢復拱起。
+    *   **文字標註 (主要動作):** "吸氣放鬆，讓腰部稍微回到自然的拱起狀態。"
+    *   **文字標註 (動作概念):** "概念：感受骨盆前後擺動的節律。"
+*   **錯誤動作視覺呈現 (Incorrect Action Visual):**
+    *   **動作：** 放鬆時，下背部呈現過度誇張的拱起，表示骨盆過度前傾。
+    *   **警示圖示：** 紅色叉號。
+    *   **文字標註：** "錯誤動作：放鬆時腰部過度拱起。"
+
+**整體視覺要求 (General Visual Requirements):**
+*   所有動作姿勢必須符合醫學標準和人體解剖學準確性。
+*   使用專業、清晰的配色方案，顏色對比明顯，易於區分正確與錯誤動作。
+*   確保所有文字標註清晰可讀，大小適中，並明確與其對應的視覺元素相關聯。
+*   整體版面應簡潔、不雜亂，易於讀者依序理解和執行動作。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

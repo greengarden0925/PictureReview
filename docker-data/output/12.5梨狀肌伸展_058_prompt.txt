@@ -1,0 +1,62 @@
+Generate a detailed medical education infographic illustrating the '仰臥4字伸展' (Figure-4 Piriformis Stretch). The infographic should adopt a professional, clean, and modern style, emphasizing clarity and ease of understanding, suitable for both print and digital display with excellent color contrast.
+
+**Infographic Layout and Content:**
+
+1.  **主標題 (Main Title):** prominently displayed at the top, in large, clear Traditional Chinese characters: **梨狀肌緊繃：仰臥4字伸展**
+2.  **副標題/目標 (Subtitle/Goal):** Directly below the main title: **深層伸展梨狀肌，緩解假性坐骨神經痛。**
+3.  **整體畫面 (Overall Scene):** A gender-neutral, anatomically accurate human figure performing the stretch on a light-colored yoga mat. The perspective should clearly show the leg crossing and arm positions from a slightly elevated side view. The background should be clean and uncluttered.
+
+**主要內容區塊 (Main Content Blocks):**
+
+*   **區塊一：正確動作 (Correct Technique)**
+    *   此區塊應佔據大部分畫面，詳細展示動作分解。
+    *   **起始姿勢 (Starting Position):**
+        *   描繪人物平躺於瑜珈墊上，雙膝彎曲，雙腳掌平踩地面。
+        *   患側腳踝輕輕跨放在好腳的膝蓋上方，形成一個清晰可辨的數字「4」形狀。
+        *   文字標註：**起始姿勢：平躺，患側腳踝跨好腳膝蓋，形成「4」字。**
+    *   **動作步驟 (Action Steps):**
+        *   **步驟1: 抱腿 (Embrace Thigh):** 描繪人物雙手繞過下方「好腳」的大腿後側，雙手十指交扣或輕握抱住大腿。
+            *   文字標註：**步驟1: 雙手繞過大腿，抱住下方「好腳」大腿後側。**
+        *   **步驟2: 拉向胸口 (Pull Towards Chest):** 描繪人物緩慢將下方「好腳」拉向胸口方向。使用清晰的箭頭標示好腳向胸口移動的方向。在跨在上方（患側）的臀部深處，繪製一個輕微的、區域性的「痠痛感」視覺提示（例如：局部淡色光暈或重點標示），強調目標伸展區域。
+            *   文字標註：**步驟2: 慢慢將好腳拉向胸口。感覺患側屁股深處明顯痠痛。**
+        *   **步驟3: 停留與深呼吸 (Hold & Deep Breath):** 描繪人物保持在感覺最痠痛的位置。旁邊配以一個計時器圖示（例如：秒錶或沙漏），標示「30秒」。另配一個深呼吸圖示（例如：平穩上升的波浪線或肺部剪影），提示「深呼吸」。
+            *   文字標註：**步驟3: 在最痠痛處停留30秒，並保持深呼吸。**
+    *   **姿勢要求 (Posture Requirements):**
+        *   確保人物的脊椎保持中立位，下背部應平貼瑜珈墊，避免拱起。骨盆應穩定不動。
+
+*   **區塊二：錯誤動作對比 (Incorrect Technique Comparison)**
+    *   此區塊應在畫面一側或下方，以較小但清晰的方式展示。
+    *   描繪另一個人物模型，姿勢明顯錯誤。
+    *   **常見錯誤 (Common Error):** 描繪人物在拉腿時，下背部明顯拱起，或薦椎（尾椎上方區域）抬離地面。使用一個醒目的紅色「X」符號或警告圖示覆蓋此錯誤姿勢。
+    *   文字標註：**錯誤動作：拱背或抬高薦椎。**
+    *   附加提示文字：**正確動作應保持脊椎中立平貼地面，穩定骨盆。**
+
+**整體提示詞要求 (Overall Prompt Requirements):**
+
+*   **圖片風格 (Image Style):** 專業醫療教育風格，清晰、易懂，線條簡潔，無多餘裝飾。
+*   **文字標註 (Text Annotations):** 所有文字內容必須使用繁體中文，無錯別字，字體清晰易讀，大小適中。
+*   **動作精準度 (Accuracy):** 動作姿勢必須準確，符合醫學復健標準。
+*   **圖示與箭頭 (Icons & Arrows):** 使用簡潔明瞭的圖示（如計時器、呼吸符號）和方向箭頭（如拉腿方向、目標伸展區指示），以增強視覺引導。
+*   **顏色對比 (Color Contrast):** 採用高對比度的配色方案，例如：以冷色調（藍、綠、白、灰）為主體，用於正確動作和資訊；使用暖色調（紅、橙）突出錯誤動作或警告。確保顏色組合清晰易辨，適合各種印刷和數位顯示介面。
+*   **輸出格式 (Output Format):** 應為一張完整的單一資訊圖表圖像。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

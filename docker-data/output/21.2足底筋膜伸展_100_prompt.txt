@@ -1,0 +1,74 @@
+生成一張專業醫療教育風格的復健動作說明圖 (infographic)。圖表需清晰易懂，色彩對比明顯，適合印刷和數位顯示，並使用繁體中文進行所有標註。
+
+圖表中央上方為主要標題：**「坐姿足底伸展 (Seated Plantar Fascia Stretch)」**。標題下方簡潔標註：**「目標：直接伸展足底筋膜」** 和 **「所需設備：無」**。
+
+圖表應分為左右兩大部分，左側展示「正確動作」，右側展示「錯誤動作」，並明確指出差異。
+
+**整體視覺要求：**
+*   畫面中應有一位體態中等、穿著舒適運動服的復健者（不分性別）。
+*   背景簡潔，呈現專業醫療診間或物理治療室的風格，如淺色牆壁、少量簡潔家具。
+*   所有動作姿勢需準確，符合醫學標準，並透過簡潔的圖示和箭頭標示動作方向。
+*   文字標註清晰，字體易讀，無拼寫錯誤。
+*   整體顏色方案應高對比，如淺色背景搭配深色文字和彩色圖示（例如：正確動作使用綠色箭頭和標識，錯誤動作使用紅色叉號和灰色箭頭），利於閱讀和視覺區分，適合印刷和數位顯示。
+
+---
+
+**左側：正確動作**
+*   **標題：** 正確動作
+*   **人物姿勢：**
+    *   復健者坐在穩固的椅子上，軀幹挺直，保持良好坐姿。
+    *   患腳（例如：右腳）翹起，將腳踝輕輕地跨在另一隻腳（例如：左腳）的膝蓋上，呈「二郎腿」姿勢。
+*   **動作細節：**
+    *   患腳的同側手（例如：右手）向下伸，用手掌和手指穩固地抓住患腳的所有腳趾（從大拇指到小拇指）。
+    *   手部應確實包覆腳趾，確保能同時施力。
+    *   緩慢而穩定地將所有腳趾（連帶前腳掌）用力向身體方向（向上，朝向小腿）扳動。
+    *   重點在於足踝背屈，同時將腳趾背屈。
+*   **視覺強調：**
+    *   在腳趾被拉動的方向上，使用一條粗體綠色實線箭頭標示向上（向小腿）的拉動方向。
+    *   在患腳的足底，使用綠色虛線框或半透明的綠色區域高亮標示足底筋膜的位置，並用一個小小的綠色「√」符號表示其正在被有效伸展。
+    *   腳趾應明顯向上勾起，足弓處被拉長，足底筋膜的線條應清晰可見，呈現被伸展的狀態。
+*   **文字標註：**
+    *   「坐姿，患腳跨在好腳膝蓋上」
+    *   「同側手『確實抓住所有腳趾』」
+    *   「『向上扳向小腿方向』，直到足底筋膜有明顯伸展感」
+    *   「足底筋膜被有效伸展」
+
+---
+
+**右側：錯誤動作**
+*   **標題：** 錯誤動作
+*   **人物姿勢：**
+    *   與正確動作的起始姿勢相似，復健者翹著二郎腿。
+*   **動作細節：**
+    *   患腳的同側手未確實抓住所有腳趾，可能只抓住腳踝、腳背，或只輕微彎曲腳趾，而未將整個前腳掌和所有腳趾向上扳。
+    *   常見錯誤包括：只拉動腳踝，導致足底筋膜未被有效伸展；或只彎曲腳趾，而沒有讓整個足部背屈。
+*   **視覺強調：**
+    *   在錯誤抓取位置（例如：只抓住腳踝或腳背處）使用一個紅色的「X」標記。
+    *   在腳趾或足部可能被錯誤拉動的方向上，使用一條細體灰色虛線箭頭，表示無效或錯誤的拉動方向。
+    *   患腳的足底筋膜區域不應有伸展的視覺標示，可以呈現其正常狀態或用一個紅色的「X」符號標示未被伸展。
+    *   腳趾可能彎曲，但足弓沒有明顯拉長或變平，足底筋膜沒有呈現伸展狀態。
+*   **文字標註：**
+    *   「未確實抓住所有腳趾」
+    *   「僅彎曲腳趾或只拉腳踝／腳背」
+    *   「足底筋膜未被有效伸展」
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

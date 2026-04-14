@@ -1,0 +1,35 @@
+{
+  "total_iterations": 1,
+  "final_passed": true,
+  "reviews": [
+    {
+      "passed": true,
+      "content_match": {
+        "score": 100,
+        "issues": []
+      },
+      "text_accuracy": {
+        "score": 100,
+        "errors": []
+      },
+      "visual_correctness": {
+        "score": 100,
+        "issues": []
+      },
+      "overall_quality": {
+        "score": 100,
+        "comments": [
+          "圖片清晰、專業，非常適合醫療教育用途。",
+          "視覺風格一致且具高辨識度，符合原始要求的所有細節。",
+          "所有資訊呈現簡潔，易於理解和閱讀。"
+        ]
+      },
+      "recommendations": [
+        "無需修改，已完美符合所有要求。"
+      ],
+      "summary": "這張復健動作說明圖片完美符合了所有原始要求。無論是整體版面配置、標題與內文、各個動作步驟的呈現（包括正確與錯誤示範）、視覺元素（如圖示、箭頭、時間標記）、文字標註的準確性（繁體中文、無錯別字、專業術語正確），以及整體視覺風格（專業、簡潔、高對比、醫學教育適用性）都無可挑剔。人體姿勢符合醫學解剖學，展現中性與多元性。是一張高品質且教育價值極高的圖表。",
+      "iteration": 1,
+      "image_path": "output\\1.1熱敷與按摩_v1.jpg"
+    }
+  ]
+}

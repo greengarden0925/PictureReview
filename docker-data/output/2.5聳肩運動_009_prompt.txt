@@ -1,0 +1,63 @@
+生成一個專業醫療教育風格的復健動作說明圖（infographic），標題為：「聳肩放鬆運動 (Shoulder Shrugs)」。圖片目標清晰標註：「促進肩頸血液循環，緩解上斜方肌緊繃」。此動作無需任何設備。
+
+圖片版面設計應清晰易懂，將「正確動作」與「錯誤動作」分區塊並列呈現，方便使用者對比學習。
+圖中應有一名中性、健康的標準人體模型，穿著簡便運動服，姿勢準確，符合醫學標準，表情自然。
+
+**【正確動作區塊】**
+
+1.  **起始姿勢：** 人體模型呈現「站姿」，雙手自然垂於身體兩側，背部挺直，頸部放鬆。
+    *   文字標註：「起始姿勢：站姿或坐姿，雙手自然垂下。」
+2.  **動作步驟1 (吸氣聳肩)：** 人體模型雙肩用力向上聳起，盡量靠近耳朵，頸部看起來縮短。
+    *   圖中用一個向上的粗箭頭表示肩膀向上移動的方向。
+    *   文字標註：「1. 吸氣時，雙肩用力向上聳起，試著找耳朵。」
+    *   概念輔助標註：「盡量縮緊脖子與肩膀的距離。」
+3.  **動作步驟2 (停留收縮)：** 人體模型保持雙肩最高點的姿勢，臉部表情可顯示輕微的肌肉收縮感。
+    *   圖中可加入一個簡潔的計時器圖示，顯示「2-3秒」。
+    *   文字標註：「2. 聳到最高點，停留2-3秒。」
+    *   概念輔助標註：「感受肌肉極度收縮的緊張感。」
+4.  **動作步驟3 (吐氣放鬆)：** 人體模型雙肩瞬間放鬆，完全下沉到自然垂下的位置。
+    *   圖中用一個向下的粗箭頭，並輔以一個簡潔的「啪！」或衝擊線圖示，表示瞬間掉落的感覺。
+    *   文字標註：「3. 吐氣時，瞬間放鬆肩膀，讓肩膀沉下去。」
+    *   概念輔助標註：「利用重力讓肩膀完全下沉，感受放鬆的對比。」
+
+**【錯誤動作區塊】**
+
+此區塊應與「正確動作」相對應，明確指出常見錯誤，並使用紅色警示標籤或打叉符號。
+
+1.  **錯誤動作1 (只有頭縮)：** 人體模型頭部向下或前縮，但雙肩位置沒有明顯向上提升。
+    *   文字標註：「錯誤示範：只有頭往下縮，肩膀沒動。」
+2.  **錯誤動作2 (停留太短)：** 人體模型雖然有聳肩動作，但肩膀最高點停留時間極短，視覺上呈現一閃而過，肌肉未充分收縮。
+    *   文字標註：「錯誤示範：停留時間太短，沒感覺到收縮。」
+3.  **錯誤動作3 (慢慢放下)：** 人體模型雙肩緩慢地、控制性地向下放鬆，而非瞬間掉落。
+    *   圖中可用一個緩慢的向下彎曲箭頭表示。
+    *   文字標註：「錯誤示範：慢慢放下來（要瞬間掉落才有效）。」
+
+**【整體風格與排版要求】**
+
+*   **圖片風格：** 專業、清晰、去背景的醫療教育插畫風格，線條簡潔，無多餘裝飾。
+*   **文字標註：** 所有標題、動作說明、概念與錯誤提示均使用清晰易讀的**繁體中文**，無拼寫錯誤。字體應簡潔明瞭，適合印刷和數位顯示。
+*   **圖示與箭頭：** 使用簡潔明瞭的圖示（如呼吸圖示、計時器、音效）和粗實線的方向箭頭來輔助說明動作，指示方向和速度。
+*   **顏色：** 採用高對比度的色彩方案。正確動作的指示（如箭頭、邊框）使用綠色或藍色系，錯誤動作的指示使用紅色系。整體色彩應飽和、對比明顯，視覺上清新專業，適合印刷和數位顯示。
+*   **背景：** 純白色或極淺灰色背景，確保圖形和文字突出。
+*   **模型表現：** 模型的姿勢必須準確無誤，符合人體工學和康復醫學的標準。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

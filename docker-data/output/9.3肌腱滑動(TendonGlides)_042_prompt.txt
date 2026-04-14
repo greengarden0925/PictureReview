@@ -1,0 +1,76 @@
+一個專業醫療教育風格的復健動作說明圖 (Infographic)，主題為「肌腱滑動運動 (Tendon Gliding Exercises)」。
+
+**總體風格要求:**
+*   **風格:** 專業、清晰、易懂的醫療教育資訊圖，採用簡潔的線條圖 (line art) 或扁平化設計 (flat design)，確保醫學動作的準確性。
+*   **配色:** 採用高對比度的色彩方案，例如主要動作以藍色、綠色或灰色調呈現，背景為乾淨的白色。錯誤動作標示則使用醒目的紅色或橙色。確保顏色對比明顯，適合印刷和數位顯示。
+*   **文字:** 所有標註文字均為繁體中文，無錯別字。字體清晰易讀。
+*   **圖示:** 搭配簡潔的圖示（如時鐘圖示代表停留時間）和方向箭頭，直觀地指示動作方向和流程。
+
+**圖片內容要求:**
+
+1.  **標題區 (Top Section):**
+    *   **主標題:** 超大字體標註「肌腱滑動運動 (Tendon Gliding Exercises)」。
+    *   **運動目標:** 清晰標註「運動目標：讓手指屈肌肌腱在腕隧道內滑動，防止沾黏。」
+    *   **設備:** 標註「設備：無」。
+
+2.  **起始姿勢區 (Starting Position Section):**
+    *   **標題:** 「起始姿勢」
+    *   **描述及圖示:** 繪製一隻手掌朝前舉起，手指完全伸直的示意圖。手掌應位於畫面中央偏上，清晰可見。此姿勢應被標註為「姿勢A」。
+    *   **文字說明:** 「手掌朝前舉起，手指完全伸直。」
+
+3.  **動作分解區 (Action Steps Section - 3個主要步驟):**
+    *   此區應分為三個獨立但連貫的子區塊，每個子區塊代表一個動作。
+    *   **每個動作子區塊共同要求:**
+        *   **流程箭頭:** 從上一個動作（或起始姿勢）指向當前動作，再從當前動作指向「姿勢A」（表示回到起始姿勢），最後從「姿勢A」指向下一個動作。箭頭需流暢、清晰。
+        *   **停留時間標註:** 每個動作圖示旁，需有文字或時鐘圖示標註「停留3秒」。
+        *   **流暢度標註:** 註明「每個動作切換要流暢」。
+        *   **返回起始姿勢標註:** 註明「每個動作完成後，請回到手掌完全伸展的姿勢A，再進行下一個動作。」
+
+    *   **子區塊一：「勾拳 (Hook Fist)」**
+        *   **標題:** 「步驟一：勾拳 (Hook Fist)」
+        *   **動作圖示:** 精確繪製一隻手，僅指尖彎曲，碰觸掌丘的姿勢，形狀像貓爪。手指彎曲的方向應有清晰的藍色箭頭指示。
+        *   **文字說明:** 「指尖彎曲接觸掌丘。」
+
+    *   **子區塊二：「完全握拳 (Full Fist)」**
+        *   **標題:** 「步驟二：完全握拳 (Full Fist)」
+        *   **動作圖示:** 精確繪製一個拇指包在外側的標準握拳姿勢。手指彎曲的方向應有清晰的藍色箭頭指示。
+        *   **文字說明:** 「拇指包在外的標準握拳。」
+
+    *   **子區塊三：「直角手 (Table Top)」**
+        *   **標題:** 「步驟三：直角手 (Table Top)」
+        *   **動作圖示:** 精確繪製一隻手，掌指關節彎曲成90度，而手指（近端指骨關節和遠端指骨關節）則保持伸直的姿勢。掌指關節彎曲方向應有清晰的藍色箭頭指示。
+        *   **文字說明:** 「掌指關節彎曲90度，手指伸直。」
+
+4.  **常見錯誤區 (Common Errors Section):**
+    *   **標題:** 「常見錯誤」
+    *   此區應包含至少兩個錯誤動作的圖示，並以紅色「X」或其他警告標誌明確表示錯誤。
+    *   **錯誤一：「用力過猛或不流暢」**
+        *   **圖示:** 繪製一隻手，動作顯得僵硬、不自然或關節過度用力壓迫，並用紅色箭頭或顫抖的線條暗示不流暢感。
+        *   **文字說明:** 「用力過猛或動作不流暢，導致疼痛或肌腱損傷。」
+    *   **錯誤二：「未完全伸展」**
+        *   **圖示:** 繪製一隻手，在切換動作前，手指未完全伸直回到「姿勢A」，例如仍略微彎曲。用紅色「X」或波浪線表示錯誤。
+        *   **文字說明:** 「未回到手掌完全伸展的姿勢A，影響肌腱滑動效果。」
+    *   **錯誤三：「手腕代償」**
+        *   **圖示:** 繪製一隻手，在進行手指動作時，手腕也跟著過度彎曲或伸展，而非保持中立位。用紅色箭頭指出手腕的錯誤動作。
+        *   **文字說明:** 「手腕過度彎曲或伸展，而非專注於手指動作。」
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

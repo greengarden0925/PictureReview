@@ -1,0 +1,83 @@
+A professional medical education infographic designed to illustrate the "肩胛骨後收運動 (Scapular Retraction)" for individuals with rotator cuff inflammation. The infographic should be clear, easy to understand, and medically accurate, following a clean, minimalist design with high-contrast colors suitable for both print and digital display.
+
+**整體目標 (Overall Goal):** 放鬆上斜方肌，強化中下斜方肌，改善圓肩，避免產生夾擠。
+
+**版面配置 (Layout):**
+資訊圖表應包含一個主標題、目標總結、設備資訊，以及分步的動作分解。每個動作步驟都必須透過並排或堆疊的面板，清晰地區分「✓ 正確」和「✗ 錯誤」的姿勢，並使用獨特的視覺提示和顏色編碼（例如，綠色用於正確，紅色用於錯誤）。
+
+**視覺元素 (Visual Elements):**
+*   **人物 (Figure):** 描繪一個性別中立、解剖學上正確的人體模型，示範此復健動作。該人物應具有清晰的肌肉定義（特別是肩胛骨和斜方肌周圍），以突顯目標區域。
+*   **設備 (Equipment):** 人物應示範站立或坐在一張簡潔、不突兀的椅子上。
+*   **背景 (Background):** 乾淨、專業的白色或淺灰色背景，以確保焦點集中在運動細節上。
+*   **圖示與箭頭 (Icons & Arrows):** 使用簡潔、清晰的綠色箭頭指示正確的動作方向，紅色箭頭指示錯誤的動作或過度用力的區域。必要時可使用簡單的圖示，如「維持」或「放鬆」。
+*   **文字 (Text):** 所有文字標註必須使用繁體中文，清晰易讀，且無拼寫錯誤。
+
+**內容細分 (Content Breakdown):**
+
+1.  **標題區 (Header Section):**
+    *   **主標題 (Main Title):** "肩胛骨後收運動 (Scapular Retraction)"（使用大而醒目的字體）
+    *   **副標題/目標 (Subtitle/Target):** "旋轉肌發炎者復健指南"
+    *   **運動目標 (Exercise Goal):** "目標：放鬆上斜方肌（肩頸交界），強化中下斜方肌，改善圓肩；對於旋轉肌發炎者極為重要，可避免產生夾擠。"
+    *   **設備 (Equipment):** "設備：椅子或站立"
+
+2.  **起始姿勢 (Starting Position):**
+    *   **圖片 (Image):** 示範人物站立或坐著，呈現「挺胸，雙手自然垂下或手肘彎曲90度在身側」的姿勢。
+    *   **文字標註 (Text Label):** "起始姿勢"
+    *   **視覺提示 (Visual Cues):** 細微的綠色箭頭指示胸部打開和肩膀放鬆下垂。
+
+3.  **動作一：夾背 (Action Step 1: Squeeze Shoulder Blades):**
+    *   **✓ 正確 (Correct) 面板:**
+        *   **圖片 (Image):** 人物肩胛骨向後並略向下夾緊。
+        *   **文字 (Text):** "想像背部中間脊椎有一支筆，用力將兩片肩胛骨往中間夾，試圖夾住那支筆。**重點：是「往後夾」不是「往上聳」。**"
+        *   **視覺提示 (Visual Cues):** 綠色箭頭指示肩胛骨向內和略向下的移動。在肩胛骨之間垂直放置一支筆的淺色輪廓。
+    *   **✗ 錯誤 (Incorrect) 面板:**
+        *   **圖片 (Image):** 人物在試圖夾背時，肩膀明顯聳向耳朵。
+        *   **文字 (Text):** "**錯誤：夾背時肩膀聳向耳朵。**"
+        *   **視覺提示 (Visual Cues):** 紅色箭頭從肩膀向上指向耳朵。在聳起的肩膀上疊加一個顯眼的紅色「X」。
+
+4.  **動作二：維持 (Action Step 2: Hold):**
+    *   **✓ 正確 (Correct) 面板:**
+        *   **圖片 (Image):** 人物保持肩胛骨夾緊的姿勢，胸部打開。
+        *   **文字 (Text):** "維持夾緊狀態5-10秒。胸口打開配合呼吸，不要憋氣。"
+        *   **視覺提示 (Visual Cues):** 顯示「5-10秒」的計時器圖示或文字。細微的綠色箭頭指示胸部打開和平穩呼吸。
+    *   **✗ 錯誤 (Incorrect) 面板:**
+        *   **圖片 (Image):** 人物保持姿勢，但頸部明顯緊張，可能伴隨輕微爆青筋。
+        *   **文字 (Text):** "**錯誤：脖子過度用力爆青筋。**"
+        *   **視覺提示 (Visual Cues):** 紅色箭頭指向緊張的頸部肌肉。在頸部區域疊加一個顯眼的紅色「X」。
+
+5.  **動作三：放鬆 (Action Step 3: Relax):**
+    *   **✓ 正確 (Correct) 面板:**
+        *   **圖片 (Image):** 人物緩慢地放鬆肩胛骨的夾緊，回到起始位置。
+        *   **文字 (Text):** "慢慢放鬆肩胛骨回到原位。感受背部肌肉的收縮與放鬆。"
+        *   **視覺提示 (Visual Cues):** 綠色箭頭指示肩胛骨緩慢、受控地向外移動回到中立位置。
+    *   **✗ 錯誤 (Incorrect) 面板:**
+        *   **圖片 (Image):** 人物在放鬆張力後，肩膀明顯鬆垮或突然下垂。
+        *   **文字 (Text):** "**錯誤：瞬間放掉力量讓肩膀垮下來。**"
+        *   **視覺提示 (Visual Cues):** 紅色箭頭顯示肩膀突然向下塌陷。在鬆垮的肩膀上疊加一個顯眼的紅色「X」。
+
+**整體風格要求 (Overall Style Notes):**
+*   **專業性 (Professionalism):** 保持乾淨、學術和值得信賴的外觀。
+*   **清晰度 (Clarity):** 使用簡潔、清晰的線條藝術或向量插圖。避免過於複雜的細節。
+*   **顏色對比 (Color Contrast):** 確保所有元素（特別是文字和正確/錯誤部分）的顏色選擇具有明顯的高對比度，以增強可讀性和視覺區分。
+*   **醫學準確性 (Medical Accuracy):** 所有姿勢和解剖學表現必須精確並符合復健運動的醫學標準。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

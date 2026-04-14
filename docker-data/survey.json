@@ -1,0 +1,101 @@
+{
+  "version": 2,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "likert",
+      "label": "此圖片所呈現的動作符合臨床復健原則",
+      "order": 0
+    },
+    {
+      "id": "q2",
+      "type": "likert",
+      "label": "此圖片未出現錯誤或誤導性的姿勢",
+      "order": 1
+    },
+    {
+      "id": "q3",
+      "type": "likert",
+      "label": "此圖片不會導致病人進行錯誤訓練",
+      "order": 2
+    },
+    {
+      "id": "q4",
+      "type": "likert",
+      "label": "若病人依此圖片操作，不易產生安全風險",
+      "order": 3
+    },
+    {
+      "id": "q5",
+      "type": "likert",
+      "label": "圖中姿勢與關節角度在生物力學上是安全合理的",
+      "order": 4
+    },
+    {
+      "id": "q6",
+      "type": "likert",
+      "label": "此圖片能清楚表達復健動作",
+      "order": 5
+    },
+    {
+      "id": "q7",
+      "type": "likert",
+      "label": "一般病人或家屬能理解此圖片內容",
+      "order": 6
+    },
+    {
+      "id": "q8",
+      "type": "likert",
+      "label": "此圖片適合用於臨床衛教或教學",
+      "order": 7
+    },
+    {
+      "id": "q9",
+      "type": "likert",
+      "label": "我願意在臨床工作中使用此圖片",
+      "order": 8
+    },
+    {
+      "id": "q10",
+      "type": "likert",
+      "label": "我信任此圖片的臨床正確性",
+      "order": 9
+    },
+    {
+      "id": "q11",
+      "type": "likert",
+      "label": "我願意依此圖片指導病人進行訓練",
+      "order": 10
+    },
+    {
+      "id": "q12",
+      "type": "likert",
+      "label": "我能理解此圖片所呈現動作的正確性與邏輯",
+      "order": 11
+    },
+    {
+      "id": "q13",
+      "type": "likert",
+      "label": "此圖片中的人體姿勢與比例呈現自然合理",
+      "order": 12
+    },
+    {
+      "id": "q14",
+      "type": "likert",
+      "label": "此圖片整體品質是可接受的",
+      "order": 13
+    },
+    {
+      "id": "q15",
+      "type": "open",
+      "label": "此圖片是否有其他錯誤的地方",
+      "order": 14
+    },
+    {
+      "id": "q_compare",
+      "type": "compare",
+      "label": "請問您覺得A圖與B圖，哪張圖片更符合臨床復健運動衛教需求？",
+      "order": 15
+    }
+  ]
+}

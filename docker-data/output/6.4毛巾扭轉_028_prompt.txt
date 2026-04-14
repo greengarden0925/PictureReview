@@ -1,0 +1,62 @@
+生成一個詳細的醫療教育資訊圖表，標題為「扭毛巾運動 (TylerTwist)」。
+
+**整體風格：** 專業、清晰、易懂且高品質的圖解風格，適合印刷和數位顯示。色彩對比鮮明，使用潔淨的調色板（例如：正確動作使用藍色/綠色系，錯誤動作使用紅色系，白色背景）。
+
+**版面配置：**
+資訊圖表頂部為主要標題和運動目標，下方劃分為「器材」、「正確動作」（包含多個步驟圖）和「常見錯誤」三個主要區塊。所有文字標註均使用清晰、易讀的繁體中文。
+
+**內容細節要求：**
+
+1.  **標題區塊：**
+    *   **主標題：** 以大號粗體字清晰標註「扭毛巾運動 (TylerTwist)」。
+    *   **副標題/運動目標：** 在主標題下方，文字標註「運動目標：功能性離心訓練 (Functional Eccentric Training)」。
+
+2.  **器材區塊 (Equipment Section)：**
+    *   **文字標籤：** 「器材」。
+    *   **文字內容：** 「捲起的毛巾 或 專用練力棒 (FlexBar)」。
+    *   **圖示：** 清晰、簡潔地繪製一條緊密捲起的標準尺寸毛巾，並在其旁邊繪製一根黃色或綠色的專業練力棒 (FlexBar)，作為可選的替代器材。
+
+3.  **正確動作區塊 (Correct Action Section)：**
+    *   **總體標籤：** 「正確動作」。
+    *   **步驟 1: 起始姿勢 (Starting Position)**
+        *   **圖示：** 繪製一個符合醫學標準、姿勢準確的性別中立人物模型。人物站立或坐姿端正，軀幹穩定。雙臂向前伸直，與胸部同高，肘部微屈但不僵硬。雙手牢固地握住捲起的毛巾（或練力棒）的兩端，掌心相對或略向下。
+        *   **文字標註：** 「雙手握住毛巾兩端，手臂伸直，保持身體穩定。」
+    *   **步驟 2: 動作過程：扭轉 (Action: Twist)**
+        *   **圖示：** 延續起始姿勢，清晰展示人物如何將毛巾或練力棒進行扭轉。其中一隻手（例如左手）向前旋轉（前臂旋前），另一隻手（例如右手）向後旋轉（前臂旋後），模擬擰乾毛巾的動作。毛巾或練力棒應呈現明顯的扭轉狀態。使用綠色的弧形箭頭，清晰指示兩隻手腕/手部的相反旋轉方向。手臂保持相對伸直。
+        *   **文字標註：** 「像擰乾毛巾一樣，一手向前轉，一手向後轉。感受前臂與手腕肌肉的發力。」
+    *   **步驟 3: 動作過程：緩慢回放 (離心控制) (Action: Slow Return - Eccentric Control)**
+        *   **圖示：** 展示毛巾或練力棒從扭轉狀態緩慢、有控制地回到起始的未扭轉位置。這個過程必須視覺上強調緩慢和抵抗。使用一條長而虛線的綠色箭頭，指示動作緩慢的回放路徑。可搭配一個小型計時器圖標或文字「3-5 秒」以強調時間控制。人物的肌肉應表現出控制和抵抗反作用力的狀態。
+        *   **文字標註：** 「重點在於控制「慢慢轉回來」的過程，以 3-5 秒速度緩慢回放，充分感受離心收縮。」
+
+4.  **常見錯誤區塊 (Common Error Section)：**
+    *   **總體標籤：** 「常見錯誤」。
+    *   **錯誤圖示：快速回彈 (Rapid Recoil)**
+        *   **圖示：** 繪製一個人物，展示毛巾或練力棒在被扭轉後，*迅速、無控制地彈回*到未扭轉的起始位置。使用粗體、鋸齒狀的紅色箭頭，或一個爆炸/閃電圖示，強烈視覺化地傳達這種快速、失控的回彈動作。在此錯誤動作圖示上方疊加一個大號紅色「X」符號。
+        *   **文字標註：** 「錯誤！未緩慢控制回放，讓毛巾快速回彈。這會減少訓練效果，且可能造成肌肉拉傷或關節負擔。」
+
+**一般圖形元素：**
+*   所有人物模型均為簡潔、符合解剖學的性別中立風格。
+*   箭頭和圖示應簡潔明瞭：綠色箭頭表示正確的方向/動作，紅色箭頭表示錯誤。虛線箭頭用於表示緩慢或控制的動作。
+*   確保所有文字標註均為繁體中文，無拼寫錯誤，清晰易讀，並準確地放置在相應的圖示旁。
+*   整體構圖應整潔、有條理，邏輯清晰，易於引導觀看者理解運動步驟。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

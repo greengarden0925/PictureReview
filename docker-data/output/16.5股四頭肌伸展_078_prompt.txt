@@ -1,0 +1,76 @@
+生成一個專業醫療教育風格的復健動作說明圖（infographic）。圖片主體為一位性別中立的模擬人物，穿著簡潔的運動服裝，動作姿勢精準符合醫學標準。
+
+圖片主標題為：**『站姿股四頭肌伸展 (Standing Quad Stretch)』**
+副標題為：**『目標：增加大腿前側柔軟度，減少髕骨壓力。』**
+
+圖片內容分為左右兩大部分，形成清晰對比：
+**左側為『正確動作』，右側為『錯誤動作』。**
+
+**【圖片細節要求】**
+
+**整體風格與佈局：**
+*   採用專業、清晰、易懂的醫療教育風格，簡潔扁平化設計（flat design）或簡約擬真（minimalist realistic），無複雜背景。
+*   背景色為純白色或淺灰色，文字與圖示顏色對比明顯，適合印刷和數位顯示。
+*   所有文字標註均使用繁體中文，字體清晰易讀，無拼寫錯誤。
+
+**左側區域：『正確動作』**
+1.  **人物姿勢：**
+    *   人物單腳站立，姿勢穩固，一手輕扶身旁一張穩固的椅子作為支撐。
+    *   另一手向後抓住同側（患側）腳踝，將腳跟緩慢拉向臀部。
+    *   **關鍵細節：** 膝蓋應朝向地板，與另一支撐腳的膝蓋盡量保持對齊，不向外打開。
+    *   **關鍵細節：** 身體軀幹保持正直，骨盆保持中立位，腰部不塌陷（無骨盆前傾）。
+    *   面部表情應呈現放鬆、略帶伸展感的狀態。
+2.  **視覺標示：**
+    *   使用粗綠色實線箭頭標示腳跟拉向臀部的方向，強調伸展力道。
+    *   使用細綠色虛線箭頭指向地板，指示膝蓋的正確方向。
+    *   人物大腿前側的股四頭肌區域以半透明的淺綠色或淺藍色高亮顯示，強調正在伸展的目標肌肉群。
+    *   在骨盆和膝蓋區域，使用綠色打勾符號（✓）的小圖示，分別標示「骨盆中立」和「膝蓋對齊」。
+3.  **文字標註（繁體中文）：**
+    *   大標題：**『正確動作』**
+    *   文字說明1：**『起始姿勢：單腳站立，手扶椅子。』**
+    *   文字說明2：**『一手向後抓住腳踝，將腳跟拉向臀部。』**
+    *   文字說明3：**『✓ 膝蓋朝向地板，與另一膝蓋對齊，不外開。』**
+    *   文字說明4：**『✓ 身體正直，骨盆保持中立不前傾。』**
+
+**右側區域：『錯誤動作』**
+1.  **人物姿勢：**
+    *   人物同樣單腳站立並扶椅，進行伸展動作。
+    *   **關鍵錯誤：** 呈現明顯的「骨盆前傾」姿勢，即腰部過度塌陷，臀部向後翹起，導致身體呈「凹」字形。
+    *   此錯誤姿勢下，大腿的伸展感會不明顯，或導致腰部不適。
+    *   面部表情可略顯掙扎或不適。
+2.  **視覺標示：**
+    *   使用粗紅色波浪線或紅色虛線箭頭，明確指出腰部塌陷和骨盆前傾的方向，強調錯誤所在。
+    *   在骨盆和腰部區域，使用紅色叉號符號（✕）的小圖示，標示「骨盆前傾」和「腰部塌陷」。
+    *   大腿前側的股四頭肌區域不應有高亮顯示，或以淺灰色表示伸展效果不佳。
+3.  **文字標註（繁體中文）：**
+    *   大標題：**『錯誤動作』**
+    *   文字說明1：**『✕ 錯誤示範：骨盆前傾（腰部塌陷）。』**
+    *   文字說明2：**『這樣無法有效伸展大腿前側。』**
+    *   文字說明3：**『✕ 增加腰椎壓力，可能導致不適或受傷。』**
+
+**整體顏色與圖示：**
+*   使用綠色箭頭和打勾符號表示正確。
+*   使用紅色箭頭和叉號符號表示錯誤。
+*   文字標註清晰，字體適中，易於閱讀。
+*   圖示簡潔明瞭，避免任何模糊或誤導性元素。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

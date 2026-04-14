@@ -1,0 +1,69 @@
+Generate a professional medical education infographic titled '復健動作說明：毛巾抓握 (Towel Scrunch)'.
+
+**風格與佈局 (Style and Layout):**
+*   採用清晰、簡潔、專業的醫療教育風格，適合印刷與數位顯示。
+*   整體版面應清晰易懂，資訊分區明確。
+*   使用高對比度的色彩方案，主色調為藍、綠、白，輔以灰色陰影呈現立體感，紅色用於標示錯誤動作。
+*   所有文字標註均使用繁體中文，字體清晰易讀，無拼寫錯誤。
+
+**內容元素 (Content Elements):**
+
+1.  **標題區 (Header Section):**
+    *   頂部大字標題：**復健動作說明：毛巾抓握 (Towel Scrunch)**
+    *   下方次標題：**目的：訓練手指彎曲力量。**
+    *   設備資訊：**設備：毛巾** (旁邊可配一個簡潔的毛巾圖示)。
+
+2.  **起始姿勢 (Starting Position Panel):**
+    *   標題：**起始姿勢**
+    *   圖示：一張俯視圖，展示一隻手掌（非特定性別，中性膚色）平放在淺色桌面（如木質或淺色桌面）上的一條白色或淺色毛巾上。手指應自然伸直，手掌完全接觸毛巾。
+    *   文字說明：**手掌平放在桌面的毛巾上。**
+
+3.  **正確動作 (Correct Action Panel - 多步驟序列):**
+    *   大標題：**正確動作** (使用綠色或藍色標示)
+    *   **步驟一：**
+        *   圖示：從起始姿勢開始，清楚展示只用手指的力量，逐漸將毛巾抓成一團皺褶的過程。畫面應聚焦於手指的彎曲和毛巾的聚集。
+        *   使用藍色或綠色箭頭標示手指彎曲的方向和毛巾被抓取的方向，強調動作的流暢性。
+        *   手腕和前臂應保持穩定，平貼桌面，不應有明顯抬起或彎曲。
+        *   文字說明：**步驟一：只用手指彎曲的力量，將毛巾抓成一團皺褶。**
+    *   **步驟二：**
+        *   圖示：展示將毛巾抓緊後，手指放鬆，使毛巾重新鋪平的過程。
+        *   使用藍色或綠色箭頭標示手指伸展和毛巾鋪開的方向。
+        *   文字說明：**步驟二：抓緊後放鬆，將毛巾鋪平重來。**
+
+4.  **錯誤動作 (Incorrect Action Panel - 對比):**
+    *   大標題：**錯誤動作** (使用醒目的紅色標示)
+    *   圖示：並排展示兩個手的示意圖。
+        *   **左側 (正確參考):** 簡潔描繪正確動作中，手腕保持平穩，僅手指彎曲抓握毛巾的畫面（可使用淺灰色或虛線輪廓作為背景參考）。
+        *   **右側 (錯誤示範):** 清楚描繪手腕明顯抬起、彎曲或前臂參與發力，而非單純由手指彎曲抓握毛巾的畫面。
+        *   使用紅色箭頭清晰標示錯誤的手腕或前臂抬起/彎曲方向。
+        *   在錯誤動作圖上方或旁邊放置一個紅色的「X」符號。
+    *   文字說明：**錯誤示範：使用手腕或前臂力量輔助，而非僅用手指發力。**
+
+**視覺細節與標示 (Visual Details and Annotations):**
+*   所有手部姿勢應符合醫學標準， анатомически準確。
+*   毛巾應有輕微的紋理感，呈現白色或淺色，以提供良好的對比。
+*   桌面背景簡潔，不分散注意力。
+*   箭頭和圖示應簡潔明瞭，用顏色區分正確（藍/綠）與錯誤（紅）。
+*   所有文字應排版整齊，具有良好的行距和字距，方便閱讀。
+*   整體設計應專業、鼓勵性，並能有效傳達復健動作的要點。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

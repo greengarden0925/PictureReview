@@ -1,0 +1,67 @@
+生成一張專業醫療教育風格的復健動作說明圖（infographic），清晰易懂，旨在教學「單腳站立」運動。
+
+**圖片整體佈局與風格要求：**
+1.  圖片應採用多個區塊的資訊圖表形式，視覺動線流暢，區分不同動作階段及正確與錯誤示範。
+2.  整體風格為專業醫療插畫，線條簡潔，圖案清晰，避免卡通化，但具備視覺吸引力。
+3.  人體模型應為中性，可選用簡化的人體示意圖或精確呈現肌肉骨骼的人體插畫，姿勢符合醫學標準和解剖學精確性。
+4.  色彩對比鮮明，主色調可為醫學藍、白、灰，並輔以高對比度的綠色（表示正確）和紅色（表示錯誤）以突出重點，確保在印刷和數位顯示上均清晰易讀。
+5.  所有文字標註必須使用繁體中文，且無拼寫錯誤。
+
+**具體內容與細節要求：**
+
+**標題區塊：**
+*   **主標題：** 「單腳站立 (Single Leg Stance)」
+*   **副標題：** 「目標：恢復足踝本體感覺，並訓練骨盆穩定度以避免運動時骨盆晃動。」
+
+**設備與預備姿勢區塊（左側或上方）：**
+1.  **設備圖示：** 顯示一面落地式或足夠大的鏡子。
+2.  **人體姿勢：** 一位站立者，雙手叉腰，雙腳併攏，面朝鏡子。
+3.  **文字標註：**
+    *   「設備：鏡子」
+    *   「預備姿勢：採站姿，雙手插腰站立。」
+
+**正確動作示範區塊（中央或右側主要區域）：**
+1.  **主要圖像：** 一位人體模型抬起其中一隻腳，保持單腳站立姿勢。被抬起的那隻腳應輕微彎曲，腳尖離地，不觸碰地面。
+2.  **骨盆細節：** 該人體模型的骨盆線條必須保持完美水平，無任何傾斜。
+3.  **鏡中反射：** 鏡子中應清晰反射出人體的正確姿勢，特別是骨盆的水平線條在鏡中與實際人體保持一致。
+4.  **動作標示：**
+    *   使用綠色圓圈或勾選符號，標註為「正確動作」。
+    *   用簡潔的綠色向上箭頭或綠色放射線圖示，標示出支撐腳側的臀中肌、梨狀肌及深層核心肌群正在收縮發力，以維持軀幹與下肢的穩定，並使骨盆保持水平。
+    *   **文字標註：**
+        *   「動作：抬起一腳，以單腳站立維持30秒。」
+        *   「重點觀察：骨盆必須保持水平。」
+        *   「核心概念：確保臀中肌及深處梨狀肌等收縮使力，以維持軀幹與下肢的穩定。」
+        *   在人物旁或圖示旁明確標註：「維持30秒」。
+
+**錯誤動作示範區塊（與正確動作對比，下方或右側）：**
+1.  **主要圖像：** 另一位人體模型，同樣採單腳站立姿勢，但骨盆明顯傾斜。抬起腳那一側的骨盆應明顯下沉，呈現「一高一低」的錯誤姿態。
+2.  **錯誤標示：**
+    *   使用紅色叉叉或警告符號，標註為「錯誤動作」。
+    *   用紅色的虛線或向下箭頭，明確指出骨盆傾斜的方向和程度。
+3.  **文字標註：**
+    *   「常見錯誤：骨盆一高一低」
+    *   在骨盆傾斜處明確標註：「骨盆傾斜」
+
+**總結與提示區塊（可選，但有助於完整性）：**
+*   **文字提示：** 可加入簡潔提示，例如「務必於鏡前練習，確保姿勢正確」。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

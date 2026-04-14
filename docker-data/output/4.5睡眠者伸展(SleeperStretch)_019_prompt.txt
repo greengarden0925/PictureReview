@@ -1,0 +1,84 @@
+Generate a professional medical educational infographic titled "側躺內旋伸展 (Sleeper Stretch) - 肩關節後關節囊伸展".
+
+**Infographic Goal:** To provide clear, step-by-step instructions for the Sleeper Stretch, focusing on correct technique for powerful posterior capsule stretching for severe shoulder internal rotation limitation, while also clearly illustrating common errors.
+
+**Visual Style:**
+*   Clean, minimalist, and professional medical illustration style.
+*   Uses clear, precise lines and accurate anatomical representations.
+*   Composition is a multi-panel infographic layout, guiding the viewer from top to bottom or left to right for sequential steps and comparisons.
+*   Background is clean white or very light grey.
+
+**Color Palette:**
+*   Dominant colors: Professional blues, greens, and greys.
+*   Highlight color for correct actions/key points: A distinct, calming color like light blue or teal.
+*   Error indication color: Bright, clear red for 'X' marks and error outlines.
+*   Text: Dark grey or black for optimal readability.
+
+**Typography:**
+*   All text annotations are in Traditional Chinese (繁體中文), clear, legible, and without spelling errors.
+*   Titles are prominent. Step instructions are clear.
+
+**Infographic Sections and Detailed Content:**
+
+**Section 1: Title and Goal**
+*   **Title:** 「側躺內旋伸展 (Sleeper Stretch) - 肩關節後關節囊伸展」
+*   **Subtitle/Goal:** 「強效伸展後關節囊，針對嚴重內旋受限者。」
+*   **Equipment Icons:** Small, clear icons for 「枕頭 (Pillow)」 and 「硬床或瑜珈墊 (Hard Bed or Yoga Mat)」.
+
+**Section 2: 正確動作 (Correct Technique)**
+*   **Patient Representation:** A gender-neutral, anatomically correct human figure. The '患側' (affected side) shoulder and arm should be subtly highlighted (e.g., a faint outline or a small, discrete marker).
+*   **Panel 1: 起始姿勢 (Starting Position)**
+    *   **Illustration:** Patient lying perfectly on their side on a hard bed or yoga mat. A pillow is correctly positioned under the head to maintain a neutral cervical spine (head in line with the body, not tilted up or down). The '患側' arm is extended forward at shoulder height, with the elbow bent at exactly 90 degrees. The wrist is relaxed, and fingertips point directly towards the ceiling. The torso is perpendicular to the floor, forming a straight line from head to hips to feet.
+    *   **Text Annotations:**
+        *   「側躺，患側在下，頭部墊枕頭保持頸椎中立。」
+        *   「患側手臂向前伸出，手肘彎曲90度，指尖朝向天花板。」
+        *   **Key Posture Detail:** Small inset or highlight near the shoulder with text: 「保持軀幹與地面垂直，不前傾。」
+
+*   **Panel 2: 動作步驟1：固定肩胛骨 (Action Step 1: Stabilize Scapula)**
+    *   **Illustration:** A slightly zoomed-in view of the shoulder area. The patient maintains the side-lying position. An arrow indicates a subtle backward movement/pressure of the '患側' shoulder blade into the mat (slight retraction/depression). The shoulder joint should *not* be seen protracting forward.
+    *   **Text Annotations:**
+        *   「確認患側肩膀肩胛骨有壓在身體下方（稍微後收），不要前突。」
+        *   **Concept Icon/Text:** 「關鍵：固定肩胛骨，避免代償。」 (A small icon depicting a stable shoulder blade.)
+
+*   **Panel 3: 動作步驟2：執行內旋伸展 (Action Step 2: Perform Internal Rotation Stretch)**
+    *   **Illustration:** The unaffected hand (好手) gently but firmly grasps the '患側' wrist. The unaffected hand is slowly and controlledly pressing the '患側' forearm downwards towards the ground, causing internal rotation at the shoulder joint. The '患側' elbow remains at a consistent 90-degree angle. A curved arrow clearly indicates the internal rotation movement of the '患側' arm towards the floor. A subtle glowing highlight or overlay should indicate the deep stretch sensation in the posterior shoulder capsule.
+    *   **Text Annotations:**
+        *   「好手握住患側手腕，慢慢將患側手臂往地面方向下壓（做內旋動作）。」
+        *   「動作非常緩慢，壓力集中在肩膀深處。」
+        *   **Duration Text:** 「壓至緊繃處停留30秒，保持深呼吸放鬆。」
+
+**Section 3: 錯誤動作 (Common Errors)**
+*   Each error shown as a separate illustration, contrasting directly with the correct posture. Each error illustration should have a clear red 'X' mark.
+*   **Panel 1: 錯誤：身體前傾 (Error: Body Leaning Forward)**
+    *   **Illustration:** Patient in the starting position, but the entire torso is noticeably rotated or leaning forward towards the floor, breaking the perfect side-lying alignment. The pelvis and chest are not stacked vertically.
+    *   **Text Annotation:** 「錯誤：身體未維持側躺，往前趴向地板。」
+
+*   **Panel 2: 錯誤：手肘角度跑掉 (Error: Incorrect Elbow Angle)**
+    *   **Illustration:** Patient in the stretch position, but the '患側' elbow is clearly *not* at 90 degrees. Show one example where the elbow is significantly *greater* than 90 degrees (straighter arm) and another where it's significantly *less* than 90 degrees (bent more sharply). Use red lines to highlight the incorrect angles.
+    *   **Text Annotation:** 「錯誤：手肘角度跑掉（大於或小於90度）。」
+
+**General Instructions for Visuals:**
+*   Use simple, clear arrows (straight for pressure/direction, curved for rotation) to indicate movement and force.
+*   Maintain anatomical accuracy for all joint positions and muscle stretches.
+*   Ensure high contrast between all visual elements and the background, suitable for both digital display and print.
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

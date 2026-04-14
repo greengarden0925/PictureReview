@@ -1,0 +1,79 @@
+生成一張專業醫療教育風格的復健動作說明圖（infographic），主題為「旋轉肌腱炎復健系列：牆壁伏地挺身 (Wall Push-Up)」。
+
+**圖片整體風格與排版要求：**
+*   採用清晰、易懂的專業醫療插畫風格，人物姿勢精準符合醫學標準，但不過於寫實，便於理解。
+*   版面需簡潔明瞭，區塊劃分清晰，方便閱讀。
+*   顏色對比明顯，適合印刷及數位顯示，確保資訊的易讀性。
+*   使用繁體中文進行所有文字標註，無拼寫錯誤。
+
+**內容細節要求：**
+
+**主標題：**
+「旋轉肌腱炎復健系列：牆壁伏地挺身 (Wall Push-Up)」
+
+**資訊區塊一：目標與設備**
+*   **標題：** 運動目標
+*   **內文：** 強化旋轉肌群，改善肩胛節律。
+*   **標題：** 運動目的
+*   **內文：** 在低負載下訓練前鋸肌與胸肌，建立正確的肩胛骨推動模式。
+*   **標題：** 建議設備
+*   **內文：** 牆壁
+
+**資訊區塊二：起始位置**
+*   **圖像：** 繪製一個標準的起始姿勢人物，面牆站立，雙手與肩同寬按在牆上，手掌高度約與胸口同高。身體挺直，雙腳略微後退以保持穩定。
+*   **文字標註：** 「起始位置：面牆站立，雙手與肩同寬按在牆上，高度約與胸口同高。」
+
+**資訊區塊三：動作步驟與正確/錯誤對比**
+
+**步驟一：身體下放**
+*   **分區標題：** 步驟一：身體靠近牆壁
+*   **左側（正確動作）：**
+    *   **圖像：** 人物身體緩慢靠近牆壁，手肘彎曲，肘關節向內略微夾角約45度，而不是向外張開。從側面和背面分別描繪，強調手肘角度。肩膀保持穩定，沒有聳起。
+    *   **簡潔圖示：** 用綠色勾號標示為「正確動作」。
+    *   **箭頭標示：** 綠色實線箭頭指示身體向牆壁移動方向，手肘彎曲方向。
+    *   **文字標註：** 「身體慢慢靠近牆壁，手肘彎曲。過程中肩膀肌肉收縮（夾緊）固定，不應聳起。」
+*   **右側（錯誤動作）：**
+    *   **圖像：** 人物身體靠近牆壁，手肘向外展角度過大（明顯超過45度，接近90度），肩膀可能聳起。從背面角度尤其要清楚展示手肘外展。
+    *   **簡潔圖示：** 用紅色叉號標示為「錯誤動作」。
+    *   **箭頭標示：** 紅色虛線箭頭指示身體向牆壁移動方向，手肘向外錯誤彎曲方向。
+    *   **文字標註：** 「手肘向外展角度過大（應略微夾角45度）。」
+
+**步驟二：推回與肩胛前旋**
+*   **分區標題：** 步驟二：推回原位並訓練前鋸肌
+*   **左側（正確動作）：**
+    *   **圖像：** 人物用力推牆將身體撐回起始位置，然後再多推一下，讓上背部略微拱起，肩胛骨向前旋轉（即肩胛骨離開脊柱，形成「圓背」的感覺，但非駝背）。此時手臂完全伸直。
+    *   **簡潔圖示：** 用綠色勾號標示為「正確動作」。
+    *   **箭頭標示：** 綠色實線箭頭指示身體從牆壁推離方向，以及肩胛骨向前旋轉的動作（例如用弧形箭頭標示肩胛骨周圍）。
+    *   **文字標註：** 「用力推牆將身體撐回原位，並在最後多推一下，讓背部拱起（肩胛骨前旋）。此『多推一下』是為了訓練前鋸肌，穩定肩胛骨。」
+*   **右側（錯誤動作）：**
+    *   **圖像：** 人物推回原位時，只有手臂用力伸直，背部保持平坦，肩胛骨沒有額外的向前旋轉或拱背動作。
+    *   **簡潔圖示：** 用紅色叉號標示為「錯誤動作」。
+    *   **箭頭標示：** 紅色虛線箭頭僅指示身體從牆壁推離方向，但無肩胛骨動作的箭頭。
+    *   **文字標註：** 「只有手臂用力，背部沒有動，未能有效訓練前鋸肌。」
+
+**整體視覺要求：**
+*   所有文字標註需清晰易讀，字體大小適中。
+*   使用簡潔的圖示（如綠色勾號、紅色叉號）和箭頭標示動作方向與重點。
+*   顏色對比需明顯，尤其在正確與錯誤動作的區分上。
+*   確保醫學術語使用正確，動作姿勢符合復健醫學標準。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

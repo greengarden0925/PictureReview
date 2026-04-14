@@ -1,0 +1,77 @@
+專業醫療教育風格的復健動作說明圖 (infographic)，清晰易懂，高解析度，適合印刷和數位顯示。
+
+**主要標題：**
+置於圖頂部，字體醒目，繁體中文，無拼寫錯誤：
+「脊椎側彎復健動作：嬰兒式伸展 (Child's Pose)」
+
+**目標與設備區塊：**
+緊隨主標題下方，簡潔明瞭：
+*   **目的：** 溫和伸展整條脊椎與背部肌肉，放鬆緊繃的腰背。
+*   **適用對象：** 脊椎側彎患者（及其它需要背部伸展者）
+*   **設備：** 瑜珈墊
+
+**整體視覺風格：**
+*   **人物：** 簡潔、中性、解剖學上準確的人體線稿或平面設計風格人物，無過多細節，專注於姿勢。
+*   **背景：** 簡潔的淺色背景，無干擾元素。
+*   **顏色：** 專業醫療色調（例如：淺藍、深藍、綠、灰、白），高對比度。正確動作使用綠色標示或箭頭，錯誤動作使用紅色標示或紅色X號。
+*   **文字：** 所有標註文字均為繁體中文，使用清晰易讀的無襯線字體。
+
+**動作步驟說明（分區塊呈現）：**
+
+**區塊一：起始姿勢與核心動作**
+*   **圖示：** 
+    *   **正確動作 (大圖)：** 描繪一人跪姿於瑜珈墊上，臀部坐於腳跟上，雙膝微微打開。上半身緩慢向前趴下，額頭輕觸地面。身體線條流暢，背部保持伸展而非拱起。
+    *   **錯誤動作 (小圖，位於正確動作下方或右側)：** 描繪臀部明顯抬離腳跟，身體重心前移，未能有效固定下半身的錯誤姿勢。
+*   **文字標註：**
+    *   **正確動作：**
+        *   「步驟 1：採跪姿，臀部坐在腳跟上。雙膝微微打開，上半身慢慢向前趴下，額頭輕觸地面。」
+        *   **【重點】** 「臀部盡量不離開腳跟。」
+    *   **錯誤動作：** 「錯誤：臀部翹太高。」
+
+**區塊二：手臂延伸與側彎調整**
+*   **圖示：**
+    *   **正確動作 (大圖)：** 在區塊一的正確姿勢基礎上，描繪雙手在前方地面盡量向前延伸，手指微張似爬行狀，拉長背部。背部線條明顯拉伸，肩膀放鬆不聳起。
+    *   **輔助圖示 (用於脊椎側彎患者)：** 可在主要正確動作圖旁，以簡潔的箭頭或虛線指示，輔助說明雙手可往特定方向移動以加強伸展，並附註文字提醒。
+    *   **錯誤動作 (小圖)：** 描繪肩膀明顯聳起，壓迫頸部的錯誤姿勢。頸部線條顯得緊繃。
+*   **文字標註：**
+    *   **正確動作：**
+        *   「步驟 2：雙手盡量向前延伸，手指像在爬行一樣往前，拉長背部。」
+        *   **【側彎患者特別提醒】** 「側彎患者可將雙手稍微往『凸側』方向爬，以伸展凹側（需諮詢治療師確認方向）。」
+    *   **錯誤動作：** 「錯誤：肩膀聳起壓迫頸部。」
+
+**區塊三：呼吸與維持**
+*   **圖示：**
+    *   **正確動作 (大圖)：** 描繪維持區塊二的正確姿勢。人物背部可加入輕微的起伏動態線條或簡潔的肺部呼吸示意圖（吸氣箭頭指向背部），表示深呼吸。配以一個計時器圖示或數字顯示時間。
+    *   **錯誤動作 (小圖)：** 以簡潔的圖示（例如：短促的箭頭進出肺部）表示呼吸短促，或人物面部表情顯示緊張。
+*   **文字標註：**
+    *   **正確動作：**
+        *   「步驟 3：保持深呼吸，感受背部隨著呼吸起伏，停留30-60秒。」
+        *   **【重點】** 「將氣吸到背部。」
+    *   **錯誤動作：** 「錯誤：呼吸短促。」
+
+**整體設計要求：**
+*   所有動作姿勢必須準確，符合醫學標準。
+*   使用簡潔的圖示和箭頭（如綠色向上箭頭表示伸展方向，紅色X表示錯誤）標示動作方向和錯誤點。
+*   顏色對比明顯，確保文字清晰可讀，圖示易於辨識。
+*   圖示之間保持足夠的留白，整體排版整潔專業。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

@@ -1,0 +1,63 @@
+生成一張專業醫療教育風格的復健動作說明圖（infographic），主題為「夾球微蹲」，旨在強化股內側肌（VMO）及矯正髕骨軌跡。圖片需清晰易懂，色彩對比鮮明，適合印刷及數位顯示。所有文字標註皆使用繁體中文，無拼寫錯誤。
+
+**圖片整體佈局：**
+圖片上方為醒目主標題與副標題，下方則清晰分為左右兩大區塊：「正確動作」與「錯誤動作」。每個區塊皆包含詳盡的動作描繪、文字標註、圖示與方向箭頭。
+
+**主標題與副標題：**
+*   **主標題：【髕股軟化症復健】夾球微蹲 (Adductor Squeeze Wall Squat)**
+*   **副標題：目的：強化股內側肌（VMO），矯正髕骨軌跡。**
+
+**左側區塊：【正確動作】**
+*   **區塊標題：正確動作**
+*   **器材顯示：** 在此區塊上方或側邊，以簡潔圖示呈現所需器材：一個直徑約10-15公分的小球（或毛巾捲），以及一面平坦的牆壁。
+*   **人物描繪：** 描繪一位中性、姿勢準確的醫療插畫人物，側身背靠牆站立。
+    *   **起始準備：** 人物背部完全貼合牆壁，軀幹挺直，核心微收。雙腳打開與肩同寬，腳尖朝前，雙膝間夾一個小球。膝蓋彎曲呈微蹲姿勢（大腿與地面約呈45-60度角），確保膝蓋與腳踝對齊，不超過腳尖，小腿與地面垂直。雙手自然放鬆置於身體兩側或交叉於胸前。
+    *   **動作執行：** 在維持起始微蹲姿勢不變的同時，雙膝用力向內夾緊球，強調感受大腿內側（股內側肌VMO）的明顯收縮。球體應被穩定地夾緊，不能鬆脫。
+*   **文字標註：**
+    *   **起始姿勢：** 背靠牆微蹲，雙膝中間夾一顆球。核心收緊，膝蓋對準腳尖。
+    *   **動作要點：** 雙膝用力夾緊球，感受股內側肌收縮。夾球力量不能掉，維持微蹲姿勢不變。
+    *   **目標肌肉：** 在大腿內側（股內側肌）位置用亮色區塊凸顯並標註「VMO」。
+*   **圖示與箭頭：**
+    *   在球體處用粗實線綠色箭頭表示向內夾緊的方向和力量。
+    *   在膝蓋處用綠色虛線箭頭標示膝蓋應保持穩定，不向內或向外晃動。
+    *   在背部和牆壁之間用細線表示緊密貼合。
+
+**右側區塊：【錯誤動作】**
+*   **區塊標題：錯誤動作**
+*   **人物描繪：** 描繪另一位中性醫療插畫人物，以對比方式呈現常見錯誤。
+    *   **錯誤一：未用力夾球：** 人物進行微蹲，但雙膝間的小球明顯鬆脫或未夾緊，甚至掉落，大腿內側肌肉無收縮跡象。
+    *   **錯誤二：姿勢不良：** 膝蓋過度前傾（明顯超越腳尖），或背部弓起未能緊貼牆壁，身體姿態不穩定。
+*   **文字標註：**
+    *   **錯誤一：** 球未用力夾緊或掉落。股內側肌無法有效訓練。
+    *   **錯誤二：** 膝蓋過度前傾或背部離牆。易造成髕骨壓力，甚至膝蓋受傷。
+*   **圖示與箭頭：**
+    *   在球體位置用紅色叉號（X）或紅色虛線箭頭表示夾緊力量不足或球體鬆脫。
+    *   在膝蓋處用紅色實線箭頭指向膝蓋超出腳尖的方向，並在背部離牆處用紅色波浪線表示。
+
+**整體視覺風格：**
+*   專業醫療教育風格，線條簡潔、扁平化設計。
+*   色彩對比鮮明，正確動作部分以綠色或藍色系為主調，錯誤動作部分以紅色或警示色系為主調。
+*   背景簡潔，無雜亂元素，僅突出人物與動作，避免分散注意力。
+*   所有文字清晰易讀，標題使用較大、粗體字，說明文字大小適中，符合印刷和數位顯示要求。
+*   動作姿勢需準確，符合醫學復健標準。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.
