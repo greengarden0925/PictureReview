@@ -25,8 +25,16 @@ COPY --from=builder /app/public ./public
 COPY --from=builder /app/.next/standalone ./
 COPY --from=builder /app/.next/static ./.next/static
 
+# 將 data/ 下的設定檔打包為預設值；entrypoint 在 volume 缺檔時自動複製
+COPY --from=builder /app/data/survey.json /app/defaults/survey.json
+COPY --from=builder /app/data/assignment.json /app/defaults/assignment.json
+
+COPY docker-entrypoint.sh /usr/local/bin/docker-entrypoint.sh
+RUN chmod +x /usr/local/bin/docker-entrypoint.sh
+
 RUN mkdir -p /data/output
 
 # 以 root 執行，避免 bind mount 到 /data 時權限無法寫入（自架常見情境）
 EXPOSE 3000
+ENTRYPOINT ["docker-entrypoint.sh"]
 CMD ["node", "server.js"]
