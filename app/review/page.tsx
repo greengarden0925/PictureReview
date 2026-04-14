@@ -492,6 +492,7 @@ export default function ReviewPage() {
                 label="A圖（原始圖）"
                 groupKey={current.groupKey}
                 imageKey="A"
+                reviewerName={reviewerName}
               />
             </div>
 
@@ -516,6 +517,7 @@ export default function ReviewPage() {
                 label="B圖（最後一版圖）"
                 groupKey={current.groupKey}
                 imageKey="B"
+                reviewerName={reviewerName}
               />
             </div>
           </div>

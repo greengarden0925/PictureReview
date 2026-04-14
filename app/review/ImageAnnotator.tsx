@@ -102,11 +102,13 @@ export function ImageAnnotator({
   label,
   groupKey,
   imageKey,
+  reviewerName,
 }: {
   src: string | null;
   label: string;
   groupKey: string;
   imageKey: "A" | "B";
+  reviewerName: string | null;
 }) {
   const [open, setOpen] = useState(false);
   const [tool, setTool] = useState<ToolType>("circle");
@@ -115,6 +117,7 @@ export function ImageAnnotator({
   const [strokes, setStrokes] = useState<AStroke[]>([]);
   const [preview, setPreview] = useState<AStroke | null>(null);
   const [naturalSize, setNaturalSize] = useState({ w: 1200, h: 900 });
+  const [uploadStatus, setUploadStatus] = useState<"idle" | "uploading" | "done" | "error">("idle");
 
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const isDrawingRef = useRef(false);
@@ -204,32 +207,24 @@ export function ImageAnnotator({
     setPreview(null);
   }
 
-  async function saveAnnotated() {
-    if (!src || strokes.length === 0) return;
+  async function buildCompositeCanvas(): Promise<HTMLCanvasElement> {
     const { w: natW, h: natH } = naturalSize;
-
-    // Draw original image
     const imgEl = new window.Image();
-    await new Promise<void>((res) => {
-      imgEl.onload = () => res();
-      imgEl.src = src;
-    });
-
-    // Composite canvas: image + annotations
+    await new Promise<void>((res) => { imgEl.onload = () => res(); imgEl.src = src!; });
     const out = document.createElement("canvas");
-    out.width = natW;
-    out.height = natH;
+    out.width = natW; out.height = natH;
     const ctx = out.getContext("2d")!;
     ctx.drawImage(imgEl, 0, 0, natW, natH);
-
-    // Render annotations onto a separate transparent canvas then composite
     const annoCanvas = document.createElement("canvas");
-    annoCanvas.width = natW;
-    annoCanvas.height = natH;
-    const annoCtx = annoCanvas.getContext("2d")!;
-    renderStrokes(annoCtx, strokes, natW, natH);
+    annoCanvas.width = natW; annoCanvas.height = natH;
+    renderStrokes(annoCanvas.getContext("2d")!, strokes, natW, natH);
     ctx.drawImage(annoCanvas, 0, 0);
+    return out;
+  }
 
+  async function saveAnnotated() {
+    if (!src || strokes.length === 0) return;
+    const out = await buildCompositeCanvas();
     out.toBlob((blob) => {
       if (!blob) return;
       const url = URL.createObjectURL(blob);
@@ -239,6 +234,23 @@ export function ImageAnnotator({
       a.click();
       URL.revokeObjectURL(url);
     }, "image/png");
+  }
+
+  async function uploadAnnotated() {
+    if (!src || strokes.length === 0 || !reviewerName) return;
+    setUploadStatus("uploading");
+    try {
+      const out = await buildCompositeCanvas();
+      const imageData = out.toDataURL("image/png");
+      const res = await fetch("/api/annotations", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ reviewerName, groupKey, imageKey, imageData }),
+      });
+      setUploadStatus(res.ok ? "done" : "error");
+    } catch {
+      setUploadStatus("error");
+    }
   }
 
   if (!src) return null;
@@ -354,8 +366,24 @@ export function ImageAnnotator({
                 disabled={strokes.length === 0}
                 className="rounded bg-[var(--accent)] px-3 py-1 text-xs font-medium text-white disabled:opacity-30"
               >
-                儲存標記圖片
+                下載標記圖片
               </button>
+              {reviewerName && (
+                <button
+                  type="button"
+                  onClick={uploadAnnotated}
+                  disabled={strokes.length === 0 || uploadStatus === "uploading"}
+                  className="rounded border border-[var(--border)] px-3 py-1 text-xs disabled:opacity-30"
+                >
+                  {uploadStatus === "uploading"
+                    ? "上傳中…"
+                    : uploadStatus === "done"
+                    ? "✓ 已上傳"
+                    : uploadStatus === "error"
+                    ? "✗ 失敗"
+                    : "上傳至後台"}
+                </button>
+              )}
             </div>
           </div>
 
