@@ -1,0 +1,66 @@
+生成一個專業醫療教育風格的資訊圖表，清晰易懂，用於說明「手腕環繞(Wrist Circles)」復健動作。圖片應具備高清晰度，色彩對比明顯，適合印刷及數位顯示。
+
+**資訊圖表整體佈局：**
+採用清晰、結構化的區塊設計，從上到下或從左到右，依序包含標題、目標、器材、預備姿勢、動作分解（正確示範），以及一個顯眼的正確與錯誤動作對比區塊。背景簡潔，無雜亂元素。
+
+**文字標註（繁體中文，無拼寫錯誤）：**
+
+1.  **頂部標題區塊：**
+    *   主要標題（大而粗）：**手腕環繞 (Wrist Circles)**
+    *   下方次要標題：**目標：促進腕部血液循環**
+    *   下方器材說明：**器材：無**
+
+2.  **預備姿勢區塊：**
+    *   描繪一個醫學上準確的，上半身及手臂可見的性別中立人物。人物雙手應明確地呈現「**雙手握拳**」的姿勢，手臂自然垂放或輕微彎曲於胸前。
+    *   文字標註：**預備姿勢：雙手握拳**
+
+3.  **動作分解區塊（正確動作示範）：**
+    *   在預備姿勢下方，展示兩幅連續的圖示，示範正確的動作過程。
+    *   **動作分解圖示一：** 顯示雙手保持握拳狀態，手腕緩慢地向內轉動。使用流暢的圓弧箭頭明確指示手腕的內旋方向。
+    *   **動作分解圖示二：** 顯示雙手保持握拳狀態，手腕緩慢地向外轉動。使用流暢的圓弧箭頭明確指示手腕的外旋方向。
+    *   文字標註：
+        *   **動作分解：**
+        *   **步驟一：緩慢地向內轉動手腕。**
+        *   **步驟二：緩慢地向外轉動手腕。**
+    *   下方補充動作概念：**重點：動作輕柔，不需用力。**
+
+4.  **正確與錯誤動作對比區塊：**
+    *   將此區塊設置為並排顯示，左側為「正確動作」，右側為「錯誤動作」，兩者之間有明確分隔線或空間。
+    *   **左側 - 正確動作：**
+        *   描繪一個人物以放鬆、控制的方式，流暢地進行手腕環繞（可選擇單一代表性姿勢，或小型動畫式序列圖）。手腕區域可加入淺綠色光暈或打勾符號。
+        *   使用平滑、連續的圓弧箭頭指示動作方向，強調其輕柔與連貫性。
+        *   文字標註（粗體）：**正確動作**
+        *   文字說明：**(動作輕柔，不需用力)**
+    *   **右側 - 錯誤動作：**
+        *   描繪一個人物以僵硬、用力過猛或不連貫的方式進行手腕環繞。人物前臂可能略顯緊繃，手腕動作可能不流暢或角度過大/過小。手腕區域可加入紅色光暈或打叉符號。
+        *   使用不規則、斷續或鋸齒狀的箭頭指示動作方向，強調其不流暢或用力不當。
+        *   文字標註（粗體）：**錯誤動作**
+        *   文字說明：**(用力過猛 / 動作僵硬)**
+
+**視覺風格與細節要求：**
+
+*   **人物繪製：** 採用清晰、簡潔的線條繪製人物，姿勢準確，符合人體工學及醫學標準。避免過於卡通化，應呈現專業的醫療插畫風格。
+*   **箭頭與圖示：** 使用簡潔、直觀的箭頭來指示動作方向和旋轉。正確動作使用綠色或藍色系箭頭，錯誤動作使用紅色或橙色系箭頭。可使用打勾符號（綠色）表示正確，打叉符號（紅色）表示錯誤。
+*   **色彩運用：** 採用專業、沉穩且對比鮮明的色彩方案。例如，使用清爽的藍色、綠色或灰色作為主色調，搭配黑色或深灰色文字。正確動作相關元素使用暖色調（如綠色），錯誤動作相關元素使用警示色調（如紅色），以快速區分。
+*   **文字排版：** 所有繁體中文文字標註應清晰易讀，字體大小適中，排版整齊，避免擁擠。關鍵詞和標題使用粗體強調。
+
+[Fixed Style Requirements]
+Strictly follow the requirements below to keep the image style consistent across all generations and refinements:
+
+1. **Overall style**: Professional medical education style; clear, easy to understand, suitable for clinical/rehabilitation education materials.
+2. **Visual presentation**:
+   - Use concise icons and arrows to indicate movement directions.
+   - High-contrast colors suitable for both print and digital viewing.
+   - Clean, minimal background that does not distract from the main content.
+3. **Text labels**:
+   - Use Traditional Chinese, with no spelling mistakes.
+   - Text must be crisp and readable, with appropriate font size.
+   - Medical terminology must be accurate.
+4. **Movement depiction**:
+   - Postures must be anatomically correct and conform to medical standards.
+   - Include a side-by-side comparison of correct vs. incorrect execution when applicable.
+   - Break down the movement into clear steps that are easy to follow.
+5. **Overall quality**:
+   - Maintain a unified visual style throughout the image.
+   - Ensure all visual elements are cohesive and consistent.
+   - Suitable for use in medical education materials.

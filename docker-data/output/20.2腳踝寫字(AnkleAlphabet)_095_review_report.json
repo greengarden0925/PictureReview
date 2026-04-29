@@ -1,0 +1,34 @@
+{
+  "total_iterations": 1,
+  "final_passed": true,
+  "reviews": [
+    {
+      "passed": true,
+      "content_match": {
+        "score": 100,
+        "issues": []
+      },
+      "text_accuracy": {
+        "score": 100,
+        "errors": []
+      },
+      "visual_correctness": {
+        "score": 100,
+        "issues": []
+      },
+      "overall_quality": {
+        "score": 100,
+        "comments": [
+          "圖片整體風格專業，符合醫療教育用途。",
+          "視覺佈局清晰，引導讀者視線流暢。",
+          "色彩運用得當，高對比度有利於內容傳達。",
+          "醫學準確性高，動作描述符合復健標準。"
+        ]
+      },
+      "recommendations": [],
+      "summary": "這張復健動作說明圖片完全符合原始要求。從標題、設備資訊、動作示範（正確與錯誤對比）、文字標註到整體風格，每個細節都精準地達成了要求。圖片清晰易懂，具有專業醫療教育水準，非常適合印刷和數位顯示。",
+      "iteration": 1,
+      "image_path": "output\\20.2腳踝寫字(AnkleAlphabet)_095_v1.jpg"
+    }
+  ]
+}
